@@ -1,0 +1,6 @@
+#ifndef ARTICLESDD_H_INCLUDED
+#define ARTICLESDD_H_INCLUDED
+
+#include "ARTICLE.h"
+
+#endif // ARTICLESDD_H_INCLUDED

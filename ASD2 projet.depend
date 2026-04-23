@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1774375151 source:c:\users\kevin\documents\codeblocks 25.03\asd2 projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1774386412 source:c:\users\kevin\documents\codeblocks 25.03\asd2 projet\lstprim.c
+
+1774386412 source:c:\users\kevin\onedrive\desktop\projet\s2\asd2 projet\lstprim.c
+
+1776550547 source:c:\users\kevin\asd-2\lstprim.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTPRIM.H"
+
+1775343011 c:\users\kevin\asd-2\lstprim.h
+	"ELTARTICLE.h"
+	"LSTSDD.H"
+
+1775687105 c:\users\kevin\asd-2\eltarticle.h
+	"ARTICLESDD.h"
+
+1775343011 c:\users\kevin\asd-2\article.h
+
+1775343011 c:\users\kevin\asd-2\lstsdd.h
+	"LST.h"
+
+1775345400 c:\users\kevin\asd-2\lst.h
+	"ELTARTICLE.h"
+
+1776560508 source:c:\users\kevin\asd-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"ELTARTICLE.h"
+	"LSTPRIM.h"
+	"GRAPHPRIM.h"
+
+1775734617 source:c:\users\kevin\asd-2\eltarticle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"ELTARTICLE.h"
+	"GRAPHPRIM.h"
+
+1775343011 c:\users\kevin\asd-2\articlesdd.h
+	"ARTICLE.h"
+
+1776560508 source:c:\users\kevin\asd-2\graphprim.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"GRAPHPRIM.h"
+	"fakesdb.h"
+
+1776560508 c:\users\kevin\asd-2\graphprim.h
+	"GRAPHSDD.h"
+
+1775384033 c:\users\kevin\asd-2\graphsdd.h
+	"GRAPH.h"
+
+1775384033 c:\users\kevin\asd-2\graph.h
+	"ELTARTICLE.h"
+	"LSTPRIM.h"
+
+1775343011 c:\users\kevin\asd-2\fakesdb.h
+
+1776969719 source:c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\eltarticle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"ELTARTICLE.h"
+	"GRAPHPRIM.h"
+
+1776969719 c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\eltarticle.h
+	"ARTICLESDD.h"
+
+1776969719 c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\articlesdd.h
+	"ARTICLE.h"
+
+1776969719 c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\article.h
+
+1776969719 c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\graphprim.h
+	"GRAPHSDD.h"
+
+1776969719 c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\graphsdd.h
+	"GRAPH.h"
+
+1776969719 c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\graph.h
+	"ELTARTICLE.h"
+	"LSTPRIM.h"
+
+1776969719 c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\lstprim.h
+	"ELTARTICLE.h"
+	"LSTSDD.H"
+
+1776969719 c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\lstsdd.h
+	"LST.h"
+
+1776969719 c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\lst.h
+	"ELTARTICLE.h"
+
+1776969719 source:c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\graphprim.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"GRAPHPRIM.h"
+	"fakesdb.h"
+
+1776969719 c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\fakesdb.h
+
+1776969719 source:c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\lstprim.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTPRIM.H"
+
+1776969719 source:c:\users\mega-pc\desktop\asd2\asd-2-20260423t184033z-3-001\asd-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"ELTARTICLE.h"
+	"LSTPRIM.h"
+	"GRAPHPRIM.h"
+

@@ -1,0 +1,86 @@
+# Format : A id titre source score jour mois annee heure minute
+# C id_src id_dest
+
+A 0 "Rapport_officiel_OMS_securite_vaccins_2025" OMS 92 10 3 2025 6 0
+A 1 "Communique_MinSante_campagne_vaccination_nationale" MinistereSante 90 10 3 2025 6 30
+A 2 "Etude_universitaire_effets_secondaires_vaccins" UniversiteTunis 85 10 3 2025 7 0
+A 3 "Declaration_scientifique_academie_medecine" AcademieMedecine 88 10 3 2025 7 30
+A 4 "Analyse_Kapitalis_bilan_vaccination_premier_trimestre" Kapitalis 72 10 3 2025 8 0
+A 5 "Article_LeTemps_suivi_campagne_sante_publique" LeTemps 75 10 3 2025 8 30
+A 6 "Rapport_independant_effets_vaccins_verifies" JournalIndependant 78 10 3 2025 9 0
+A 7 "Vaccin_cache_dangereux_alerte_secret_choc_urgent" page_TunisieActu 8 10 3 2025 9 30
+A 8 "Ils_vous_cachent_verite_vaccin_gouvernement_complot" BlogAnonymeTN 5 10 3 2025 10 0
+A 9 "Wake_up_secret_interdit_censure_vaccin_choc_alerte" ForumTunisie 7 10 3 2025 10 30
+A 10 "Alerte_exclusive_urgent_vaccin_enfants_danger_choc" Facebook_TN 6 10 3 2025 11 0
+A 11 "Partagez_avant_suppression_urgent_vaccin_secret" Twitter_TN 4 10 3 2025 11 30
+A 12 "Complot_vaccin_secret_gouvernement_choc_urgent_alerte" RTArabic 9 10 3 2025 12 0
+A 13 "Etude_exclusif_OMS_choc_complot_vaccin_urgent_alerte" Mosaique_FM 35 10 3 2025 12 30
+A 14 "Analyse_critique_desinformation_vaccins_reseaux" MediaWatch 70 10 3 2025 13 0
+A 15 "La_verite_sur_vaccins_cachee_interdit_censure_choc" PageFacebook_TN 3 10 3 2025 13 30
+A 16 "Rapport_officiel_suivi_effets_secondaires_vaccins" MinistereSante 89 10 3 2025 14 0
+A 17 "Wake_up_partagez_avant_suppression_interdit_censure" ForumArabophone 2 10 3 2025 14 30
+A 18 "Verification_faits_rumeurs_vaccins_Tunisie_2025" FactCheck_TN 80 10 3 2025 15 0
+A 19 "Alerte_secret_complot_vaccin_interdit_choc_urgent_vrai" PageActu_TN 4 10 3 2025 15 30
+A 20 "Analyse_propagation_desinformation_vaccins_web" UniversiteSfax 77 10 3 2025 16 0
+A 21 "Communique_urgent_rectification_informations_vaccins" MinistereSante 91 10 3 2025 16 30
+A 22 "Ils_vous_cachent_verite_sur_vaccin_complot_secret_choc" BlogDesinformation 3 10 3 2025 17 0
+A 23 "Etude_finale_impact_desinformation_sante_publique" OMS 87 10 3 2025 17 30
+A 24 "Wake_up_alerte_secret_censure_interdit_choc_urgent_vrai" ReseauxSociaux_TN 1 10 3 2025 18 0
+
+# Citations — chaque citant est publie APRES ce qu'il cite
+C 4 0
+C 4 1
+C 4 2
+C 5 0
+C 5 1
+C 5 3
+C 6 2
+C 6 3
+C 7 0
+C 7 1
+C 8 7
+C 8 0
+C 9 7
+C 9 8
+C 10 7
+C 10 9
+C 11 8
+C 11 10
+C 12 7
+C 12 9
+C 12 11
+C 13 2
+C 13 3
+C 14 8
+C 14 9
+C 14 12
+C 15 7
+C 15 8
+C 15 11
+C 16 0
+C 16 1
+C 16 6
+C 17 11
+C 17 15
+C 17 8
+C 18 7
+C 18 8
+C 18 12
+C 19 10
+C 19 12
+C 19 15
+C 20 14
+C 20 18
+C 20 13
+C 21 0
+C 21 1
+C 21 16
+C 22 9
+C 22 17
+C 22 15
+C 23 2
+C 23 6
+C 23 20
+C 24 17
+C 24 22
+C 24 19
