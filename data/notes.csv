@@ -1,0 +1,3001 @@
+note_id,etudiant_id,module,filiere,note,semestre,annee,mention
+1,1,Analyse 1,Mathématiques,17.7,1,2020,Très Bien
+2,1,Topologie,Mathématiques,13.38,1,2020,Assez Bien
+3,1,Probabilités,Mathématiques,7.34,2,2020,Échec
+4,1,Statistiques,Mathématiques,13.4,2,2020,Assez Bien
+5,1,Analyse 1,Mathématiques,9.46,1,2020,Échec
+6,1,Analyse Numérique,Mathématiques,12.28,1,2020,Assez Bien
+7,2,Droit Int.,Droit,5.66,1,2020,Échec
+8,2,Droit Commercial,Droit,7.82,1,2020,Échec
+9,2,Droit Commercial,Droit,11.78,1,2020,Passable
+10,2,Droit Commercial,Droit,7.7,2,2020,Échec
+11,2,Droit Administratif,Droit,6.35,2,2020,Échec
+12,2,Droit Pénal,Droit,14.6,1,2020,Bien
+13,3,Chimie Organique,Chimie,10.85,2,2020,Passable
+14,3,Biochimie,Chimie,3.86,1,2020,Échec
+15,3,Chimie Analytique,Chimie,7.09,2,2020,Échec
+16,3,Chimie Générale,Chimie,3.04,1,2020,Échec
+17,3,Chimie Générale,Chimie,16.04,2,2020,Très Bien
+18,3,Électrochimie,Chimie,12.35,1,2020,Assez Bien
+19,4,Biochimie Méd.,Médecine,12.63,2,2022,Assez Bien
+20,4,Physiologie,Médecine,17.37,2,2022,Très Bien
+21,4,Pathologie,Médecine,12.32,1,2022,Assez Bien
+22,4,Physiologie,Médecine,9.22,2,2022,Échec
+23,4,Physiologie,Médecine,15.48,1,2022,Bien
+24,4,Sémiologie,Médecine,14.93,2,2022,Bien
+25,5,Physiologie,Biologie,7.85,1,2021,Échec
+26,5,Microbiologie,Biologie,9.98,1,2021,Échec
+27,5,Génétique,Biologie,10.29,2,2021,Passable
+28,5,Microbiologie,Biologie,6.43,1,2021,Échec
+29,5,Physiologie,Biologie,9.97,1,2021,Échec
+30,5,Génétique,Biologie,9.48,2,2021,Échec
+31,6,Statistiques,Mathématiques,5.73,2,2022,Échec
+32,6,Analyse Numérique,Mathématiques,12.69,1,2022,Assez Bien
+33,6,Topologie,Mathématiques,4.37,2,2022,Échec
+34,6,Algèbre 1,Mathématiques,8.04,1,2022,Échec
+35,6,Probabilités,Mathématiques,11.07,2,2022,Passable
+36,6,Probabilités,Mathématiques,13.83,2,2022,Assez Bien
+37,7,Droit Pénal,Droit,9.46,2,2020,Échec
+38,7,Droit Administratif,Droit,7.76,2,2020,Échec
+39,7,Droit Commercial,Droit,11.72,1,2020,Passable
+40,7,Droit Pénal,Droit,6.43,1,2020,Échec
+41,7,Droit Commercial,Droit,12.39,1,2020,Assez Bien
+42,7,Droit Commercial,Droit,9.3,1,2020,Échec
+43,8,Pathologie,Médecine,11.69,1,2022,Passable
+44,8,Sémiologie,Médecine,11.35,2,2022,Passable
+45,8,Sémiologie,Médecine,11.25,2,2022,Passable
+46,8,Sémiologie,Médecine,12.06,2,2022,Assez Bien
+47,8,Pathologie,Médecine,11.6,1,2022,Passable
+48,8,Sémiologie,Médecine,7.23,2,2022,Échec
+49,9,Algèbre 1,Mathématiques,6.34,2,2021,Échec
+50,9,Probabilités,Mathématiques,12.05,1,2021,Assez Bien
+51,9,Analyse Numérique,Mathématiques,11.72,1,2021,Passable
+52,9,Topologie,Mathématiques,20.0,1,2021,Très Bien
+53,9,Statistiques,Mathématiques,13.79,1,2021,Assez Bien
+54,9,Analyse Numérique,Mathématiques,15.35,2,2021,Bien
+55,10,Thermodynamique,Physique,17.56,1,2022,Très Bien
+56,10,Mécanique,Physique,12.7,2,2022,Assez Bien
+57,10,Thermodynamique,Physique,11.6,2,2022,Passable
+58,10,Optique,Physique,16.91,2,2022,Très Bien
+59,10,Optique,Physique,11.84,2,2022,Passable
+60,10,Mécanique,Physique,10.23,2,2022,Passable
+61,11,Droit Int.,Droit,10.58,1,2021,Passable
+62,11,Droit Administratif,Droit,16.0,2,2021,Très Bien
+63,11,Droit Commercial,Droit,3.71,1,2021,Échec
+64,11,Procédure Civile,Droit,6.52,2,2021,Échec
+65,11,Droit Administratif,Droit,13.8,2,2021,Assez Bien
+66,11,Droit Commercial,Droit,10.51,2,2021,Passable
+67,12,Topographie,Génie Civil,13.21,1,2020,Assez Bien
+68,12,Matériaux,Génie Civil,2.94,1,2020,Échec
+69,12,Topographie,Génie Civil,11.81,2,2020,Passable
+70,12,Mécanique des Sols,Génie Civil,12.38,1,2020,Assez Bien
+71,12,Mécanique des Sols,Génie Civil,13.99,1,2020,Assez Bien
+72,12,Structures,Génie Civil,15.54,1,2020,Bien
+73,13,Statistiques,Mathématiques,13.39,2,2021,Assez Bien
+74,13,Analyse Numérique,Mathématiques,5.08,2,2021,Échec
+75,13,Statistiques,Mathématiques,11.58,2,2021,Passable
+76,13,Analyse 1,Mathématiques,13.3,1,2021,Assez Bien
+77,13,Analyse 1,Mathématiques,14.72,1,2021,Bien
+78,13,Analyse Numérique,Mathématiques,14.86,1,2021,Bien
+79,14,Énergie,Génie Électrique,12.46,1,2023,Assez Bien
+80,14,Énergie,Génie Électrique,12.92,2,2023,Assez Bien
+81,14,Énergie,Génie Électrique,16.59,2,2023,Très Bien
+82,14,Électronique,Génie Électrique,9.91,1,2023,Échec
+83,14,Signal,Génie Électrique,7.46,2,2023,Échec
+84,14,Électrotechnique,Génie Électrique,8.2,1,2023,Échec
+85,15,Pharmacologie,Médecine,5.26,1,2023,Échec
+86,15,Sémiologie,Médecine,6.79,2,2023,Échec
+87,15,Physiologie,Médecine,10.41,2,2023,Passable
+88,15,Sémiologie,Médecine,7.38,1,2023,Échec
+89,15,Physiologie,Médecine,9.46,1,2023,Échec
+90,15,Physiologie,Médecine,12.48,2,2023,Assez Bien
+91,16,Droit Pénal,Droit,9.03,1,2023,Échec
+92,16,Procédure Civile,Droit,9.46,1,2023,Échec
+93,16,Droit Civil,Droit,8.9,1,2023,Échec
+94,16,Droit Int.,Droit,11.24,2,2023,Passable
+95,16,Procédure Civile,Droit,3.84,2,2023,Échec
+96,16,Droit Pénal,Droit,14.9,2,2023,Bien
+97,17,Signal,Génie Électrique,6.73,1,2020,Échec
+98,17,Signal,Génie Électrique,16.83,1,2020,Très Bien
+99,17,Automatique,Génie Électrique,8.12,1,2020,Échec
+100,17,Automatique,Génie Électrique,11.42,2,2020,Passable
+101,17,Automatique,Génie Électrique,13.35,1,2020,Assez Bien
+102,17,Énergie,Génie Électrique,16.83,1,2020,Très Bien
+103,18,Procédure Civile,Droit,16.83,2,2020,Très Bien
+104,18,Droit Administratif,Droit,11.26,2,2020,Passable
+105,18,Droit Civil,Droit,14.27,2,2020,Bien
+106,18,Droit Commercial,Droit,15.8,2,2020,Bien
+107,18,Procédure Civile,Droit,8.87,2,2020,Échec
+108,18,Droit Pénal,Droit,13.4,2,2020,Assez Bien
+109,19,Topologie,Mathématiques,11.97,2,2022,Passable
+110,19,Topologie,Mathématiques,6.51,2,2022,Échec
+111,19,Probabilités,Mathématiques,16.24,2,2022,Très Bien
+112,19,Analyse Numérique,Mathématiques,10.62,1,2022,Passable
+113,19,Analyse Numérique,Mathématiques,13.12,1,2022,Assez Bien
+114,19,Analyse 1,Mathématiques,12.97,1,2022,Assez Bien
+115,20,Procédure Civile,Droit,8.05,1,2020,Échec
+116,20,Droit Pénal,Droit,13.13,2,2020,Assez Bien
+117,20,Droit Int.,Droit,12.75,1,2020,Assez Bien
+118,20,Droit Administratif,Droit,11.06,2,2020,Passable
+119,20,Droit Civil,Droit,13.61,1,2020,Assez Bien
+120,20,Procédure Civile,Droit,12.11,1,2020,Assez Bien
+121,21,Relativité,Physique,2.37,2,2022,Échec
+122,21,Relativité,Physique,18.67,1,2022,Très Bien
+123,21,Électromagnétisme,Physique,8.26,1,2022,Échec
+124,21,Relativité,Physique,7.68,2,2022,Échec
+125,21,Électromagnétisme,Physique,16.29,1,2022,Très Bien
+126,21,Physique Quantique,Physique,12.13,1,2022,Assez Bien
+127,22,Statistiques Éco,Économie,13.88,1,2020,Assez Bien
+128,22,Macroéconomie,Économie,11.66,1,2020,Passable
+129,22,Comptabilité,Économie,11.69,2,2020,Passable
+130,22,Finance,Économie,7.33,1,2020,Échec
+131,22,Marketing,Économie,17.21,1,2020,Très Bien
+132,22,Marketing,Économie,11.6,2,2020,Passable
+133,23,Biochimie,Chimie,15.27,2,2020,Bien
+134,23,Chimie Analytique,Chimie,3.21,2,2020,Échec
+135,23,Chimie Organique,Chimie,8.93,2,2020,Échec
+136,23,Électrochimie,Chimie,9.37,1,2020,Échec
+137,23,Chimie Analytique,Chimie,13.16,1,2020,Assez Bien
+138,23,Électrochimie,Chimie,15.23,2,2020,Bien
+139,24,Thermodynamique,Physique,17.81,2,2023,Très Bien
+140,24,Physique Quantique,Physique,8.64,2,2023,Échec
+141,24,Relativité,Physique,7.36,2,2023,Échec
+142,24,Électromagnétisme,Physique,12.37,2,2023,Assez Bien
+143,24,Optique,Physique,7.45,1,2023,Échec
+144,24,Optique,Physique,3.25,1,2023,Échec
+145,25,Chimie Analytique,Chimie,16.17,1,2021,Très Bien
+146,25,Biochimie,Chimie,13.33,1,2021,Assez Bien
+147,25,Chimie Analytique,Chimie,7.82,1,2021,Échec
+148,25,Biochimie,Chimie,12.95,2,2021,Assez Bien
+149,25,Chimie Organique,Chimie,10.06,2,2021,Passable
+150,25,Chimie Générale,Chimie,14.93,1,2021,Bien
+151,26,Statistiques,Mathématiques,9.9,2,2021,Échec
+152,26,Algèbre 1,Mathématiques,13.59,1,2021,Assez Bien
+153,26,Statistiques,Mathématiques,10.76,1,2021,Passable
+154,26,Probabilités,Mathématiques,8.08,1,2021,Échec
+155,26,Algèbre 1,Mathématiques,11.89,2,2021,Passable
+156,26,Algèbre 1,Mathématiques,13.9,1,2021,Assez Bien
+157,27,Anatomie,Médecine,16.26,2,2021,Très Bien
+158,27,Sémiologie,Médecine,8.11,1,2021,Échec
+159,27,Sémiologie,Médecine,18.5,2,2021,Très Bien
+160,27,Sémiologie,Médecine,8.97,2,2021,Échec
+161,27,Pharmacologie,Médecine,17.62,2,2021,Très Bien
+162,27,Pharmacologie,Médecine,6.07,1,2021,Échec
+163,28,Matériaux,Génie Civil,10.46,1,2020,Passable
+164,28,Béton Armé,Génie Civil,13.78,2,2020,Assez Bien
+165,28,Topographie,Génie Civil,11.96,2,2020,Passable
+166,28,Topographie,Génie Civil,10.62,1,2020,Passable
+167,28,Topographie,Génie Civil,17.12,2,2020,Très Bien
+168,28,Hydraulique,Génie Civil,10.09,1,2020,Passable
+169,29,Anatomie,Médecine,9.21,1,2023,Échec
+170,29,Biochimie Méd.,Médecine,7.53,2,2023,Échec
+171,29,Sémiologie,Médecine,12.66,2,2023,Assez Bien
+172,29,Physiologie,Médecine,9.04,2,2023,Échec
+173,29,Pharmacologie,Médecine,14.54,1,2023,Bien
+174,29,Pharmacologie,Médecine,10.06,2,2023,Passable
+175,30,Algèbre 1,Mathématiques,5.16,2,2023,Échec
+176,30,Statistiques,Mathématiques,14.25,2,2023,Bien
+177,30,Statistiques,Mathématiques,11.9,1,2023,Passable
+178,30,Analyse 1,Mathématiques,12.92,2,2023,Assez Bien
+179,30,Algèbre 1,Mathématiques,3.59,1,2023,Échec
+180,30,Algèbre 1,Mathématiques,8.32,1,2023,Échec
+181,31,Réseaux,Informatique,11.85,2,2023,Passable
+182,31,Programmation C,Informatique,8.66,2,2023,Échec
+183,31,Réseaux,Informatique,9.41,1,2023,Échec
+184,31,Réseaux,Informatique,15.89,1,2023,Bien
+185,31,IA,Informatique,12.44,2,2023,Assez Bien
+186,31,Réseaux,Informatique,13.38,1,2023,Assez Bien
+187,32,Droit Administratif,Droit,10.89,2,2023,Passable
+188,32,Procédure Civile,Droit,7.9,2,2023,Échec
+189,32,Droit Commercial,Droit,13.02,1,2023,Assez Bien
+190,32,Procédure Civile,Droit,11.25,1,2023,Passable
+191,32,Droit Commercial,Droit,7.33,2,2023,Échec
+192,32,Droit Int.,Droit,15.72,2,2023,Bien
+193,33,Analyse 1,Mathématiques,8.59,1,2023,Échec
+194,33,Algèbre 1,Mathématiques,13.23,2,2023,Assez Bien
+195,33,Statistiques,Mathématiques,7.46,1,2023,Échec
+196,33,Analyse 1,Mathématiques,7.17,1,2023,Échec
+197,33,Probabilités,Mathématiques,11.48,2,2023,Passable
+198,33,Analyse Numérique,Mathématiques,14.46,2,2023,Bien
+199,34,Topologie,Mathématiques,9.04,2,2021,Échec
+200,34,Probabilités,Mathématiques,8.49,2,2021,Échec
+201,34,Statistiques,Mathématiques,14.9,1,2021,Bien
+202,34,Analyse Numérique,Mathématiques,17.81,1,2021,Très Bien
+203,34,Analyse Numérique,Mathématiques,10.93,1,2021,Passable
+204,34,Algèbre 1,Mathématiques,17.6,1,2021,Très Bien
+205,35,Réseaux,Informatique,12.16,2,2021,Assez Bien
+206,35,Systèmes d'exploitation,Informatique,11.88,1,2021,Passable
+207,35,Algorithmique,Informatique,11.64,1,2021,Passable
+208,35,Algorithmique,Informatique,6.17,2,2021,Échec
+209,35,Systèmes d'exploitation,Informatique,14.27,2,2021,Bien
+210,35,Bases de Données,Informatique,15.83,1,2021,Bien
+211,36,Électrotechnique,Génie Électrique,10.66,1,2023,Passable
+212,36,Électrotechnique,Génie Électrique,6.68,1,2023,Échec
+213,36,Électronique,Génie Électrique,14.67,2,2023,Bien
+214,36,Signal,Génie Électrique,11.82,2,2023,Passable
+215,36,Énergie,Génie Électrique,15.63,1,2023,Bien
+216,36,Télécoms,Génie Électrique,8.99,1,2023,Échec
+217,37,Matériaux,Génie Civil,6.38,2,2020,Échec
+218,37,Matériaux,Génie Civil,7.75,2,2020,Échec
+219,37,Hydraulique,Génie Civil,8.15,1,2020,Échec
+220,37,Topographie,Génie Civil,11.33,2,2020,Passable
+221,37,Hydraulique,Génie Civil,9.02,1,2020,Échec
+222,37,Béton Armé,Génie Civil,12.22,1,2020,Assez Bien
+223,38,Bases de Données,Informatique,9.87,2,2020,Échec
+224,38,Réseaux,Informatique,15.82,2,2020,Bien
+225,38,Algorithmique,Informatique,11.71,1,2020,Passable
+226,38,Algorithmique,Informatique,3.88,2,2020,Échec
+227,38,Programmation C,Informatique,6.64,2,2020,Échec
+228,38,Programmation C,Informatique,13.7,1,2020,Assez Bien
+229,39,Analyse Numérique,Mathématiques,10.68,2,2021,Passable
+230,39,Algèbre 1,Mathématiques,7.04,2,2021,Échec
+231,39,Analyse 1,Mathématiques,8.39,2,2021,Échec
+232,39,Probabilités,Mathématiques,12.39,2,2021,Assez Bien
+233,39,Statistiques,Mathématiques,11.57,1,2021,Passable
+234,39,Probabilités,Mathématiques,12.39,1,2021,Assez Bien
+235,40,Physiologie,Biologie,6.78,2,2021,Échec
+236,40,Génétique,Biologie,12.22,2,2021,Assez Bien
+237,40,Biologie Cellulaire,Biologie,17.1,1,2021,Très Bien
+238,40,Génétique,Biologie,19.64,1,2021,Très Bien
+239,40,Microbiologie,Biologie,10.24,1,2021,Passable
+240,40,Génétique,Biologie,17.29,1,2021,Très Bien
+241,41,Électromagnétisme,Physique,13.79,2,2022,Assez Bien
+242,41,Thermodynamique,Physique,11.26,2,2022,Passable
+243,41,Thermodynamique,Physique,4.1,2,2022,Échec
+244,41,Mécanique,Physique,12.6,1,2022,Assez Bien
+245,41,Mécanique,Physique,10.59,2,2022,Passable
+246,41,Électromagnétisme,Physique,14.97,1,2022,Bien
+247,42,Probabilités,Mathématiques,14.08,1,2021,Bien
+248,42,Analyse Numérique,Mathématiques,4.15,1,2021,Échec
+249,42,Statistiques,Mathématiques,11.58,1,2021,Passable
+250,42,Algèbre 1,Mathématiques,6.71,2,2021,Échec
+251,42,Analyse Numérique,Mathématiques,11.64,1,2021,Passable
+252,42,Statistiques,Mathématiques,6.19,2,2021,Échec
+253,43,Structures,Génie Civil,20.0,1,2022,Très Bien
+254,43,Structures,Génie Civil,8.74,1,2022,Échec
+255,43,Structures,Génie Civil,15.48,2,2022,Bien
+256,43,Topographie,Génie Civil,9.14,2,2022,Échec
+257,43,Mécanique des Sols,Génie Civil,10.16,1,2022,Passable
+258,43,Béton Armé,Génie Civil,12.01,1,2022,Assez Bien
+259,44,Droit Int.,Droit,10.36,2,2022,Passable
+260,44,Procédure Civile,Droit,11.28,1,2022,Passable
+261,44,Droit Administratif,Droit,11.13,1,2022,Passable
+262,44,Procédure Civile,Droit,10.48,2,2022,Passable
+263,44,Droit Int.,Droit,7.83,1,2022,Échec
+264,44,Droit Pénal,Droit,8.81,1,2022,Échec
+265,45,Statistiques,Mathématiques,15.66,1,2021,Bien
+266,45,Analyse 1,Mathématiques,14.02,2,2021,Bien
+267,45,Analyse Numérique,Mathématiques,13.82,1,2021,Assez Bien
+268,45,Algèbre 1,Mathématiques,15.08,2,2021,Bien
+269,45,Algèbre 1,Mathématiques,8.92,2,2021,Échec
+270,45,Statistiques,Mathématiques,15.67,1,2021,Bien
+271,46,Biologie Cellulaire,Biologie,9.6,1,2023,Échec
+272,46,Microbiologie,Biologie,7.5,1,2023,Échec
+273,46,Écologie,Biologie,9.62,2,2023,Échec
+274,46,Génétique,Biologie,6.07,1,2023,Échec
+275,46,Biochimie,Biologie,7.26,2,2023,Échec
+276,46,Biochimie,Biologie,16.31,1,2023,Très Bien
+277,47,Algorithmique,Informatique,6.71,2,2020,Échec
+278,47,Systèmes d'exploitation,Informatique,10.15,2,2020,Passable
+279,47,Réseaux,Informatique,16.7,2,2020,Très Bien
+280,47,IA,Informatique,11.03,1,2020,Passable
+281,47,Algorithmique,Informatique,8.22,1,2020,Échec
+282,47,Bases de Données,Informatique,8.4,1,2020,Échec
+283,48,Droit Int.,Droit,18.24,1,2023,Très Bien
+284,48,Procédure Civile,Droit,9.48,2,2023,Échec
+285,48,Procédure Civile,Droit,12.85,2,2023,Assez Bien
+286,48,Droit Int.,Droit,13.69,2,2023,Assez Bien
+287,48,Droit Civil,Droit,15.83,1,2023,Bien
+288,48,Droit Pénal,Droit,14.34,1,2023,Bien
+289,49,Béton Armé,Génie Civil,12.37,1,2021,Assez Bien
+290,49,Béton Armé,Génie Civil,15.4,2,2021,Bien
+291,49,Structures,Génie Civil,5.42,2,2021,Échec
+292,49,Béton Armé,Génie Civil,11.35,2,2021,Passable
+293,49,Mécanique des Sols,Génie Civil,9.79,1,2021,Échec
+294,49,Structures,Génie Civil,10.05,2,2021,Passable
+295,50,Béton Armé,Génie Civil,5.41,2,2021,Échec
+296,50,Matériaux,Génie Civil,12.14,2,2021,Assez Bien
+297,50,Hydraulique,Génie Civil,11.38,2,2021,Passable
+298,50,Matériaux,Génie Civil,9.67,1,2021,Échec
+299,50,Structures,Génie Civil,14.08,1,2021,Bien
+300,50,Matériaux,Génie Civil,12.46,1,2021,Assez Bien
+301,51,Anatomie,Médecine,10.23,1,2021,Passable
+302,51,Physiologie,Médecine,6.13,1,2021,Échec
+303,51,Sémiologie,Médecine,9.23,2,2021,Échec
+304,51,Pathologie,Médecine,9.22,1,2021,Échec
+305,51,Pathologie,Médecine,5.69,2,2021,Échec
+306,51,Anatomie,Médecine,8.23,1,2021,Échec
+307,52,Programmation C,Informatique,6.49,1,2021,Échec
+308,52,Systèmes d'exploitation,Informatique,9.54,2,2021,Échec
+309,52,Bases de Données,Informatique,15.14,2,2021,Bien
+310,52,Bases de Données,Informatique,8.09,2,2021,Échec
+311,52,IA,Informatique,5.17,1,2021,Échec
+312,52,Systèmes d'exploitation,Informatique,13.72,1,2021,Assez Bien
+313,53,Optique,Physique,11.9,2,2020,Passable
+314,53,Thermodynamique,Physique,1.91,2,2020,Échec
+315,53,Optique,Physique,11.08,1,2020,Passable
+316,53,Thermodynamique,Physique,10.98,1,2020,Passable
+317,53,Physique Quantique,Physique,16.56,1,2020,Très Bien
+318,53,Thermodynamique,Physique,17.31,1,2020,Très Bien
+319,54,Macroéconomie,Économie,11.52,2,2022,Passable
+320,54,Marketing,Économie,10.34,1,2022,Passable
+321,54,Microéconomie,Économie,14.65,1,2022,Bien
+322,54,Comptabilité,Économie,11.88,2,2022,Passable
+323,54,Marketing,Économie,11.0,2,2022,Passable
+324,54,Microéconomie,Économie,14.08,2,2022,Bien
+325,55,Énergie,Génie Électrique,16.66,2,2022,Très Bien
+326,55,Signal,Génie Électrique,7.79,1,2022,Échec
+327,55,Signal,Génie Électrique,13.8,1,2022,Assez Bien
+328,55,Énergie,Génie Électrique,5.56,2,2022,Échec
+329,55,Électronique,Génie Électrique,10.37,1,2022,Passable
+330,55,Électronique,Génie Électrique,5.8,2,2022,Échec
+331,56,Droit Commercial,Droit,14.11,1,2022,Bien
+332,56,Droit Pénal,Droit,8.07,1,2022,Échec
+333,56,Droit Int.,Droit,11.67,2,2022,Passable
+334,56,Procédure Civile,Droit,7.13,1,2022,Échec
+335,56,Droit Commercial,Droit,8.79,1,2022,Échec
+336,56,Droit Pénal,Droit,10.43,1,2022,Passable
+337,57,IA,Informatique,10.54,2,2020,Passable
+338,57,Systèmes d'exploitation,Informatique,7.03,1,2020,Échec
+339,57,Programmation C,Informatique,4.6,1,2020,Échec
+340,57,Programmation C,Informatique,13.91,2,2020,Assez Bien
+341,57,Algorithmique,Informatique,4.46,2,2020,Échec
+342,57,Bases de Données,Informatique,12.0,1,2020,Assez Bien
+343,58,Signal,Génie Électrique,4.1,1,2021,Échec
+344,58,Électrotechnique,Génie Électrique,10.92,2,2021,Passable
+345,58,Énergie,Génie Électrique,12.29,1,2021,Assez Bien
+346,58,Énergie,Génie Électrique,14.8,1,2021,Bien
+347,58,Électrotechnique,Génie Électrique,17.24,2,2021,Très Bien
+348,58,Télécoms,Génie Électrique,14.01,1,2021,Bien
+349,59,Béton Armé,Génie Civil,9.02,2,2023,Échec
+350,59,Mécanique des Sols,Génie Civil,7.3,2,2023,Échec
+351,59,Hydraulique,Génie Civil,10.26,2,2023,Passable
+352,59,Mécanique des Sols,Génie Civil,10.51,2,2023,Passable
+353,59,Matériaux,Génie Civil,14.13,1,2023,Bien
+354,59,Topographie,Génie Civil,4.51,1,2023,Échec
+355,60,Droit Pénal,Droit,12.2,1,2022,Assez Bien
+356,60,Droit Civil,Droit,14.68,1,2022,Bien
+357,60,Droit Pénal,Droit,19.68,2,2022,Très Bien
+358,60,Droit Civil,Droit,8.12,2,2022,Échec
+359,60,Droit Int.,Droit,12.14,2,2022,Assez Bien
+360,60,Droit Civil,Droit,7.78,2,2022,Échec
+361,61,Chimie Organique,Chimie,10.83,2,2023,Passable
+362,61,Électrochimie,Chimie,8.25,2,2023,Échec
+363,61,Électrochimie,Chimie,10.72,1,2023,Passable
+364,61,Thermochimie,Chimie,8.81,1,2023,Échec
+365,61,Chimie Analytique,Chimie,12.57,2,2023,Assez Bien
+366,61,Chimie Générale,Chimie,13.87,2,2023,Assez Bien
+367,62,Télécoms,Génie Électrique,12.4,2,2020,Assez Bien
+368,62,Télécoms,Génie Électrique,10.5,2,2020,Passable
+369,62,Électronique,Génie Électrique,18.98,2,2020,Très Bien
+370,62,Électrotechnique,Génie Électrique,11.96,2,2020,Passable
+371,62,Énergie,Génie Électrique,12.81,2,2020,Assez Bien
+372,62,Signal,Génie Électrique,10.73,1,2020,Passable
+373,63,Macroéconomie,Économie,14.3,1,2023,Bien
+374,63,Microéconomie,Économie,20.0,1,2023,Très Bien
+375,63,Marketing,Économie,9.43,1,2023,Échec
+376,63,Microéconomie,Économie,15.37,2,2023,Bien
+377,63,Statistiques Éco,Économie,7.65,1,2023,Échec
+378,63,Marketing,Économie,15.49,2,2023,Bien
+379,64,Analyse 1,Mathématiques,5.22,1,2022,Échec
+380,64,Topologie,Mathématiques,5.16,2,2022,Échec
+381,64,Algèbre 1,Mathématiques,15.94,1,2022,Bien
+382,64,Analyse 1,Mathématiques,17.96,2,2022,Très Bien
+383,64,Topologie,Mathématiques,16.34,1,2022,Très Bien
+384,64,Statistiques,Mathématiques,9.65,1,2022,Échec
+385,65,Biochimie,Biologie,17.09,2,2021,Très Bien
+386,65,Écologie,Biologie,19.7,1,2021,Très Bien
+387,65,Génétique,Biologie,7.97,1,2021,Échec
+388,65,Génétique,Biologie,6.68,2,2021,Échec
+389,65,Physiologie,Biologie,9.64,1,2021,Échec
+390,65,Écologie,Biologie,6.32,1,2021,Échec
+391,66,Statistiques Éco,Économie,19.15,2,2020,Très Bien
+392,66,Microéconomie,Économie,7.35,1,2020,Échec
+393,66,Macroéconomie,Économie,7.61,1,2020,Échec
+394,66,Comptabilité,Économie,18.5,2,2020,Très Bien
+395,66,Finance,Économie,8.82,2,2020,Échec
+396,66,Macroéconomie,Économie,17.25,1,2020,Très Bien
+397,67,Électronique,Génie Électrique,11.62,2,2021,Passable
+398,67,Énergie,Génie Électrique,11.68,1,2021,Passable
+399,67,Énergie,Génie Électrique,11.68,2,2021,Passable
+400,67,Électronique,Génie Électrique,17.06,2,2021,Très Bien
+401,67,Électrotechnique,Génie Électrique,5.55,2,2021,Échec
+402,67,Électrotechnique,Génie Électrique,10.92,2,2021,Passable
+403,68,Optique,Physique,8.64,1,2023,Échec
+404,68,Mécanique,Physique,11.39,2,2023,Passable
+405,68,Mécanique,Physique,19.74,1,2023,Très Bien
+406,68,Relativité,Physique,6.58,1,2023,Échec
+407,68,Électromagnétisme,Physique,19.38,2,2023,Très Bien
+408,68,Physique Quantique,Physique,14.7,2,2023,Bien
+409,69,Statistiques Éco,Économie,8.99,1,2022,Échec
+410,69,Finance,Économie,14.94,2,2022,Bien
+411,69,Microéconomie,Économie,5.19,2,2022,Échec
+412,69,Finance,Économie,6.32,1,2022,Échec
+413,69,Marketing,Économie,14.42,1,2022,Bien
+414,69,Macroéconomie,Économie,13.8,2,2022,Assez Bien
+415,70,Relativité,Physique,14.84,1,2023,Bien
+416,70,Électromagnétisme,Physique,11.97,2,2023,Passable
+417,70,Optique,Physique,8.27,2,2023,Échec
+418,70,Optique,Physique,13.04,1,2023,Assez Bien
+419,70,Optique,Physique,8.53,1,2023,Échec
+420,70,Optique,Physique,19.62,2,2023,Très Bien
+421,71,Chimie Générale,Chimie,10.66,1,2022,Passable
+422,71,Thermochimie,Chimie,9.07,2,2022,Échec
+423,71,Chimie Analytique,Chimie,8.61,1,2022,Échec
+424,71,Thermochimie,Chimie,11.76,1,2022,Passable
+425,71,Chimie Analytique,Chimie,8.4,1,2022,Échec
+426,71,Biochimie,Chimie,16.17,1,2022,Très Bien
+427,72,Béton Armé,Génie Civil,14.29,2,2020,Bien
+428,72,Béton Armé,Génie Civil,13.87,2,2020,Assez Bien
+429,72,Structures,Génie Civil,12.22,1,2020,Assez Bien
+430,72,Topographie,Génie Civil,6.37,2,2020,Échec
+431,72,Béton Armé,Génie Civil,12.01,1,2020,Assez Bien
+432,72,Mécanique des Sols,Génie Civil,2.23,1,2020,Échec
+433,73,Algèbre 1,Mathématiques,11.16,2,2023,Passable
+434,73,Probabilités,Mathématiques,9.71,2,2023,Échec
+435,73,Probabilités,Mathématiques,9.6,1,2023,Échec
+436,73,Algèbre 1,Mathématiques,9.57,1,2023,Échec
+437,73,Topologie,Mathématiques,11.06,2,2023,Passable
+438,73,Statistiques,Mathématiques,10.38,1,2023,Passable
+439,74,Électrochimie,Chimie,13.18,2,2023,Assez Bien
+440,74,Thermochimie,Chimie,9.02,2,2023,Échec
+441,74,Thermochimie,Chimie,15.76,1,2023,Bien
+442,74,Électrochimie,Chimie,13.59,2,2023,Assez Bien
+443,74,Électrochimie,Chimie,5.88,1,2023,Échec
+444,74,Chimie Générale,Chimie,5.64,1,2023,Échec
+445,75,Macroéconomie,Économie,14.49,1,2020,Bien
+446,75,Microéconomie,Économie,12.26,2,2020,Assez Bien
+447,75,Comptabilité,Économie,12.11,2,2020,Assez Bien
+448,75,Macroéconomie,Économie,10.39,1,2020,Passable
+449,75,Statistiques Éco,Économie,9.74,1,2020,Échec
+450,75,Finance,Économie,16.75,2,2020,Très Bien
+451,76,Microéconomie,Économie,13.81,2,2021,Assez Bien
+452,76,Finance,Économie,12.86,1,2021,Assez Bien
+453,76,Finance,Économie,11.81,2,2021,Passable
+454,76,Macroéconomie,Économie,9.78,1,2021,Échec
+455,76,Statistiques Éco,Économie,13.27,2,2021,Assez Bien
+456,76,Marketing,Économie,8.24,1,2021,Échec
+457,77,Télécoms,Génie Électrique,11.35,1,2021,Passable
+458,77,Signal,Génie Électrique,12.34,2,2021,Assez Bien
+459,77,Signal,Génie Électrique,8.3,2,2021,Échec
+460,77,Électrotechnique,Génie Électrique,8.8,2,2021,Échec
+461,77,Énergie,Génie Électrique,10.39,1,2021,Passable
+462,77,Énergie,Génie Électrique,6.35,1,2021,Échec
+463,78,Pathologie,Médecine,10.34,1,2020,Passable
+464,78,Anatomie,Médecine,13.54,2,2020,Assez Bien
+465,78,Pathologie,Médecine,12.89,1,2020,Assez Bien
+466,78,Sémiologie,Médecine,4.74,2,2020,Échec
+467,78,Pharmacologie,Médecine,14.56,1,2020,Bien
+468,78,Anatomie,Médecine,12.05,1,2020,Assez Bien
+469,79,IA,Informatique,9.6,2,2022,Échec
+470,79,Bases de Données,Informatique,17.93,2,2022,Très Bien
+471,79,Algorithmique,Informatique,13.72,2,2022,Assez Bien
+472,79,IA,Informatique,13.36,1,2022,Assez Bien
+473,79,Programmation C,Informatique,13.61,2,2022,Assez Bien
+474,79,Réseaux,Informatique,18.11,1,2022,Très Bien
+475,80,Télécoms,Génie Électrique,12.53,2,2022,Assez Bien
+476,80,Énergie,Génie Électrique,12.75,2,2022,Assez Bien
+477,80,Signal,Génie Électrique,11.88,1,2022,Passable
+478,80,Énergie,Génie Électrique,6.96,2,2022,Échec
+479,80,Énergie,Génie Électrique,10.45,1,2022,Passable
+480,80,Électrotechnique,Génie Électrique,7.56,2,2022,Échec
+481,81,Bases de Données,Informatique,13.08,1,2020,Assez Bien
+482,81,Bases de Données,Informatique,11.92,2,2020,Passable
+483,81,IA,Informatique,8.65,2,2020,Échec
+484,81,Programmation C,Informatique,10.49,1,2020,Passable
+485,81,Bases de Données,Informatique,10.04,1,2020,Passable
+486,81,Bases de Données,Informatique,7.66,2,2020,Échec
+487,82,Algorithmique,Informatique,8.05,2,2021,Échec
+488,82,Bases de Données,Informatique,11.05,1,2021,Passable
+489,82,Systèmes d'exploitation,Informatique,10.37,1,2021,Passable
+490,82,Programmation C,Informatique,12.85,1,2021,Assez Bien
+491,82,Réseaux,Informatique,3.84,1,2021,Échec
+492,82,Programmation C,Informatique,10.73,2,2021,Passable
+493,83,Finance,Économie,10.46,2,2020,Passable
+494,83,Macroéconomie,Économie,6.16,1,2020,Échec
+495,83,Marketing,Économie,10.05,1,2020,Passable
+496,83,Finance,Économie,9.09,2,2020,Échec
+497,83,Statistiques Éco,Économie,12.31,2,2020,Assez Bien
+498,83,Microéconomie,Économie,9.51,1,2020,Échec
+499,84,Thermodynamique,Physique,9.8,2,2020,Échec
+500,84,Mécanique,Physique,11.25,2,2020,Passable
+501,84,Relativité,Physique,13.74,1,2020,Assez Bien
+502,84,Thermodynamique,Physique,8.79,2,2020,Échec
+503,84,Physique Quantique,Physique,9.18,1,2020,Échec
+504,84,Thermodynamique,Physique,14.91,1,2020,Bien
+505,85,Génétique,Biologie,10.9,1,2023,Passable
+506,85,Génétique,Biologie,11.69,2,2023,Passable
+507,85,Biochimie,Biologie,10.08,2,2023,Passable
+508,85,Biochimie,Biologie,13.01,1,2023,Assez Bien
+509,85,Génétique,Biologie,15.97,2,2023,Bien
+510,85,Biochimie,Biologie,13.39,2,2023,Assez Bien
+511,86,Analyse 1,Mathématiques,14.09,1,2022,Bien
+512,86,Analyse 1,Mathématiques,14.29,2,2022,Bien
+513,86,Analyse 1,Mathématiques,14.42,2,2022,Bien
+514,86,Topologie,Mathématiques,13.06,2,2022,Assez Bien
+515,86,Probabilités,Mathématiques,9.69,1,2022,Échec
+516,86,Statistiques,Mathématiques,13.31,1,2022,Assez Bien
+517,87,Béton Armé,Génie Civil,14.46,2,2023,Bien
+518,87,Béton Armé,Génie Civil,2.71,2,2023,Échec
+519,87,Hydraulique,Génie Civil,8.48,2,2023,Échec
+520,87,Topographie,Génie Civil,5.23,1,2023,Échec
+521,87,Mécanique des Sols,Génie Civil,16.27,2,2023,Très Bien
+522,87,Hydraulique,Génie Civil,17.68,2,2023,Très Bien
+523,88,Électrotechnique,Génie Électrique,9.16,2,2023,Échec
+524,88,Signal,Génie Électrique,5.38,2,2023,Échec
+525,88,Électronique,Génie Électrique,12.8,2,2023,Assez Bien
+526,88,Signal,Génie Électrique,11.78,1,2023,Passable
+527,88,Automatique,Génie Électrique,11.61,1,2023,Passable
+528,88,Énergie,Génie Électrique,5.59,1,2023,Échec
+529,89,Optique,Physique,13.94,2,2022,Assez Bien
+530,89,Physique Quantique,Physique,4.49,1,2022,Échec
+531,89,Thermodynamique,Physique,7.04,2,2022,Échec
+532,89,Électromagnétisme,Physique,10.17,1,2022,Passable
+533,89,Physique Quantique,Physique,13.48,1,2022,Assez Bien
+534,89,Thermodynamique,Physique,14.86,1,2022,Bien
+535,90,Pathologie,Médecine,5.11,2,2022,Échec
+536,90,Sémiologie,Médecine,7.21,2,2022,Échec
+537,90,Sémiologie,Médecine,10.15,1,2022,Passable
+538,90,Pathologie,Médecine,8.68,2,2022,Échec
+539,90,Anatomie,Médecine,7.27,1,2022,Échec
+540,90,Pharmacologie,Médecine,8.56,1,2022,Échec
+541,91,Chimie Analytique,Chimie,12.46,1,2023,Assez Bien
+542,91,Biochimie,Chimie,10.58,2,2023,Passable
+543,91,Chimie Analytique,Chimie,5.13,1,2023,Échec
+544,91,Chimie Organique,Chimie,11.21,1,2023,Passable
+545,91,Électrochimie,Chimie,15.67,1,2023,Bien
+546,91,Chimie Organique,Chimie,7.75,1,2023,Échec
+547,92,Topographie,Génie Civil,7.1,2,2021,Échec
+548,92,Mécanique des Sols,Génie Civil,10.22,1,2021,Passable
+549,92,Structures,Génie Civil,13.42,2,2021,Assez Bien
+550,92,Topographie,Génie Civil,8.65,2,2021,Échec
+551,92,Béton Armé,Génie Civil,6.23,2,2021,Échec
+552,92,Mécanique des Sols,Génie Civil,8.27,2,2021,Échec
+553,93,Anatomie,Médecine,7.56,1,2022,Échec
+554,93,Anatomie,Médecine,14.7,2,2022,Bien
+555,93,Anatomie,Médecine,16.16,1,2022,Très Bien
+556,93,Pharmacologie,Médecine,4.86,2,2022,Échec
+557,93,Pathologie,Médecine,9.37,2,2022,Échec
+558,93,Pharmacologie,Médecine,14.58,1,2022,Bien
+559,94,Télécoms,Génie Électrique,12.01,2,2023,Assez Bien
+560,94,Automatique,Génie Électrique,12.94,2,2023,Assez Bien
+561,94,Électrotechnique,Génie Électrique,9.06,1,2023,Échec
+562,94,Électrotechnique,Génie Électrique,18.89,1,2023,Très Bien
+563,94,Électronique,Génie Électrique,9.67,2,2023,Échec
+564,94,Télécoms,Génie Électrique,9.21,2,2023,Échec
+565,95,Programmation C,Informatique,15.94,2,2020,Bien
+566,95,Réseaux,Informatique,13.91,2,2020,Assez Bien
+567,95,Systèmes d'exploitation,Informatique,13.04,2,2020,Assez Bien
+568,95,Réseaux,Informatique,15.32,2,2020,Bien
+569,95,Programmation C,Informatique,13.14,2,2020,Assez Bien
+570,95,IA,Informatique,16.01,1,2020,Très Bien
+571,96,Statistiques Éco,Économie,6.89,2,2022,Échec
+572,96,Microéconomie,Économie,10.96,1,2022,Passable
+573,96,Marketing,Économie,7.19,2,2022,Échec
+574,96,Statistiques Éco,Économie,11.4,1,2022,Passable
+575,96,Macroéconomie,Économie,10.39,2,2022,Passable
+576,96,Finance,Économie,6.15,1,2022,Échec
+577,97,Biochimie,Biologie,12.33,2,2022,Assez Bien
+578,97,Physiologie,Biologie,9.9,1,2022,Échec
+579,97,Physiologie,Biologie,6.22,2,2022,Échec
+580,97,Biochimie,Biologie,5.67,1,2022,Échec
+581,97,Microbiologie,Biologie,10.43,2,2022,Passable
+582,97,Biochimie,Biologie,10.87,2,2022,Passable
+583,98,Procédure Civile,Droit,10.58,2,2021,Passable
+584,98,Droit Commercial,Droit,6.84,1,2021,Échec
+585,98,Droit Civil,Droit,9.17,2,2021,Échec
+586,98,Droit Int.,Droit,5.92,2,2021,Échec
+587,98,Droit Civil,Droit,7.39,1,2021,Échec
+588,98,Droit Int.,Droit,7.18,2,2021,Échec
+589,99,Analyse Numérique,Mathématiques,8.66,1,2021,Échec
+590,99,Algèbre 1,Mathématiques,8.68,1,2021,Échec
+591,99,Probabilités,Mathématiques,10.93,2,2021,Passable
+592,99,Probabilités,Mathématiques,16.53,1,2021,Très Bien
+593,99,Analyse Numérique,Mathématiques,12.89,1,2021,Assez Bien
+594,99,Analyse Numérique,Mathématiques,12.6,2,2021,Assez Bien
+595,100,Droit Commercial,Droit,12.11,1,2021,Assez Bien
+596,100,Droit Administratif,Droit,8.09,1,2021,Échec
+597,100,Procédure Civile,Droit,13.37,1,2021,Assez Bien
+598,100,Droit Pénal,Droit,8.21,1,2021,Échec
+599,100,Droit Administratif,Droit,11.07,2,2021,Passable
+600,100,Droit Pénal,Droit,6.87,2,2021,Échec
+601,101,Statistiques Éco,Économie,9.21,2,2020,Échec
+602,101,Microéconomie,Économie,8.91,2,2020,Échec
+603,101,Microéconomie,Économie,15.23,2,2020,Bien
+604,101,Comptabilité,Économie,12.45,2,2020,Assez Bien
+605,101,Statistiques Éco,Économie,19.57,1,2020,Très Bien
+606,101,Finance,Économie,8.11,2,2020,Échec
+607,102,Finance,Économie,10.61,2,2022,Passable
+608,102,Microéconomie,Économie,15.9,2,2022,Bien
+609,102,Finance,Économie,8.43,1,2022,Échec
+610,102,Microéconomie,Économie,13.35,2,2022,Assez Bien
+611,102,Finance,Économie,6.53,2,2022,Échec
+612,102,Comptabilité,Économie,7.28,2,2022,Échec
+613,103,Probabilités,Mathématiques,11.99,2,2023,Passable
+614,103,Statistiques,Mathématiques,8.09,1,2023,Échec
+615,103,Analyse Numérique,Mathématiques,7.77,2,2023,Échec
+616,103,Analyse Numérique,Mathématiques,4.95,1,2023,Échec
+617,103,Probabilités,Mathématiques,5.29,1,2023,Échec
+618,103,Analyse 1,Mathématiques,9.24,2,2023,Échec
+619,104,Anatomie,Médecine,4.99,2,2022,Échec
+620,104,Physiologie,Médecine,10.04,2,2022,Passable
+621,104,Biochimie Méd.,Médecine,11.31,1,2022,Passable
+622,104,Anatomie,Médecine,11.82,1,2022,Passable
+623,104,Sémiologie,Médecine,6.94,1,2022,Échec
+624,104,Anatomie,Médecine,6.21,1,2022,Échec
+625,105,Pharmacologie,Médecine,6.24,1,2021,Échec
+626,105,Anatomie,Médecine,3.86,1,2021,Échec
+627,105,Biochimie Méd.,Médecine,9.38,1,2021,Échec
+628,105,Pathologie,Médecine,16.65,2,2021,Très Bien
+629,105,Biochimie Méd.,Médecine,11.75,2,2021,Passable
+630,105,Biochimie Méd.,Médecine,4.9,1,2021,Échec
+631,106,Anatomie,Médecine,10.76,2,2023,Passable
+632,106,Biochimie Méd.,Médecine,12.41,1,2023,Assez Bien
+633,106,Biochimie Méd.,Médecine,14.02,2,2023,Bien
+634,106,Anatomie,Médecine,10.14,2,2023,Passable
+635,106,Physiologie,Médecine,9.07,2,2023,Échec
+636,106,Anatomie,Médecine,9.4,1,2023,Échec
+637,107,Électrochimie,Chimie,11.33,1,2021,Passable
+638,107,Thermochimie,Chimie,8.21,2,2021,Échec
+639,107,Chimie Générale,Chimie,12.49,2,2021,Assez Bien
+640,107,Thermochimie,Chimie,11.33,1,2021,Passable
+641,107,Thermochimie,Chimie,14.4,1,2021,Bien
+642,107,Biochimie,Chimie,15.6,2,2021,Bien
+643,108,Droit Commercial,Droit,13.07,2,2020,Assez Bien
+644,108,Procédure Civile,Droit,13.92,1,2020,Assez Bien
+645,108,Procédure Civile,Droit,9.19,2,2020,Échec
+646,108,Droit Administratif,Droit,4.37,2,2020,Échec
+647,108,Droit Int.,Droit,12.36,1,2020,Assez Bien
+648,108,Droit Civil,Droit,4.11,2,2020,Échec
+649,109,Physiologie,Biologie,12.9,2,2020,Assez Bien
+650,109,Microbiologie,Biologie,6.82,2,2020,Échec
+651,109,Écologie,Biologie,20.0,1,2020,Très Bien
+652,109,Microbiologie,Biologie,15.64,2,2020,Bien
+653,109,Biologie Cellulaire,Biologie,14.67,2,2020,Bien
+654,109,Physiologie,Biologie,5.32,1,2020,Échec
+655,110,Génétique,Biologie,1.14,1,2021,Échec
+656,110,Microbiologie,Biologie,7.49,2,2021,Échec
+657,110,Biologie Cellulaire,Biologie,8.43,1,2021,Échec
+658,110,Physiologie,Biologie,8.24,2,2021,Échec
+659,110,Physiologie,Biologie,11.4,1,2021,Passable
+660,110,Physiologie,Biologie,12.0,1,2021,Assez Bien
+661,111,Optique,Physique,5.57,2,2020,Échec
+662,111,Optique,Physique,15.57,2,2020,Bien
+663,111,Mécanique,Physique,12.32,1,2020,Assez Bien
+664,111,Optique,Physique,11.31,1,2020,Passable
+665,111,Électromagnétisme,Physique,13.08,2,2020,Assez Bien
+666,111,Relativité,Physique,5.44,1,2020,Échec
+667,112,Statistiques Éco,Économie,3.01,1,2022,Échec
+668,112,Statistiques Éco,Économie,6.65,1,2022,Échec
+669,112,Finance,Économie,8.43,1,2022,Échec
+670,112,Macroéconomie,Économie,7.28,1,2022,Échec
+671,112,Microéconomie,Économie,11.6,2,2022,Passable
+672,112,Microéconomie,Économie,12.13,2,2022,Assez Bien
+673,113,Marketing,Économie,13.56,1,2020,Assez Bien
+674,113,Microéconomie,Économie,15.7,2,2020,Bien
+675,113,Marketing,Économie,11.86,1,2020,Passable
+676,113,Finance,Économie,8.31,2,2020,Échec
+677,113,Statistiques Éco,Économie,9.46,1,2020,Échec
+678,113,Comptabilité,Économie,7.81,1,2020,Échec
+679,114,Algorithmique,Informatique,7.98,1,2020,Échec
+680,114,Bases de Données,Informatique,9.0,1,2020,Échec
+681,114,Réseaux,Informatique,12.89,1,2020,Assez Bien
+682,114,Réseaux,Informatique,14.35,1,2020,Bien
+683,114,Systèmes d'exploitation,Informatique,12.78,2,2020,Assez Bien
+684,114,Programmation C,Informatique,11.46,1,2020,Passable
+685,115,Optique,Physique,11.42,1,2023,Passable
+686,115,Relativité,Physique,11.23,2,2023,Passable
+687,115,Optique,Physique,8.54,2,2023,Échec
+688,115,Relativité,Physique,4.35,1,2023,Échec
+689,115,Électromagnétisme,Physique,12.98,2,2023,Assez Bien
+690,115,Optique,Physique,13.49,1,2023,Assez Bien
+691,116,Macroéconomie,Économie,10.15,1,2020,Passable
+692,116,Statistiques Éco,Économie,10.29,2,2020,Passable
+693,116,Marketing,Économie,16.35,2,2020,Très Bien
+694,116,Comptabilité,Économie,9.27,2,2020,Échec
+695,116,Microéconomie,Économie,8.56,1,2020,Échec
+696,116,Marketing,Économie,10.07,2,2020,Passable
+697,117,Physique Quantique,Physique,6.54,1,2022,Échec
+698,117,Thermodynamique,Physique,10.79,1,2022,Passable
+699,117,Électromagnétisme,Physique,12.73,2,2022,Assez Bien
+700,117,Optique,Physique,12.48,1,2022,Assez Bien
+701,117,Électromagnétisme,Physique,10.43,2,2022,Passable
+702,117,Thermodynamique,Physique,9.96,1,2022,Échec
+703,118,Finance,Économie,10.95,2,2020,Passable
+704,118,Microéconomie,Économie,16.54,1,2020,Très Bien
+705,118,Statistiques Éco,Économie,15.7,1,2020,Bien
+706,118,Microéconomie,Économie,12.61,2,2020,Assez Bien
+707,118,Marketing,Économie,17.33,2,2020,Très Bien
+708,118,Marketing,Économie,16.66,2,2020,Très Bien
+709,119,Droit Administratif,Droit,12.9,2,2023,Assez Bien
+710,119,Droit Pénal,Droit,16.7,1,2023,Très Bien
+711,119,Droit Commercial,Droit,11.41,2,2023,Passable
+712,119,Droit Pénal,Droit,13.91,2,2023,Assez Bien
+713,119,Droit Pénal,Droit,15.75,1,2023,Bien
+714,119,Droit Administratif,Droit,13.36,1,2023,Assez Bien
+715,120,Macroéconomie,Économie,14.96,2,2020,Bien
+716,120,Comptabilité,Économie,9.07,1,2020,Échec
+717,120,Finance,Économie,9.93,2,2020,Échec
+718,120,Macroéconomie,Économie,5.45,2,2020,Échec
+719,120,Macroéconomie,Économie,16.08,2,2020,Très Bien
+720,120,Macroéconomie,Économie,12.04,1,2020,Assez Bien
+721,121,Finance,Économie,8.63,2,2020,Échec
+722,121,Macroéconomie,Économie,11.63,2,2020,Passable
+723,121,Marketing,Économie,14.93,1,2020,Bien
+724,121,Marketing,Économie,16.93,1,2020,Très Bien
+725,121,Microéconomie,Économie,6.87,1,2020,Échec
+726,121,Marketing,Économie,13.56,2,2020,Assez Bien
+727,122,Droit Administratif,Droit,9.82,1,2020,Échec
+728,122,Droit Pénal,Droit,17.36,2,2020,Très Bien
+729,122,Droit Administratif,Droit,3.59,1,2020,Échec
+730,122,Procédure Civile,Droit,6.96,1,2020,Échec
+731,122,Droit Administratif,Droit,12.13,2,2020,Assez Bien
+732,122,Droit Int.,Droit,10.86,1,2020,Passable
+733,123,Statistiques,Mathématiques,6.52,1,2021,Échec
+734,123,Statistiques,Mathématiques,10.11,2,2021,Passable
+735,123,Algèbre 1,Mathématiques,16.8,2,2021,Très Bien
+736,123,Algèbre 1,Mathématiques,14.34,1,2021,Bien
+737,123,Probabilités,Mathématiques,9.36,1,2021,Échec
+738,123,Analyse 1,Mathématiques,16.54,2,2021,Très Bien
+739,124,Statistiques Éco,Économie,8.89,1,2023,Échec
+740,124,Finance,Économie,16.87,2,2023,Très Bien
+741,124,Macroéconomie,Économie,13.87,2,2023,Assez Bien
+742,124,Statistiques Éco,Économie,8.1,2,2023,Échec
+743,124,Statistiques Éco,Économie,5.69,1,2023,Échec
+744,124,Finance,Économie,5.1,2,2023,Échec
+745,125,Sémiologie,Médecine,15.13,2,2021,Bien
+746,125,Pathologie,Médecine,11.86,1,2021,Passable
+747,125,Pathologie,Médecine,18.21,1,2021,Très Bien
+748,125,Sémiologie,Médecine,15.02,2,2021,Bien
+749,125,Anatomie,Médecine,13.93,1,2021,Assez Bien
+750,125,Biochimie Méd.,Médecine,13.45,2,2021,Assez Bien
+751,126,Programmation C,Informatique,7.27,1,2022,Échec
+752,126,Programmation C,Informatique,5.99,2,2022,Échec
+753,126,Programmation C,Informatique,5.39,1,2022,Échec
+754,126,IA,Informatique,9.57,1,2022,Échec
+755,126,Bases de Données,Informatique,9.1,2,2022,Échec
+756,126,Bases de Données,Informatique,13.52,1,2022,Assez Bien
+757,127,Droit Civil,Droit,7.94,1,2023,Échec
+758,127,Droit Administratif,Droit,14.15,2,2023,Bien
+759,127,Droit Administratif,Droit,5.8,1,2023,Échec
+760,127,Droit Pénal,Droit,6.06,2,2023,Échec
+761,127,Droit Civil,Droit,18.48,2,2023,Très Bien
+762,127,Droit Civil,Droit,15.13,1,2023,Bien
+763,128,Mécanique des Sols,Génie Civil,10.0,2,2021,Passable
+764,128,Mécanique des Sols,Génie Civil,17.1,1,2021,Très Bien
+765,128,Matériaux,Génie Civil,11.82,2,2021,Passable
+766,128,Structures,Génie Civil,10.75,1,2021,Passable
+767,128,Topographie,Génie Civil,8.53,1,2021,Échec
+768,128,Hydraulique,Génie Civil,14.56,1,2021,Bien
+769,129,Algorithmique,Informatique,18.13,2,2022,Très Bien
+770,129,Réseaux,Informatique,11.99,2,2022,Passable
+771,129,IA,Informatique,8.84,2,2022,Échec
+772,129,Réseaux,Informatique,8.18,2,2022,Échec
+773,129,Systèmes d'exploitation,Informatique,15.77,1,2022,Bien
+774,129,Bases de Données,Informatique,16.21,1,2022,Très Bien
+775,130,Réseaux,Informatique,8.71,1,2021,Échec
+776,130,Programmation C,Informatique,13.38,2,2021,Assez Bien
+777,130,Bases de Données,Informatique,8.68,1,2021,Échec
+778,130,IA,Informatique,11.66,2,2021,Passable
+779,130,Programmation C,Informatique,18.54,1,2021,Très Bien
+780,130,Programmation C,Informatique,9.72,1,2021,Échec
+781,131,Analyse 1,Mathématiques,14.37,1,2023,Bien
+782,131,Statistiques,Mathématiques,11.89,2,2023,Passable
+783,131,Probabilités,Mathématiques,13.06,1,2023,Assez Bien
+784,131,Analyse Numérique,Mathématiques,15.71,2,2023,Bien
+785,131,Probabilités,Mathématiques,13.61,1,2023,Assez Bien
+786,131,Topologie,Mathématiques,14.5,2,2023,Bien
+787,132,Microéconomie,Économie,14.57,2,2022,Bien
+788,132,Macroéconomie,Économie,9.05,2,2022,Échec
+789,132,Comptabilité,Économie,16.9,2,2022,Très Bien
+790,132,Statistiques Éco,Économie,19.81,2,2022,Très Bien
+791,132,Finance,Économie,19.39,1,2022,Très Bien
+792,132,Marketing,Économie,4.57,2,2022,Échec
+793,133,Hydraulique,Génie Civil,8.58,1,2023,Échec
+794,133,Mécanique des Sols,Génie Civil,4.98,1,2023,Échec
+795,133,Hydraulique,Génie Civil,16.48,1,2023,Très Bien
+796,133,Topographie,Génie Civil,11.86,2,2023,Passable
+797,133,Béton Armé,Génie Civil,8.47,1,2023,Échec
+798,133,Matériaux,Génie Civil,15.86,1,2023,Bien
+799,134,Chimie Analytique,Chimie,11.56,2,2020,Passable
+800,134,Biochimie,Chimie,12.58,1,2020,Assez Bien
+801,134,Électrochimie,Chimie,7.34,1,2020,Échec
+802,134,Biochimie,Chimie,13.86,2,2020,Assez Bien
+803,134,Thermochimie,Chimie,15.69,2,2020,Bien
+804,134,Thermochimie,Chimie,17.29,2,2020,Très Bien
+805,135,Biologie Cellulaire,Biologie,10.2,2,2020,Passable
+806,135,Biochimie,Biologie,14.63,1,2020,Bien
+807,135,Génétique,Biologie,10.4,2,2020,Passable
+808,135,Écologie,Biologie,6.71,2,2020,Échec
+809,135,Génétique,Biologie,14.64,2,2020,Bien
+810,135,Physiologie,Biologie,1.03,2,2020,Échec
+811,136,Électrotechnique,Génie Électrique,13.76,1,2021,Assez Bien
+812,136,Électrotechnique,Génie Électrique,6.36,2,2021,Échec
+813,136,Signal,Génie Électrique,15.87,2,2021,Bien
+814,136,Électronique,Génie Électrique,10.64,2,2021,Passable
+815,136,Électronique,Génie Électrique,16.7,2,2021,Très Bien
+816,136,Signal,Génie Électrique,11.24,1,2021,Passable
+817,137,Topologie,Mathématiques,5.96,1,2023,Échec
+818,137,Algèbre 1,Mathématiques,12.22,1,2023,Assez Bien
+819,137,Statistiques,Mathématiques,9.86,2,2023,Échec
+820,137,Topologie,Mathématiques,15.5,2,2023,Bien
+821,137,Statistiques,Mathématiques,6.84,1,2023,Échec
+822,137,Analyse 1,Mathématiques,9.38,1,2023,Échec
+823,138,Chimie Analytique,Chimie,9.23,2,2023,Échec
+824,138,Chimie Générale,Chimie,16.44,2,2023,Très Bien
+825,138,Thermochimie,Chimie,14.74,1,2023,Bien
+826,138,Chimie Générale,Chimie,18.87,1,2023,Très Bien
+827,138,Chimie Analytique,Chimie,0.39,2,2023,Échec
+828,138,Électrochimie,Chimie,11.46,2,2023,Passable
+829,139,Biochimie,Biologie,8.16,2,2021,Échec
+830,139,Physiologie,Biologie,12.21,1,2021,Assez Bien
+831,139,Microbiologie,Biologie,5.78,2,2021,Échec
+832,139,Génétique,Biologie,10.59,1,2021,Passable
+833,139,Génétique,Biologie,7.52,1,2021,Échec
+834,139,Microbiologie,Biologie,18.44,1,2021,Très Bien
+835,140,Microéconomie,Économie,10.41,2,2022,Passable
+836,140,Microéconomie,Économie,15.13,2,2022,Bien
+837,140,Comptabilité,Économie,1.77,1,2022,Échec
+838,140,Statistiques Éco,Économie,9.26,1,2022,Échec
+839,140,Microéconomie,Économie,9.03,2,2022,Échec
+840,140,Comptabilité,Économie,9.59,2,2022,Échec
+841,141,Automatique,Génie Électrique,8.59,1,2022,Échec
+842,141,Énergie,Génie Électrique,5.39,2,2022,Échec
+843,141,Électrotechnique,Génie Électrique,15.82,2,2022,Bien
+844,141,Signal,Génie Électrique,11.39,2,2022,Passable
+845,141,Automatique,Génie Électrique,13.1,1,2022,Assez Bien
+846,141,Électrotechnique,Génie Électrique,9.86,1,2022,Échec
+847,142,Programmation C,Informatique,12.43,1,2020,Assez Bien
+848,142,Réseaux,Informatique,6.09,2,2020,Échec
+849,142,Algorithmique,Informatique,12.58,1,2020,Assez Bien
+850,142,Réseaux,Informatique,12.42,2,2020,Assez Bien
+851,142,Bases de Données,Informatique,10.21,2,2020,Passable
+852,142,Systèmes d'exploitation,Informatique,8.96,2,2020,Échec
+853,143,Chimie Organique,Chimie,10.76,1,2021,Passable
+854,143,Chimie Organique,Chimie,10.06,1,2021,Passable
+855,143,Biochimie,Chimie,12.79,1,2021,Assez Bien
+856,143,Chimie Organique,Chimie,13.24,1,2021,Assez Bien
+857,143,Chimie Générale,Chimie,4.96,1,2021,Échec
+858,143,Chimie Générale,Chimie,14.09,1,2021,Bien
+859,144,Finance,Économie,11.05,1,2020,Passable
+860,144,Microéconomie,Économie,9.82,1,2020,Échec
+861,144,Finance,Économie,13.24,1,2020,Assez Bien
+862,144,Comptabilité,Économie,13.08,1,2020,Assez Bien
+863,144,Microéconomie,Économie,12.82,1,2020,Assez Bien
+864,144,Marketing,Économie,2.19,1,2020,Échec
+865,145,Électrotechnique,Génie Électrique,10.53,1,2021,Passable
+866,145,Télécoms,Génie Électrique,10.14,2,2021,Passable
+867,145,Énergie,Génie Électrique,9.64,1,2021,Échec
+868,145,Énergie,Génie Électrique,12.93,1,2021,Assez Bien
+869,145,Électronique,Génie Électrique,13.88,1,2021,Assez Bien
+870,145,Télécoms,Génie Électrique,4.85,1,2021,Échec
+871,146,Thermodynamique,Physique,14.16,1,2022,Bien
+872,146,Relativité,Physique,16.91,1,2022,Très Bien
+873,146,Électromagnétisme,Physique,17.85,2,2022,Très Bien
+874,146,Thermodynamique,Physique,7.26,1,2022,Échec
+875,146,Optique,Physique,10.12,2,2022,Passable
+876,146,Optique,Physique,9.31,2,2022,Échec
+877,147,Macroéconomie,Économie,6.92,2,2020,Échec
+878,147,Microéconomie,Économie,10.63,2,2020,Passable
+879,147,Microéconomie,Économie,6.35,2,2020,Échec
+880,147,Statistiques Éco,Économie,10.42,2,2020,Passable
+881,147,Marketing,Économie,10.71,2,2020,Passable
+882,147,Microéconomie,Économie,9.37,2,2020,Échec
+883,148,Probabilités,Mathématiques,4.71,2,2023,Échec
+884,148,Algèbre 1,Mathématiques,12.74,2,2023,Assez Bien
+885,148,Probabilités,Mathématiques,15.21,1,2023,Bien
+886,148,Statistiques,Mathématiques,10.6,2,2023,Passable
+887,148,Algèbre 1,Mathématiques,16.97,1,2023,Très Bien
+888,148,Statistiques,Mathématiques,11.48,2,2023,Passable
+889,149,Biochimie,Biologie,10.08,1,2023,Passable
+890,149,Écologie,Biologie,9.58,2,2023,Échec
+891,149,Physiologie,Biologie,9.44,1,2023,Échec
+892,149,Biologie Cellulaire,Biologie,10.0,2,2023,Passable
+893,149,Génétique,Biologie,8.16,2,2023,Échec
+894,149,Biologie Cellulaire,Biologie,15.57,1,2023,Bien
+895,150,Réseaux,Informatique,10.5,2,2022,Passable
+896,150,IA,Informatique,7.81,2,2022,Échec
+897,150,Bases de Données,Informatique,5.62,2,2022,Échec
+898,150,Réseaux,Informatique,11.82,2,2022,Passable
+899,150,Programmation C,Informatique,11.22,2,2022,Passable
+900,150,Réseaux,Informatique,9.1,2,2022,Échec
+901,151,Électrotechnique,Génie Électrique,9.51,1,2020,Échec
+902,151,Télécoms,Génie Électrique,9.45,1,2020,Échec
+903,151,Électronique,Génie Électrique,10.07,1,2020,Passable
+904,151,Signal,Génie Électrique,11.01,2,2020,Passable
+905,151,Électrotechnique,Génie Électrique,9.18,1,2020,Échec
+906,151,Télécoms,Génie Électrique,16.28,2,2020,Très Bien
+907,152,Statistiques,Mathématiques,12.75,2,2021,Assez Bien
+908,152,Topologie,Mathématiques,16.63,2,2021,Très Bien
+909,152,Topologie,Mathématiques,6.6,1,2021,Échec
+910,152,Analyse 1,Mathématiques,17.59,2,2021,Très Bien
+911,152,Analyse 1,Mathématiques,8.41,2,2021,Échec
+912,152,Statistiques,Mathématiques,13.32,2,2021,Assez Bien
+913,153,Droit Civil,Droit,15.99,2,2023,Bien
+914,153,Droit Int.,Droit,12.05,1,2023,Assez Bien
+915,153,Droit Administratif,Droit,7.86,2,2023,Échec
+916,153,Droit Administratif,Droit,12.46,1,2023,Assez Bien
+917,153,Procédure Civile,Droit,8.33,2,2023,Échec
+918,153,Droit Administratif,Droit,5.76,1,2023,Échec
+919,154,Sémiologie,Médecine,13.94,2,2023,Assez Bien
+920,154,Sémiologie,Médecine,12.07,2,2023,Assez Bien
+921,154,Biochimie Méd.,Médecine,10.59,1,2023,Passable
+922,154,Physiologie,Médecine,11.86,2,2023,Passable
+923,154,Biochimie Méd.,Médecine,12.94,2,2023,Assez Bien
+924,154,Pharmacologie,Médecine,6.07,1,2023,Échec
+925,155,Finance,Économie,8.88,2,2023,Échec
+926,155,Microéconomie,Économie,14.11,1,2023,Bien
+927,155,Macroéconomie,Économie,11.33,1,2023,Passable
+928,155,Statistiques Éco,Économie,14.44,1,2023,Bien
+929,155,Comptabilité,Économie,12.84,2,2023,Assez Bien
+930,155,Microéconomie,Économie,12.61,2,2023,Assez Bien
+931,156,IA,Informatique,14.39,2,2023,Bien
+932,156,Bases de Données,Informatique,7.08,1,2023,Échec
+933,156,IA,Informatique,10.17,2,2023,Passable
+934,156,Réseaux,Informatique,11.16,2,2023,Passable
+935,156,Bases de Données,Informatique,4.47,1,2023,Échec
+936,156,IA,Informatique,7.8,1,2023,Échec
+937,157,Biochimie Méd.,Médecine,3.69,2,2020,Échec
+938,157,Physiologie,Médecine,11.15,2,2020,Passable
+939,157,Biochimie Méd.,Médecine,13.64,1,2020,Assez Bien
+940,157,Sémiologie,Médecine,10.49,1,2020,Passable
+941,157,Biochimie Méd.,Médecine,10.68,2,2020,Passable
+942,157,Physiologie,Médecine,14.35,1,2020,Bien
+943,158,Analyse Numérique,Mathématiques,12.0,2,2021,Assez Bien
+944,158,Probabilités,Mathématiques,9.52,1,2021,Échec
+945,158,Topologie,Mathématiques,12.44,1,2021,Assez Bien
+946,158,Probabilités,Mathématiques,6.69,1,2021,Échec
+947,158,Analyse Numérique,Mathématiques,13.12,2,2021,Assez Bien
+948,158,Statistiques,Mathématiques,6.76,2,2021,Échec
+949,159,Génétique,Biologie,8.39,2,2021,Échec
+950,159,Physiologie,Biologie,12.56,1,2021,Assez Bien
+951,159,Biologie Cellulaire,Biologie,7.65,1,2021,Échec
+952,159,Biochimie,Biologie,7.53,2,2021,Échec
+953,159,Génétique,Biologie,7.04,2,2021,Échec
+954,159,Microbiologie,Biologie,4.69,2,2021,Échec
+955,160,Systèmes d'exploitation,Informatique,10.79,1,2021,Passable
+956,160,Bases de Données,Informatique,9.61,2,2021,Échec
+957,160,Programmation C,Informatique,11.4,2,2021,Passable
+958,160,Réseaux,Informatique,17.61,2,2021,Très Bien
+959,160,Bases de Données,Informatique,16.62,1,2021,Très Bien
+960,160,Réseaux,Informatique,4.23,2,2021,Échec
+961,161,Microbiologie,Biologie,9.13,1,2020,Échec
+962,161,Écologie,Biologie,8.55,1,2020,Échec
+963,161,Biologie Cellulaire,Biologie,11.56,2,2020,Passable
+964,161,Écologie,Biologie,11.77,2,2020,Passable
+965,161,Biochimie,Biologie,15.18,1,2020,Bien
+966,161,Génétique,Biologie,10.77,1,2020,Passable
+967,162,Comptabilité,Économie,13.02,2,2023,Assez Bien
+968,162,Statistiques Éco,Économie,13.34,1,2023,Assez Bien
+969,162,Statistiques Éco,Économie,17.19,2,2023,Très Bien
+970,162,Microéconomie,Économie,2.76,1,2023,Échec
+971,162,Microéconomie,Économie,9.68,1,2023,Échec
+972,162,Finance,Économie,14.1,2,2023,Bien
+973,163,Pathologie,Médecine,10.04,1,2020,Passable
+974,163,Physiologie,Médecine,9.55,1,2020,Échec
+975,163,Sémiologie,Médecine,10.09,2,2020,Passable
+976,163,Pharmacologie,Médecine,1.75,1,2020,Échec
+977,163,Physiologie,Médecine,5.42,2,2020,Échec
+978,163,Biochimie Méd.,Médecine,6.96,2,2020,Échec
+979,164,IA,Informatique,10.64,1,2023,Passable
+980,164,Programmation C,Informatique,1.64,1,2023,Échec
+981,164,Programmation C,Informatique,11.72,2,2023,Passable
+982,164,Bases de Données,Informatique,14.12,1,2023,Bien
+983,164,Réseaux,Informatique,4.93,1,2023,Échec
+984,164,Bases de Données,Informatique,9.7,2,2023,Échec
+985,165,Statistiques,Mathématiques,6.78,1,2020,Échec
+986,165,Probabilités,Mathématiques,1.62,2,2020,Échec
+987,165,Analyse Numérique,Mathématiques,8.69,1,2020,Échec
+988,165,Analyse Numérique,Mathématiques,13.54,1,2020,Assez Bien
+989,165,Analyse Numérique,Mathématiques,16.18,2,2020,Très Bien
+990,165,Topologie,Mathématiques,8.04,2,2020,Échec
+991,166,Biochimie Méd.,Médecine,7.01,1,2022,Échec
+992,166,Sémiologie,Médecine,6.24,1,2022,Échec
+993,166,Pharmacologie,Médecine,4.29,2,2022,Échec
+994,166,Biochimie Méd.,Médecine,16.66,2,2022,Très Bien
+995,166,Anatomie,Médecine,17.19,2,2022,Très Bien
+996,166,Physiologie,Médecine,8.38,1,2022,Échec
+997,167,Droit Administratif,Droit,5.42,2,2023,Échec
+998,167,Droit Civil,Droit,4.95,2,2023,Échec
+999,167,Droit Civil,Droit,15.22,2,2023,Bien
+1000,167,Droit Int.,Droit,2.49,2,2023,Échec
+1001,167,Droit Commercial,Droit,9.33,1,2023,Échec
+1002,167,Droit Pénal,Droit,2.99,2,2023,Échec
+1003,168,Marketing,Économie,14.82,2,2021,Bien
+1004,168,Finance,Économie,12.69,1,2021,Assez Bien
+1005,168,Microéconomie,Économie,9.39,2,2021,Échec
+1006,168,Statistiques Éco,Économie,9.02,1,2021,Échec
+1007,168,Microéconomie,Économie,6.43,2,2021,Échec
+1008,168,Marketing,Économie,14.29,1,2021,Bien
+1009,169,Béton Armé,Génie Civil,13.64,1,2023,Assez Bien
+1010,169,Matériaux,Génie Civil,15.04,2,2023,Bien
+1011,169,Hydraulique,Génie Civil,3.24,1,2023,Échec
+1012,169,Hydraulique,Génie Civil,13.44,1,2023,Assez Bien
+1013,169,Structures,Génie Civil,8.03,2,2023,Échec
+1014,169,Mécanique des Sols,Génie Civil,9.03,1,2023,Échec
+1015,170,Statistiques,Mathématiques,8.31,2,2020,Échec
+1016,170,Topologie,Mathématiques,13.96,1,2020,Assez Bien
+1017,170,Analyse 1,Mathématiques,19.58,1,2020,Très Bien
+1018,170,Analyse 1,Mathématiques,8.1,2,2020,Échec
+1019,170,Algèbre 1,Mathématiques,10.42,1,2020,Passable
+1020,170,Statistiques,Mathématiques,18.8,2,2020,Très Bien
+1021,171,Physique Quantique,Physique,10.89,2,2020,Passable
+1022,171,Électromagnétisme,Physique,12.72,1,2020,Assez Bien
+1023,171,Mécanique,Physique,10.16,2,2020,Passable
+1024,171,Relativité,Physique,6.81,2,2020,Échec
+1025,171,Mécanique,Physique,11.43,2,2020,Passable
+1026,171,Thermodynamique,Physique,13.66,2,2020,Assez Bien
+1027,172,Signal,Génie Électrique,16.39,1,2022,Très Bien
+1028,172,Automatique,Génie Électrique,16.75,1,2022,Très Bien
+1029,172,Signal,Génie Électrique,14.01,1,2022,Bien
+1030,172,Automatique,Génie Électrique,17.43,2,2022,Très Bien
+1031,172,Électrotechnique,Génie Électrique,4.55,2,2022,Échec
+1032,172,Énergie,Génie Électrique,5.12,2,2022,Échec
+1033,173,Béton Armé,Génie Civil,13.13,2,2020,Assez Bien
+1034,173,Structures,Génie Civil,11.14,2,2020,Passable
+1035,173,Structures,Génie Civil,11.93,2,2020,Passable
+1036,173,Structures,Génie Civil,14.82,2,2020,Bien
+1037,173,Béton Armé,Génie Civil,12.15,2,2020,Assez Bien
+1038,173,Mécanique des Sols,Génie Civil,11.78,2,2020,Passable
+1039,174,Probabilités,Mathématiques,20.0,1,2022,Très Bien
+1040,174,Analyse 1,Mathématiques,10.81,2,2022,Passable
+1041,174,Topologie,Mathématiques,8.52,2,2022,Échec
+1042,174,Analyse Numérique,Mathématiques,8.68,2,2022,Échec
+1043,174,Algèbre 1,Mathématiques,16.02,1,2022,Très Bien
+1044,174,Probabilités,Mathématiques,9.98,1,2022,Échec
+1045,175,Énergie,Génie Électrique,7.36,2,2020,Échec
+1046,175,Électrotechnique,Génie Électrique,11.16,1,2020,Passable
+1047,175,Automatique,Génie Électrique,9.95,2,2020,Échec
+1048,175,Électronique,Génie Électrique,6.87,2,2020,Échec
+1049,175,Électronique,Génie Électrique,15.66,2,2020,Bien
+1050,175,Télécoms,Génie Électrique,10.37,2,2020,Passable
+1051,176,Écologie,Biologie,9.32,2,2022,Échec
+1052,176,Biochimie,Biologie,19.01,2,2022,Très Bien
+1053,176,Écologie,Biologie,13.72,2,2022,Assez Bien
+1054,176,Génétique,Biologie,8.83,2,2022,Échec
+1055,176,Biologie Cellulaire,Biologie,11.5,1,2022,Passable
+1056,176,Biologie Cellulaire,Biologie,12.24,2,2022,Assez Bien
+1057,177,Probabilités,Mathématiques,13.32,1,2021,Assez Bien
+1058,177,Statistiques,Mathématiques,14.84,1,2021,Bien
+1059,177,Statistiques,Mathématiques,7.1,2,2021,Échec
+1060,177,Statistiques,Mathématiques,15.93,2,2021,Bien
+1061,177,Analyse 1,Mathématiques,15.55,1,2021,Bien
+1062,177,Probabilités,Mathématiques,4.38,1,2021,Échec
+1063,178,Électrotechnique,Génie Électrique,12.71,1,2023,Assez Bien
+1064,178,Télécoms,Génie Électrique,9.14,2,2023,Échec
+1065,178,Énergie,Génie Électrique,15.11,1,2023,Bien
+1066,178,Énergie,Génie Électrique,7.64,1,2023,Échec
+1067,178,Signal,Génie Électrique,13.64,2,2023,Assez Bien
+1068,178,Télécoms,Génie Électrique,9.56,1,2023,Échec
+1069,179,Biochimie Méd.,Médecine,16.97,1,2020,Très Bien
+1070,179,Pharmacologie,Médecine,11.98,2,2020,Passable
+1071,179,Sémiologie,Médecine,12.71,2,2020,Assez Bien
+1072,179,Physiologie,Médecine,10.18,1,2020,Passable
+1073,179,Anatomie,Médecine,4.92,2,2020,Échec
+1074,179,Pharmacologie,Médecine,12.55,2,2020,Assez Bien
+1075,180,Topologie,Mathématiques,9.05,1,2022,Échec
+1076,180,Analyse Numérique,Mathématiques,8.0,2,2022,Échec
+1077,180,Probabilités,Mathématiques,20.0,1,2022,Très Bien
+1078,180,Algèbre 1,Mathématiques,5.61,1,2022,Échec
+1079,180,Analyse Numérique,Mathématiques,9.53,1,2022,Échec
+1080,180,Topologie,Mathématiques,18.0,2,2022,Très Bien
+1081,181,Électronique,Génie Électrique,8.98,2,2022,Échec
+1082,181,Électronique,Génie Électrique,12.49,1,2022,Assez Bien
+1083,181,Électrotechnique,Génie Électrique,14.62,2,2022,Bien
+1084,181,Télécoms,Génie Électrique,16.94,1,2022,Très Bien
+1085,181,Électronique,Génie Électrique,8.84,2,2022,Échec
+1086,181,Télécoms,Génie Électrique,17.86,1,2022,Très Bien
+1087,182,Probabilités,Mathématiques,7.18,1,2022,Échec
+1088,182,Statistiques,Mathématiques,4.48,2,2022,Échec
+1089,182,Statistiques,Mathématiques,5.91,2,2022,Échec
+1090,182,Analyse 1,Mathématiques,11.76,2,2022,Passable
+1091,182,Probabilités,Mathématiques,7.78,2,2022,Échec
+1092,182,Analyse 1,Mathématiques,8.2,1,2022,Échec
+1093,183,Systèmes d'exploitation,Informatique,8.57,1,2021,Échec
+1094,183,IA,Informatique,14.74,1,2021,Bien
+1095,183,Réseaux,Informatique,5.31,1,2021,Échec
+1096,183,Bases de Données,Informatique,10.02,2,2021,Passable
+1097,183,Réseaux,Informatique,17.32,2,2021,Très Bien
+1098,183,Programmation C,Informatique,14.43,1,2021,Bien
+1099,184,Physiologie,Biologie,17.29,2,2021,Très Bien
+1100,184,Microbiologie,Biologie,6.6,1,2021,Échec
+1101,184,Biochimie,Biologie,12.08,1,2021,Assez Bien
+1102,184,Biochimie,Biologie,11.56,2,2021,Passable
+1103,184,Écologie,Biologie,15.88,2,2021,Bien
+1104,184,Microbiologie,Biologie,14.29,2,2021,Bien
+1105,185,Systèmes d'exploitation,Informatique,15.12,1,2023,Bien
+1106,185,IA,Informatique,13.33,2,2023,Assez Bien
+1107,185,Programmation C,Informatique,12.73,1,2023,Assez Bien
+1108,185,Algorithmique,Informatique,3.5,2,2023,Échec
+1109,185,IA,Informatique,9.43,2,2023,Échec
+1110,185,IA,Informatique,16.08,2,2023,Très Bien
+1111,186,Procédure Civile,Droit,12.3,1,2022,Assez Bien
+1112,186,Droit Pénal,Droit,7.58,1,2022,Échec
+1113,186,Droit Civil,Droit,10.9,1,2022,Passable
+1114,186,Droit Administratif,Droit,5.56,1,2022,Échec
+1115,186,Droit Civil,Droit,10.48,2,2022,Passable
+1116,186,Droit Administratif,Droit,11.4,2,2022,Passable
+1117,187,Analyse Numérique,Mathématiques,16.3,2,2022,Très Bien
+1118,187,Probabilités,Mathématiques,9.84,2,2022,Échec
+1119,187,Analyse Numérique,Mathématiques,8.18,2,2022,Échec
+1120,187,Probabilités,Mathématiques,5.56,1,2022,Échec
+1121,187,Algèbre 1,Mathématiques,12.72,1,2022,Assez Bien
+1122,187,Analyse Numérique,Mathématiques,12.95,1,2022,Assez Bien
+1123,188,Analyse 1,Mathématiques,12.47,1,2023,Assez Bien
+1124,188,Statistiques,Mathématiques,16.6,1,2023,Très Bien
+1125,188,Analyse 1,Mathématiques,9.6,2,2023,Échec
+1126,188,Statistiques,Mathématiques,15.24,1,2023,Bien
+1127,188,Analyse 1,Mathématiques,12.16,2,2023,Assez Bien
+1128,188,Statistiques,Mathématiques,12.99,2,2023,Assez Bien
+1129,189,Béton Armé,Génie Civil,14.38,1,2020,Bien
+1130,189,Hydraulique,Génie Civil,6.91,2,2020,Échec
+1131,189,Béton Armé,Génie Civil,10.06,2,2020,Passable
+1132,189,Topographie,Génie Civil,12.61,2,2020,Assez Bien
+1133,189,Structures,Génie Civil,5.29,2,2020,Échec
+1134,189,Béton Armé,Génie Civil,7.92,2,2020,Échec
+1135,190,Droit Administratif,Droit,5.67,2,2020,Échec
+1136,190,Droit Pénal,Droit,11.47,1,2020,Passable
+1137,190,Procédure Civile,Droit,16.21,1,2020,Très Bien
+1138,190,Droit Commercial,Droit,11.63,2,2020,Passable
+1139,190,Droit Administratif,Droit,15.14,2,2020,Bien
+1140,190,Droit Administratif,Droit,14.74,2,2020,Bien
+1141,191,Mécanique,Physique,14.4,2,2020,Bien
+1142,191,Thermodynamique,Physique,16.46,2,2020,Très Bien
+1143,191,Électromagnétisme,Physique,5.68,2,2020,Échec
+1144,191,Physique Quantique,Physique,10.74,2,2020,Passable
+1145,191,Électromagnétisme,Physique,15.76,2,2020,Bien
+1146,191,Optique,Physique,6.71,2,2020,Échec
+1147,192,Topographie,Génie Civil,13.37,1,2022,Assez Bien
+1148,192,Hydraulique,Génie Civil,3.66,1,2022,Échec
+1149,192,Structures,Génie Civil,8.55,1,2022,Échec
+1150,192,Matériaux,Génie Civil,11.26,2,2022,Passable
+1151,192,Béton Armé,Génie Civil,13.58,2,2022,Assez Bien
+1152,192,Hydraulique,Génie Civil,1.78,1,2022,Échec
+1153,193,Génétique,Biologie,0.0,2,2021,Échec
+1154,193,Microbiologie,Biologie,5.69,2,2021,Échec
+1155,193,Physiologie,Biologie,15.08,1,2021,Bien
+1156,193,Biologie Cellulaire,Biologie,17.3,2,2021,Très Bien
+1157,193,Écologie,Biologie,13.16,1,2021,Assez Bien
+1158,193,Écologie,Biologie,12.88,2,2021,Assez Bien
+1159,194,Comptabilité,Économie,12.49,2,2023,Assez Bien
+1160,194,Macroéconomie,Économie,4.31,1,2023,Échec
+1161,194,Statistiques Éco,Économie,20.0,2,2023,Très Bien
+1162,194,Microéconomie,Économie,14.01,1,2023,Bien
+1163,194,Marketing,Économie,4.9,1,2023,Échec
+1164,194,Marketing,Économie,5.97,1,2023,Échec
+1165,195,Marketing,Économie,15.45,1,2020,Bien
+1166,195,Comptabilité,Économie,14.47,1,2020,Bien
+1167,195,Statistiques Éco,Économie,9.87,2,2020,Échec
+1168,195,Statistiques Éco,Économie,15.17,1,2020,Bien
+1169,195,Macroéconomie,Économie,8.82,1,2020,Échec
+1170,195,Microéconomie,Économie,8.12,1,2020,Échec
+1171,196,Topographie,Génie Civil,17.73,1,2020,Très Bien
+1172,196,Mécanique des Sols,Génie Civil,9.7,2,2020,Échec
+1173,196,Hydraulique,Génie Civil,10.44,2,2020,Passable
+1174,196,Hydraulique,Génie Civil,13.39,2,2020,Assez Bien
+1175,196,Hydraulique,Génie Civil,8.94,2,2020,Échec
+1176,196,Mécanique des Sols,Génie Civil,8.82,1,2020,Échec
+1177,197,Écologie,Biologie,7.49,2,2020,Échec
+1178,197,Biochimie,Biologie,13.12,2,2020,Assez Bien
+1179,197,Biologie Cellulaire,Biologie,4.58,1,2020,Échec
+1180,197,Biologie Cellulaire,Biologie,13.42,2,2020,Assez Bien
+1181,197,Microbiologie,Biologie,5.39,2,2020,Échec
+1182,197,Biologie Cellulaire,Biologie,14.99,2,2020,Bien
+1183,198,Anatomie,Médecine,7.94,1,2020,Échec
+1184,198,Pathologie,Médecine,6.16,2,2020,Échec
+1185,198,Pharmacologie,Médecine,6.06,2,2020,Échec
+1186,198,Pathologie,Médecine,14.49,2,2020,Bien
+1187,198,Biochimie Méd.,Médecine,14.24,1,2020,Bien
+1188,198,Pathologie,Médecine,11.16,2,2020,Passable
+1189,199,Droit Administratif,Droit,5.83,2,2021,Échec
+1190,199,Droit Int.,Droit,4.43,2,2021,Échec
+1191,199,Droit Int.,Droit,8.81,2,2021,Échec
+1192,199,Droit Civil,Droit,12.5,1,2021,Assez Bien
+1193,199,Procédure Civile,Droit,7.75,1,2021,Échec
+1194,199,Procédure Civile,Droit,16.54,2,2021,Très Bien
+1195,200,Droit Pénal,Droit,15.23,2,2021,Bien
+1196,200,Droit Int.,Droit,13.79,1,2021,Assez Bien
+1197,200,Droit Civil,Droit,18.03,2,2021,Très Bien
+1198,200,Droit Pénal,Droit,12.24,2,2021,Assez Bien
+1199,200,Droit Int.,Droit,6.8,1,2021,Échec
+1200,200,Droit Commercial,Droit,13.21,2,2021,Assez Bien
+1201,201,Structures,Génie Civil,8.95,1,2022,Échec
+1202,201,Topographie,Génie Civil,10.9,2,2022,Passable
+1203,201,Matériaux,Génie Civil,10.64,1,2022,Passable
+1204,201,Structures,Génie Civil,6.62,1,2022,Échec
+1205,201,Hydraulique,Génie Civil,9.2,1,2022,Échec
+1206,201,Structures,Génie Civil,16.65,2,2022,Très Bien
+1207,202,Matériaux,Génie Civil,10.85,1,2020,Passable
+1208,202,Hydraulique,Génie Civil,9.12,2,2020,Échec
+1209,202,Béton Armé,Génie Civil,13.55,2,2020,Assez Bien
+1210,202,Béton Armé,Génie Civil,14.35,1,2020,Bien
+1211,202,Béton Armé,Génie Civil,9.12,1,2020,Échec
+1212,202,Topographie,Génie Civil,11.96,1,2020,Passable
+1213,203,Biochimie Méd.,Médecine,9.2,2,2021,Échec
+1214,203,Biochimie Méd.,Médecine,7.36,2,2021,Échec
+1215,203,Pathologie,Médecine,7.18,2,2021,Échec
+1216,203,Pathologie,Médecine,12.99,2,2021,Assez Bien
+1217,203,Physiologie,Médecine,12.29,2,2021,Assez Bien
+1218,203,Physiologie,Médecine,12.64,1,2021,Assez Bien
+1219,204,Télécoms,Génie Électrique,12.05,1,2021,Assez Bien
+1220,204,Énergie,Génie Électrique,15.41,2,2021,Bien
+1221,204,Électronique,Génie Électrique,7.71,1,2021,Échec
+1222,204,Automatique,Génie Électrique,8.56,2,2021,Échec
+1223,204,Électronique,Génie Électrique,9.02,2,2021,Échec
+1224,204,Automatique,Génie Électrique,10.71,2,2021,Passable
+1225,205,Hydraulique,Génie Civil,3.95,1,2021,Échec
+1226,205,Matériaux,Génie Civil,11.63,2,2021,Passable
+1227,205,Béton Armé,Génie Civil,14.15,2,2021,Bien
+1228,205,Mécanique des Sols,Génie Civil,9.68,1,2021,Échec
+1229,205,Structures,Génie Civil,8.96,2,2021,Échec
+1230,205,Béton Armé,Génie Civil,11.14,1,2021,Passable
+1231,206,Réseaux,Informatique,7.58,2,2022,Échec
+1232,206,Bases de Données,Informatique,11.41,2,2022,Passable
+1233,206,Réseaux,Informatique,14.83,1,2022,Bien
+1234,206,Programmation C,Informatique,4.47,2,2022,Échec
+1235,206,Réseaux,Informatique,9.87,2,2022,Échec
+1236,206,Algorithmique,Informatique,9.03,2,2022,Échec
+1237,207,Thermochimie,Chimie,11.43,1,2021,Passable
+1238,207,Biochimie,Chimie,14.99,2,2021,Bien
+1239,207,Biochimie,Chimie,10.71,1,2021,Passable
+1240,207,Biochimie,Chimie,12.7,1,2021,Assez Bien
+1241,207,Électrochimie,Chimie,6.3,2,2021,Échec
+1242,207,Électrochimie,Chimie,5.99,1,2021,Échec
+1243,208,Structures,Génie Civil,8.56,1,2021,Échec
+1244,208,Matériaux,Génie Civil,10.05,1,2021,Passable
+1245,208,Topographie,Génie Civil,10.22,1,2021,Passable
+1246,208,Béton Armé,Génie Civil,10.99,2,2021,Passable
+1247,208,Mécanique des Sols,Génie Civil,11.19,2,2021,Passable
+1248,208,Béton Armé,Génie Civil,17.25,2,2021,Très Bien
+1249,209,Finance,Économie,7.06,1,2020,Échec
+1250,209,Comptabilité,Économie,8.53,2,2020,Échec
+1251,209,Macroéconomie,Économie,4.18,2,2020,Échec
+1252,209,Finance,Économie,15.04,2,2020,Bien
+1253,209,Microéconomie,Économie,12.38,1,2020,Assez Bien
+1254,209,Comptabilité,Économie,12.21,1,2020,Assez Bien
+1255,210,Macroéconomie,Économie,10.94,2,2021,Passable
+1256,210,Finance,Économie,12.73,1,2021,Assez Bien
+1257,210,Microéconomie,Économie,8.33,1,2021,Échec
+1258,210,Statistiques Éco,Économie,8.66,1,2021,Échec
+1259,210,Comptabilité,Économie,8.29,2,2021,Échec
+1260,210,Comptabilité,Économie,13.24,2,2021,Assez Bien
+1261,211,Pharmacologie,Médecine,19.0,1,2023,Très Bien
+1262,211,Physiologie,Médecine,7.92,1,2023,Échec
+1263,211,Sémiologie,Médecine,7.0,2,2023,Échec
+1264,211,Anatomie,Médecine,8.6,2,2023,Échec
+1265,211,Anatomie,Médecine,8.89,1,2023,Échec
+1266,211,Pharmacologie,Médecine,15.62,1,2023,Bien
+1267,212,Optique,Physique,5.08,1,2021,Échec
+1268,212,Thermodynamique,Physique,4.41,1,2021,Échec
+1269,212,Électromagnétisme,Physique,11.47,1,2021,Passable
+1270,212,Thermodynamique,Physique,5.21,2,2021,Échec
+1271,212,Optique,Physique,15.91,1,2021,Bien
+1272,212,Électromagnétisme,Physique,13.86,2,2021,Assez Bien
+1273,213,Matériaux,Génie Civil,17.95,2,2020,Très Bien
+1274,213,Matériaux,Génie Civil,10.36,2,2020,Passable
+1275,213,Béton Armé,Génie Civil,15.47,2,2020,Bien
+1276,213,Structures,Génie Civil,11.03,1,2020,Passable
+1277,213,Béton Armé,Génie Civil,19.39,2,2020,Très Bien
+1278,213,Matériaux,Génie Civil,14.33,2,2020,Bien
+1279,214,Relativité,Physique,8.28,1,2022,Échec
+1280,214,Physique Quantique,Physique,13.55,2,2022,Assez Bien
+1281,214,Mécanique,Physique,13.61,1,2022,Assez Bien
+1282,214,Thermodynamique,Physique,15.2,1,2022,Bien
+1283,214,Optique,Physique,8.6,2,2022,Échec
+1284,214,Optique,Physique,3.86,1,2022,Échec
+1285,215,Électrochimie,Chimie,3.8,2,2023,Échec
+1286,215,Biochimie,Chimie,10.78,2,2023,Passable
+1287,215,Biochimie,Chimie,8.13,2,2023,Échec
+1288,215,Chimie Analytique,Chimie,11.88,1,2023,Passable
+1289,215,Thermochimie,Chimie,14.45,1,2023,Bien
+1290,215,Biochimie,Chimie,10.09,1,2023,Passable
+1291,216,Procédure Civile,Droit,2.48,1,2022,Échec
+1292,216,Droit Administratif,Droit,12.27,2,2022,Assez Bien
+1293,216,Droit Administratif,Droit,4.16,1,2022,Échec
+1294,216,Procédure Civile,Droit,9.33,1,2022,Échec
+1295,216,Droit Int.,Droit,9.07,2,2022,Échec
+1296,216,Procédure Civile,Droit,11.69,2,2022,Passable
+1297,217,Topographie,Génie Civil,14.02,1,2020,Bien
+1298,217,Béton Armé,Génie Civil,17.13,2,2020,Très Bien
+1299,217,Hydraulique,Génie Civil,14.99,1,2020,Bien
+1300,217,Structures,Génie Civil,9.31,1,2020,Échec
+1301,217,Hydraulique,Génie Civil,8.34,1,2020,Échec
+1302,217,Béton Armé,Génie Civil,5.3,2,2020,Échec
+1303,218,Physiologie,Biologie,13.02,2,2023,Assez Bien
+1304,218,Biologie Cellulaire,Biologie,20.0,2,2023,Très Bien
+1305,218,Écologie,Biologie,16.17,1,2023,Très Bien
+1306,218,Biologie Cellulaire,Biologie,7.46,1,2023,Échec
+1307,218,Physiologie,Biologie,4.58,2,2023,Échec
+1308,218,Génétique,Biologie,15.91,1,2023,Bien
+1309,219,Analyse Numérique,Mathématiques,10.58,1,2020,Passable
+1310,219,Analyse 1,Mathématiques,5.04,1,2020,Échec
+1311,219,Analyse Numérique,Mathématiques,13.85,1,2020,Assez Bien
+1312,219,Topologie,Mathématiques,12.23,2,2020,Assez Bien
+1313,219,Algèbre 1,Mathématiques,11.5,2,2020,Passable
+1314,219,Analyse Numérique,Mathématiques,10.29,2,2020,Passable
+1315,220,Analyse 1,Mathématiques,16.29,1,2022,Très Bien
+1316,220,Probabilités,Mathématiques,8.82,2,2022,Échec
+1317,220,Statistiques,Mathématiques,10.09,2,2022,Passable
+1318,220,Statistiques,Mathématiques,16.97,2,2022,Très Bien
+1319,220,Topologie,Mathématiques,11.47,1,2022,Passable
+1320,220,Analyse 1,Mathématiques,2.71,2,2022,Échec
+1321,221,Pharmacologie,Médecine,7.58,2,2023,Échec
+1322,221,Physiologie,Médecine,10.29,2,2023,Passable
+1323,221,Anatomie,Médecine,16.3,1,2023,Très Bien
+1324,221,Pathologie,Médecine,6.03,2,2023,Échec
+1325,221,Anatomie,Médecine,13.3,2,2023,Assez Bien
+1326,221,Biochimie Méd.,Médecine,9.68,1,2023,Échec
+1327,222,Relativité,Physique,10.33,2,2022,Passable
+1328,222,Mécanique,Physique,10.33,2,2022,Passable
+1329,222,Thermodynamique,Physique,11.08,2,2022,Passable
+1330,222,Mécanique,Physique,15.53,2,2022,Bien
+1331,222,Physique Quantique,Physique,13.62,2,2022,Assez Bien
+1332,222,Mécanique,Physique,1.78,2,2022,Échec
+1333,223,Physique Quantique,Physique,18.67,1,2020,Très Bien
+1334,223,Optique,Physique,18.65,2,2020,Très Bien
+1335,223,Relativité,Physique,12.92,2,2020,Assez Bien
+1336,223,Mécanique,Physique,11.83,2,2020,Passable
+1337,223,Physique Quantique,Physique,9.96,1,2020,Échec
+1338,223,Physique Quantique,Physique,9.95,1,2020,Échec
+1339,224,Automatique,Génie Électrique,13.38,2,2023,Assez Bien
+1340,224,Électrotechnique,Génie Électrique,7.72,1,2023,Échec
+1341,224,Signal,Génie Électrique,5.69,1,2023,Échec
+1342,224,Automatique,Génie Électrique,15.75,1,2023,Bien
+1343,224,Signal,Génie Électrique,5.71,1,2023,Échec
+1344,224,Électronique,Génie Électrique,10.43,1,2023,Passable
+1345,225,Matériaux,Génie Civil,9.77,1,2020,Échec
+1346,225,Matériaux,Génie Civil,5.78,1,2020,Échec
+1347,225,Structures,Génie Civil,7.26,2,2020,Échec
+1348,225,Structures,Génie Civil,10.79,2,2020,Passable
+1349,225,Mécanique des Sols,Génie Civil,11.31,1,2020,Passable
+1350,225,Mécanique des Sols,Génie Civil,18.14,2,2020,Très Bien
+1351,226,Matériaux,Génie Civil,1.67,2,2022,Échec
+1352,226,Hydraulique,Génie Civil,14.98,1,2022,Bien
+1353,226,Mécanique des Sols,Génie Civil,5.66,2,2022,Échec
+1354,226,Hydraulique,Génie Civil,12.04,1,2022,Assez Bien
+1355,226,Matériaux,Génie Civil,5.84,1,2022,Échec
+1356,226,Mécanique des Sols,Génie Civil,7.89,1,2022,Échec
+1357,227,Optique,Physique,4.91,1,2020,Échec
+1358,227,Mécanique,Physique,20.0,2,2020,Très Bien
+1359,227,Électromagnétisme,Physique,7.96,2,2020,Échec
+1360,227,Physique Quantique,Physique,5.64,2,2020,Échec
+1361,227,Physique Quantique,Physique,7.69,2,2020,Échec
+1362,227,Optique,Physique,9.54,2,2020,Échec
+1363,228,Programmation C,Informatique,17.46,1,2021,Très Bien
+1364,228,Réseaux,Informatique,16.0,1,2021,Très Bien
+1365,228,Algorithmique,Informatique,7.04,2,2021,Échec
+1366,228,Systèmes d'exploitation,Informatique,6.29,1,2021,Échec
+1367,228,Programmation C,Informatique,4.21,2,2021,Échec
+1368,228,IA,Informatique,11.83,2,2021,Passable
+1369,229,Droit Pénal,Droit,4.94,1,2023,Échec
+1370,229,Droit Commercial,Droit,15.39,1,2023,Bien
+1371,229,Droit Civil,Droit,7.81,1,2023,Échec
+1372,229,Droit Commercial,Droit,14.96,2,2023,Bien
+1373,229,Droit Pénal,Droit,5.01,2,2023,Échec
+1374,229,Droit Civil,Droit,4.51,1,2023,Échec
+1375,230,Mécanique des Sols,Génie Civil,11.8,2,2022,Passable
+1376,230,Structures,Génie Civil,13.34,1,2022,Assez Bien
+1377,230,Hydraulique,Génie Civil,12.73,1,2022,Assez Bien
+1378,230,Béton Armé,Génie Civil,8.54,1,2022,Échec
+1379,230,Hydraulique,Génie Civil,11.7,1,2022,Passable
+1380,230,Topographie,Génie Civil,10.56,1,2022,Passable
+1381,231,Automatique,Génie Électrique,14.14,1,2022,Bien
+1382,231,Automatique,Génie Électrique,9.67,2,2022,Échec
+1383,231,Télécoms,Génie Électrique,13.32,2,2022,Assez Bien
+1384,231,Télécoms,Génie Électrique,15.31,1,2022,Bien
+1385,231,Électronique,Génie Électrique,16.59,1,2022,Très Bien
+1386,231,Électrotechnique,Génie Électrique,18.16,2,2022,Très Bien
+1387,232,Analyse Numérique,Mathématiques,7.19,1,2023,Échec
+1388,232,Analyse 1,Mathématiques,14.84,1,2023,Bien
+1389,232,Topologie,Mathématiques,10.38,1,2023,Passable
+1390,232,Analyse 1,Mathématiques,13.18,2,2023,Assez Bien
+1391,232,Algèbre 1,Mathématiques,17.26,2,2023,Très Bien
+1392,232,Algèbre 1,Mathématiques,2.55,1,2023,Échec
+1393,233,Topographie,Génie Civil,12.41,1,2020,Assez Bien
+1394,233,Matériaux,Génie Civil,5.66,2,2020,Échec
+1395,233,Structures,Génie Civil,11.03,2,2020,Passable
+1396,233,Mécanique des Sols,Génie Civil,7.13,2,2020,Échec
+1397,233,Structures,Génie Civil,6.67,2,2020,Échec
+1398,233,Topographie,Génie Civil,15.39,2,2020,Bien
+1399,234,Physique Quantique,Physique,3.67,1,2023,Échec
+1400,234,Électromagnétisme,Physique,16.26,1,2023,Très Bien
+1401,234,Électromagnétisme,Physique,8.21,1,2023,Échec
+1402,234,Thermodynamique,Physique,11.87,2,2023,Passable
+1403,234,Optique,Physique,2.56,2,2023,Échec
+1404,234,Thermodynamique,Physique,6.94,1,2023,Échec
+1405,235,Génétique,Biologie,11.03,2,2020,Passable
+1406,235,Génétique,Biologie,7.66,1,2020,Échec
+1407,235,Écologie,Biologie,7.39,2,2020,Échec
+1408,235,Écologie,Biologie,10.72,2,2020,Passable
+1409,235,Écologie,Biologie,7.84,2,2020,Échec
+1410,235,Écologie,Biologie,14.47,1,2020,Bien
+1411,236,Programmation C,Informatique,8.07,1,2021,Échec
+1412,236,Bases de Données,Informatique,12.13,1,2021,Assez Bien
+1413,236,Bases de Données,Informatique,13.64,1,2021,Assez Bien
+1414,236,Bases de Données,Informatique,6.99,1,2021,Échec
+1415,236,Algorithmique,Informatique,13.78,1,2021,Assez Bien
+1416,236,Bases de Données,Informatique,13.56,1,2021,Assez Bien
+1417,237,Biochimie,Chimie,9.38,2,2022,Échec
+1418,237,Chimie Organique,Chimie,13.98,1,2022,Assez Bien
+1419,237,Biochimie,Chimie,10.44,1,2022,Passable
+1420,237,Chimie Analytique,Chimie,2.19,2,2022,Échec
+1421,237,Chimie Analytique,Chimie,11.84,2,2022,Passable
+1422,237,Électrochimie,Chimie,7.02,1,2022,Échec
+1423,238,Finance,Économie,4.17,1,2022,Échec
+1424,238,Finance,Économie,1.08,1,2022,Échec
+1425,238,Macroéconomie,Économie,10.54,1,2022,Passable
+1426,238,Marketing,Économie,8.29,2,2022,Échec
+1427,238,Statistiques Éco,Économie,12.44,1,2022,Assez Bien
+1428,238,Comptabilité,Économie,7.64,1,2022,Échec
+1429,239,Signal,Génie Électrique,11.78,1,2022,Passable
+1430,239,Signal,Génie Électrique,4.86,2,2022,Échec
+1431,239,Énergie,Génie Électrique,13.15,1,2022,Assez Bien
+1432,239,Automatique,Génie Électrique,11.41,1,2022,Passable
+1433,239,Signal,Génie Électrique,13.81,2,2022,Assez Bien
+1434,239,Électrotechnique,Génie Électrique,3.96,2,2022,Échec
+1435,240,Finance,Économie,9.4,2,2023,Échec
+1436,240,Comptabilité,Économie,7.26,1,2023,Échec
+1437,240,Marketing,Économie,12.99,1,2023,Assez Bien
+1438,240,Comptabilité,Économie,2.18,2,2023,Échec
+1439,240,Finance,Économie,12.13,2,2023,Assez Bien
+1440,240,Macroéconomie,Économie,14.82,2,2023,Bien
+1441,241,Chimie Générale,Chimie,6.14,2,2022,Échec
+1442,241,Chimie Générale,Chimie,20.0,1,2022,Très Bien
+1443,241,Chimie Générale,Chimie,9.86,2,2022,Échec
+1444,241,Chimie Générale,Chimie,8.77,1,2022,Échec
+1445,241,Chimie Organique,Chimie,20.0,2,2022,Très Bien
+1446,241,Chimie Organique,Chimie,15.34,1,2022,Bien
+1447,242,Probabilités,Mathématiques,10.18,1,2023,Passable
+1448,242,Probabilités,Mathématiques,9.72,1,2023,Échec
+1449,242,Algèbre 1,Mathématiques,6.93,2,2023,Échec
+1450,242,Algèbre 1,Mathématiques,18.77,1,2023,Très Bien
+1451,242,Algèbre 1,Mathématiques,6.56,1,2023,Échec
+1452,242,Statistiques,Mathématiques,9.96,1,2023,Échec
+1453,243,Algèbre 1,Mathématiques,13.36,2,2022,Assez Bien
+1454,243,Algèbre 1,Mathématiques,8.5,2,2022,Échec
+1455,243,Topologie,Mathématiques,12.85,2,2022,Assez Bien
+1456,243,Probabilités,Mathématiques,17.08,1,2022,Très Bien
+1457,243,Analyse 1,Mathématiques,15.34,2,2022,Bien
+1458,243,Topologie,Mathématiques,10.76,1,2022,Passable
+1459,244,Topologie,Mathématiques,8.53,2,2021,Échec
+1460,244,Statistiques,Mathématiques,15.57,2,2021,Bien
+1461,244,Topologie,Mathématiques,12.7,2,2021,Assez Bien
+1462,244,Probabilités,Mathématiques,11.43,2,2021,Passable
+1463,244,Statistiques,Mathématiques,5.47,1,2021,Échec
+1464,244,Statistiques,Mathématiques,6.25,1,2021,Échec
+1465,245,Droit Pénal,Droit,16.26,2,2022,Très Bien
+1466,245,Droit Administratif,Droit,7.18,1,2022,Échec
+1467,245,Droit Int.,Droit,7.37,1,2022,Échec
+1468,245,Droit Pénal,Droit,9.33,1,2022,Échec
+1469,245,Droit Commercial,Droit,14.68,1,2022,Bien
+1470,245,Droit Int.,Droit,7.66,1,2022,Échec
+1471,246,Statistiques,Mathématiques,5.25,1,2022,Échec
+1472,246,Probabilités,Mathématiques,14.58,1,2022,Bien
+1473,246,Analyse 1,Mathématiques,4.05,2,2022,Échec
+1474,246,Statistiques,Mathématiques,10.81,1,2022,Passable
+1475,246,Probabilités,Mathématiques,11.32,1,2022,Passable
+1476,246,Analyse 1,Mathématiques,12.17,2,2022,Assez Bien
+1477,247,Pharmacologie,Médecine,8.76,1,2020,Échec
+1478,247,Pharmacologie,Médecine,14.36,1,2020,Bien
+1479,247,Anatomie,Médecine,10.98,1,2020,Passable
+1480,247,Biochimie Méd.,Médecine,17.29,2,2020,Très Bien
+1481,247,Pharmacologie,Médecine,9.39,1,2020,Échec
+1482,247,Pathologie,Médecine,11.4,2,2020,Passable
+1483,248,Droit Pénal,Droit,7.82,1,2022,Échec
+1484,248,Droit Pénal,Droit,11.59,1,2022,Passable
+1485,248,Procédure Civile,Droit,13.69,2,2022,Assez Bien
+1486,248,Droit Pénal,Droit,12.97,1,2022,Assez Bien
+1487,248,Droit Int.,Droit,11.51,1,2022,Passable
+1488,248,Droit Administratif,Droit,5.01,2,2022,Échec
+1489,249,Droit Pénal,Droit,11.22,1,2020,Passable
+1490,249,Droit Administratif,Droit,12.04,1,2020,Assez Bien
+1491,249,Droit Int.,Droit,13.16,1,2020,Assez Bien
+1492,249,Droit Administratif,Droit,5.7,2,2020,Échec
+1493,249,Droit Administratif,Droit,11.37,2,2020,Passable
+1494,249,Droit Pénal,Droit,11.13,1,2020,Passable
+1495,250,Thermodynamique,Physique,13.24,1,2022,Assez Bien
+1496,250,Optique,Physique,9.55,1,2022,Échec
+1497,250,Mécanique,Physique,9.64,1,2022,Échec
+1498,250,Électromagnétisme,Physique,13.23,1,2022,Assez Bien
+1499,250,Relativité,Physique,12.19,2,2022,Assez Bien
+1500,250,Physique Quantique,Physique,13.1,1,2022,Assez Bien
+1501,251,Probabilités,Mathématiques,8.52,1,2022,Échec
+1502,251,Topologie,Mathématiques,16.04,2,2022,Très Bien
+1503,251,Statistiques,Mathématiques,13.01,2,2022,Assez Bien
+1504,251,Probabilités,Mathématiques,12.91,1,2022,Assez Bien
+1505,251,Analyse 1,Mathématiques,8.15,2,2022,Échec
+1506,251,Algèbre 1,Mathématiques,13.01,2,2022,Assez Bien
+1507,252,Physiologie,Médecine,17.73,2,2020,Très Bien
+1508,252,Anatomie,Médecine,13.96,1,2020,Assez Bien
+1509,252,Physiologie,Médecine,5.21,2,2020,Échec
+1510,252,Anatomie,Médecine,14.62,1,2020,Bien
+1511,252,Biochimie Méd.,Médecine,16.24,2,2020,Très Bien
+1512,252,Pathologie,Médecine,9.62,1,2020,Échec
+1513,253,Biochimie Méd.,Médecine,14.06,2,2020,Bien
+1514,253,Pathologie,Médecine,17.04,2,2020,Très Bien
+1515,253,Anatomie,Médecine,8.21,2,2020,Échec
+1516,253,Pharmacologie,Médecine,15.71,1,2020,Bien
+1517,253,Sémiologie,Médecine,0.82,1,2020,Échec
+1518,253,Anatomie,Médecine,4.76,1,2020,Échec
+1519,254,Chimie Analytique,Chimie,11.36,1,2023,Passable
+1520,254,Électrochimie,Chimie,15.22,1,2023,Bien
+1521,254,Chimie Générale,Chimie,14.05,1,2023,Bien
+1522,254,Chimie Organique,Chimie,14.58,2,2023,Bien
+1523,254,Chimie Organique,Chimie,9.15,2,2023,Échec
+1524,254,Biochimie,Chimie,8.7,2,2023,Échec
+1525,255,Génétique,Biologie,9.99,1,2023,Échec
+1526,255,Biochimie,Biologie,16.66,2,2023,Très Bien
+1527,255,Physiologie,Biologie,13.56,1,2023,Assez Bien
+1528,255,Physiologie,Biologie,4.85,2,2023,Échec
+1529,255,Microbiologie,Biologie,11.24,1,2023,Passable
+1530,255,Physiologie,Biologie,15.97,1,2023,Bien
+1531,256,Systèmes d'exploitation,Informatique,14.38,1,2021,Bien
+1532,256,Réseaux,Informatique,7.52,1,2021,Échec
+1533,256,Algorithmique,Informatique,12.04,1,2021,Assez Bien
+1534,256,Algorithmique,Informatique,9.89,1,2021,Échec
+1535,256,Programmation C,Informatique,12.74,1,2021,Assez Bien
+1536,256,Programmation C,Informatique,12.75,1,2021,Assez Bien
+1537,257,Pharmacologie,Médecine,10.46,1,2021,Passable
+1538,257,Physiologie,Médecine,7.59,2,2021,Échec
+1539,257,Physiologie,Médecine,8.33,2,2021,Échec
+1540,257,Pathologie,Médecine,8.9,1,2021,Échec
+1541,257,Biochimie Méd.,Médecine,13.97,2,2021,Assez Bien
+1542,257,Pharmacologie,Médecine,7.51,2,2021,Échec
+1543,258,Mécanique des Sols,Génie Civil,6.88,2,2020,Échec
+1544,258,Mécanique des Sols,Génie Civil,11.77,2,2020,Passable
+1545,258,Béton Armé,Génie Civil,11.32,1,2020,Passable
+1546,258,Hydraulique,Génie Civil,6.79,1,2020,Échec
+1547,258,Matériaux,Génie Civil,10.55,2,2020,Passable
+1548,258,Hydraulique,Génie Civil,7.95,2,2020,Échec
+1549,259,Chimie Analytique,Chimie,7.14,1,2021,Échec
+1550,259,Chimie Analytique,Chimie,14.86,1,2021,Bien
+1551,259,Biochimie,Chimie,8.72,1,2021,Échec
+1552,259,Chimie Générale,Chimie,11.45,1,2021,Passable
+1553,259,Électrochimie,Chimie,10.52,2,2021,Passable
+1554,259,Thermochimie,Chimie,7.16,2,2021,Échec
+1555,260,Biochimie,Chimie,7.76,1,2021,Échec
+1556,260,Thermochimie,Chimie,14.32,1,2021,Bien
+1557,260,Chimie Générale,Chimie,7.13,1,2021,Échec
+1558,260,Thermochimie,Chimie,14.42,2,2021,Bien
+1559,260,Biochimie,Chimie,7.35,2,2021,Échec
+1560,260,Biochimie,Chimie,16.12,1,2021,Très Bien
+1561,261,Statistiques Éco,Économie,7.84,1,2023,Échec
+1562,261,Macroéconomie,Économie,13.77,2,2023,Assez Bien
+1563,261,Microéconomie,Économie,14.34,1,2023,Bien
+1564,261,Statistiques Éco,Économie,9.21,1,2023,Échec
+1565,261,Comptabilité,Économie,3.42,1,2023,Échec
+1566,261,Comptabilité,Économie,5.09,1,2023,Échec
+1567,262,Énergie,Génie Électrique,5.8,1,2023,Échec
+1568,262,Électronique,Génie Électrique,8.21,1,2023,Échec
+1569,262,Électronique,Génie Électrique,5.51,2,2023,Échec
+1570,262,Télécoms,Génie Électrique,3.97,1,2023,Échec
+1571,262,Énergie,Génie Électrique,17.9,1,2023,Très Bien
+1572,262,Signal,Génie Électrique,6.62,2,2023,Échec
+1573,263,Physiologie,Biologie,7.62,2,2023,Échec
+1574,263,Biochimie,Biologie,20.0,2,2023,Très Bien
+1575,263,Physiologie,Biologie,4.05,1,2023,Échec
+1576,263,Biologie Cellulaire,Biologie,15.31,2,2023,Bien
+1577,263,Génétique,Biologie,10.67,2,2023,Passable
+1578,263,Physiologie,Biologie,13.72,2,2023,Assez Bien
+1579,264,Analyse 1,Mathématiques,18.34,1,2023,Très Bien
+1580,264,Analyse 1,Mathématiques,10.4,1,2023,Passable
+1581,264,Analyse Numérique,Mathématiques,7.39,2,2023,Échec
+1582,264,Analyse Numérique,Mathématiques,13.05,2,2023,Assez Bien
+1583,264,Algèbre 1,Mathématiques,12.15,1,2023,Assez Bien
+1584,264,Algèbre 1,Mathématiques,13.3,2,2023,Assez Bien
+1585,265,Programmation C,Informatique,9.07,1,2023,Échec
+1586,265,Programmation C,Informatique,10.97,1,2023,Passable
+1587,265,Algorithmique,Informatique,11.0,1,2023,Passable
+1588,265,Bases de Données,Informatique,3.72,2,2023,Échec
+1589,265,Réseaux,Informatique,7.09,1,2023,Échec
+1590,265,Algorithmique,Informatique,7.0,2,2023,Échec
+1591,266,Analyse 1,Mathématiques,8.68,2,2023,Échec
+1592,266,Analyse 1,Mathématiques,13.24,1,2023,Assez Bien
+1593,266,Statistiques,Mathématiques,4.27,1,2023,Échec
+1594,266,Analyse 1,Mathématiques,11.63,2,2023,Passable
+1595,266,Analyse 1,Mathématiques,7.42,1,2023,Échec
+1596,266,Analyse 1,Mathématiques,4.92,1,2023,Échec
+1597,267,Physique Quantique,Physique,12.01,2,2020,Assez Bien
+1598,267,Optique,Physique,7.25,2,2020,Échec
+1599,267,Thermodynamique,Physique,8.13,2,2020,Échec
+1600,267,Thermodynamique,Physique,8.79,1,2020,Échec
+1601,267,Thermodynamique,Physique,9.02,1,2020,Échec
+1602,267,Thermodynamique,Physique,7.64,2,2020,Échec
+1603,268,Chimie Générale,Chimie,19.09,2,2023,Très Bien
+1604,268,Biochimie,Chimie,11.16,1,2023,Passable
+1605,268,Chimie Générale,Chimie,4.53,2,2023,Échec
+1606,268,Biochimie,Chimie,6.18,1,2023,Échec
+1607,268,Chimie Analytique,Chimie,5.19,2,2023,Échec
+1608,268,Électrochimie,Chimie,12.81,2,2023,Assez Bien
+1609,269,Statistiques Éco,Économie,15.45,2,2023,Bien
+1610,269,Microéconomie,Économie,20.0,2,2023,Très Bien
+1611,269,Microéconomie,Économie,17.41,2,2023,Très Bien
+1612,269,Macroéconomie,Économie,9.76,2,2023,Échec
+1613,269,Finance,Économie,10.52,2,2023,Passable
+1614,269,Finance,Économie,3.91,2,2023,Échec
+1615,270,Relativité,Physique,16.41,2,2023,Très Bien
+1616,270,Thermodynamique,Physique,4.21,1,2023,Échec
+1617,270,Relativité,Physique,14.01,1,2023,Bien
+1618,270,Électromagnétisme,Physique,14.8,2,2023,Bien
+1619,270,Mécanique,Physique,9.1,2,2023,Échec
+1620,270,Électromagnétisme,Physique,16.67,2,2023,Très Bien
+1621,271,Anatomie,Médecine,6.04,1,2022,Échec
+1622,271,Physiologie,Médecine,11.56,1,2022,Passable
+1623,271,Pathologie,Médecine,10.42,1,2022,Passable
+1624,271,Physiologie,Médecine,9.2,2,2022,Échec
+1625,271,Pharmacologie,Médecine,11.29,2,2022,Passable
+1626,271,Pathologie,Médecine,8.19,2,2022,Échec
+1627,272,Télécoms,Génie Électrique,12.55,2,2022,Assez Bien
+1628,272,Électronique,Génie Électrique,12.51,2,2022,Assez Bien
+1629,272,Électrotechnique,Génie Électrique,17.2,1,2022,Très Bien
+1630,272,Télécoms,Génie Électrique,8.17,2,2022,Échec
+1631,272,Signal,Génie Électrique,16.57,2,2022,Très Bien
+1632,272,Télécoms,Génie Électrique,7.47,2,2022,Échec
+1633,273,Programmation C,Informatique,11.33,1,2023,Passable
+1634,273,Algorithmique,Informatique,12.96,1,2023,Assez Bien
+1635,273,Bases de Données,Informatique,10.44,1,2023,Passable
+1636,273,Systèmes d'exploitation,Informatique,1.61,2,2023,Échec
+1637,273,Programmation C,Informatique,17.0,1,2023,Très Bien
+1638,273,Bases de Données,Informatique,3.09,1,2023,Échec
+1639,274,Systèmes d'exploitation,Informatique,3.44,2,2020,Échec
+1640,274,Bases de Données,Informatique,9.28,2,2020,Échec
+1641,274,IA,Informatique,12.9,1,2020,Assez Bien
+1642,274,Algorithmique,Informatique,10.16,2,2020,Passable
+1643,274,Algorithmique,Informatique,6.68,1,2020,Échec
+1644,274,Bases de Données,Informatique,9.94,1,2020,Échec
+1645,275,Signal,Génie Électrique,10.04,2,2021,Passable
+1646,275,Électrotechnique,Génie Électrique,8.96,1,2021,Échec
+1647,275,Énergie,Génie Électrique,8.98,1,2021,Échec
+1648,275,Automatique,Génie Électrique,15.27,2,2021,Bien
+1649,275,Télécoms,Génie Électrique,13.22,2,2021,Assez Bien
+1650,275,Électronique,Génie Électrique,6.88,2,2021,Échec
+1651,276,Droit Pénal,Droit,12.29,1,2021,Assez Bien
+1652,276,Droit Int.,Droit,8.57,1,2021,Échec
+1653,276,Droit Pénal,Droit,15.01,2,2021,Bien
+1654,276,Droit Int.,Droit,5.95,1,2021,Échec
+1655,276,Droit Civil,Droit,7.53,2,2021,Échec
+1656,276,Droit Commercial,Droit,9.92,2,2021,Échec
+1657,277,Optique,Physique,16.8,2,2023,Très Bien
+1658,277,Relativité,Physique,13.81,1,2023,Assez Bien
+1659,277,Relativité,Physique,13.48,1,2023,Assez Bien
+1660,277,Thermodynamique,Physique,7.86,1,2023,Échec
+1661,277,Relativité,Physique,9.06,1,2023,Échec
+1662,277,Optique,Physique,16.5,2,2023,Très Bien
+1663,278,Biochimie Méd.,Médecine,13.19,1,2023,Assez Bien
+1664,278,Pathologie,Médecine,9.35,1,2023,Échec
+1665,278,Biochimie Méd.,Médecine,10.21,1,2023,Passable
+1666,278,Pharmacologie,Médecine,5.82,2,2023,Échec
+1667,278,Pathologie,Médecine,15.97,1,2023,Bien
+1668,278,Biochimie Méd.,Médecine,3.34,2,2023,Échec
+1669,279,Chimie Organique,Chimie,12.88,2,2022,Assez Bien
+1670,279,Électrochimie,Chimie,10.32,2,2022,Passable
+1671,279,Chimie Organique,Chimie,8.16,1,2022,Échec
+1672,279,Chimie Générale,Chimie,8.09,1,2022,Échec
+1673,279,Thermochimie,Chimie,4.91,1,2022,Échec
+1674,279,Biochimie,Chimie,11.44,2,2022,Passable
+1675,280,Structures,Génie Civil,16.95,1,2022,Très Bien
+1676,280,Topographie,Génie Civil,10.67,2,2022,Passable
+1677,280,Hydraulique,Génie Civil,8.07,1,2022,Échec
+1678,280,Béton Armé,Génie Civil,7.79,1,2022,Échec
+1679,280,Béton Armé,Génie Civil,15.13,1,2022,Bien
+1680,280,Béton Armé,Génie Civil,14.98,2,2022,Bien
+1681,281,Hydraulique,Génie Civil,10.38,1,2021,Passable
+1682,281,Topographie,Génie Civil,9.33,2,2021,Échec
+1683,281,Structures,Génie Civil,10.01,1,2021,Passable
+1684,281,Béton Armé,Génie Civil,7.78,2,2021,Échec
+1685,281,Béton Armé,Génie Civil,9.2,1,2021,Échec
+1686,281,Topographie,Génie Civil,3.24,1,2021,Échec
+1687,282,Écologie,Biologie,6.34,2,2023,Échec
+1688,282,Biologie Cellulaire,Biologie,9.29,1,2023,Échec
+1689,282,Génétique,Biologie,19.34,1,2023,Très Bien
+1690,282,Biochimie,Biologie,9.17,1,2023,Échec
+1691,282,Biologie Cellulaire,Biologie,4.24,1,2023,Échec
+1692,282,Biologie Cellulaire,Biologie,8.58,1,2023,Échec
+1693,283,Physique Quantique,Physique,11.64,2,2020,Passable
+1694,283,Mécanique,Physique,13.28,1,2020,Assez Bien
+1695,283,Mécanique,Physique,7.2,1,2020,Échec
+1696,283,Optique,Physique,10.85,1,2020,Passable
+1697,283,Électromagnétisme,Physique,7.98,2,2020,Échec
+1698,283,Relativité,Physique,20.0,2,2020,Très Bien
+1699,284,Droit Pénal,Droit,5.54,2,2021,Échec
+1700,284,Procédure Civile,Droit,8.13,1,2021,Échec
+1701,284,Droit Int.,Droit,17.02,1,2021,Très Bien
+1702,284,Droit Civil,Droit,15.32,1,2021,Bien
+1703,284,Droit Pénal,Droit,8.68,1,2021,Échec
+1704,284,Procédure Civile,Droit,18.2,1,2021,Très Bien
+1705,285,Marketing,Économie,9.67,2,2020,Échec
+1706,285,Microéconomie,Économie,12.62,2,2020,Assez Bien
+1707,285,Comptabilité,Économie,4.63,2,2020,Échec
+1708,285,Finance,Économie,16.85,1,2020,Très Bien
+1709,285,Comptabilité,Économie,6.77,1,2020,Échec
+1710,285,Marketing,Économie,2.5,1,2020,Échec
+1711,286,Électronique,Génie Électrique,8.82,1,2023,Échec
+1712,286,Télécoms,Génie Électrique,8.7,2,2023,Échec
+1713,286,Énergie,Génie Électrique,6.92,1,2023,Échec
+1714,286,Signal,Génie Électrique,4.81,1,2023,Échec
+1715,286,Automatique,Génie Électrique,15.26,1,2023,Bien
+1716,286,Énergie,Génie Électrique,10.8,1,2023,Passable
+1717,287,Algorithmique,Informatique,10.38,2,2020,Passable
+1718,287,Algorithmique,Informatique,15.89,2,2020,Bien
+1719,287,IA,Informatique,18.43,2,2020,Très Bien
+1720,287,Programmation C,Informatique,15.65,1,2020,Bien
+1721,287,Bases de Données,Informatique,14.88,1,2020,Bien
+1722,287,Réseaux,Informatique,11.24,1,2020,Passable
+1723,288,Électronique,Génie Électrique,13.91,2,2021,Assez Bien
+1724,288,Énergie,Génie Électrique,16.77,2,2021,Très Bien
+1725,288,Électronique,Génie Électrique,4.89,2,2021,Échec
+1726,288,Énergie,Génie Électrique,9.88,2,2021,Échec
+1727,288,Énergie,Génie Électrique,12.02,2,2021,Assez Bien
+1728,288,Signal,Génie Électrique,11.73,1,2021,Passable
+1729,289,Microbiologie,Biologie,13.08,2,2020,Assez Bien
+1730,289,Écologie,Biologie,5.35,1,2020,Échec
+1731,289,Microbiologie,Biologie,15.79,1,2020,Bien
+1732,289,Physiologie,Biologie,11.29,1,2020,Passable
+1733,289,Génétique,Biologie,6.28,1,2020,Échec
+1734,289,Physiologie,Biologie,15.5,2,2020,Bien
+1735,290,Statistiques Éco,Économie,12.04,2,2023,Assez Bien
+1736,290,Statistiques Éco,Économie,5.07,2,2023,Échec
+1737,290,Macroéconomie,Économie,7.53,2,2023,Échec
+1738,290,Marketing,Économie,12.4,2,2023,Assez Bien
+1739,290,Comptabilité,Économie,15.64,1,2023,Bien
+1740,290,Comptabilité,Économie,9.58,1,2023,Échec
+1741,291,Chimie Analytique,Chimie,8.12,1,2020,Échec
+1742,291,Biochimie,Chimie,12.92,1,2020,Assez Bien
+1743,291,Chimie Générale,Chimie,9.79,1,2020,Échec
+1744,291,Électrochimie,Chimie,1.45,1,2020,Échec
+1745,291,Chimie Générale,Chimie,10.79,2,2020,Passable
+1746,291,Chimie Générale,Chimie,5.92,2,2020,Échec
+1747,292,Structures,Génie Civil,4.53,2,2022,Échec
+1748,292,Topographie,Génie Civil,10.65,1,2022,Passable
+1749,292,Topographie,Génie Civil,13.59,1,2022,Assez Bien
+1750,292,Structures,Génie Civil,11.23,2,2022,Passable
+1751,292,Structures,Génie Civil,7.41,1,2022,Échec
+1752,292,Matériaux,Génie Civil,10.21,2,2022,Passable
+1753,293,Électrotechnique,Génie Électrique,7.22,1,2022,Échec
+1754,293,Électrotechnique,Génie Électrique,3.64,1,2022,Échec
+1755,293,Automatique,Génie Électrique,13.56,1,2022,Assez Bien
+1756,293,Signal,Génie Électrique,6.94,2,2022,Échec
+1757,293,Signal,Génie Électrique,16.07,2,2022,Très Bien
+1758,293,Télécoms,Génie Électrique,20.0,1,2022,Très Bien
+1759,294,Matériaux,Génie Civil,15.67,2,2021,Bien
+1760,294,Hydraulique,Génie Civil,4.63,2,2021,Échec
+1761,294,Hydraulique,Génie Civil,10.98,2,2021,Passable
+1762,294,Mécanique des Sols,Génie Civil,11.27,2,2021,Passable
+1763,294,Structures,Génie Civil,2.58,2,2021,Échec
+1764,294,Matériaux,Génie Civil,10.18,2,2021,Passable
+1765,295,Béton Armé,Génie Civil,7.59,2,2022,Échec
+1766,295,Hydraulique,Génie Civil,15.35,2,2022,Bien
+1767,295,Béton Armé,Génie Civil,19.4,1,2022,Très Bien
+1768,295,Topographie,Génie Civil,11.27,2,2022,Passable
+1769,295,Béton Armé,Génie Civil,14.74,1,2022,Bien
+1770,295,Matériaux,Génie Civil,13.77,1,2022,Assez Bien
+1771,296,Thermochimie,Chimie,14.29,1,2020,Bien
+1772,296,Biochimie,Chimie,14.25,2,2020,Bien
+1773,296,Chimie Organique,Chimie,7.19,2,2020,Échec
+1774,296,Thermochimie,Chimie,11.71,1,2020,Passable
+1775,296,Électrochimie,Chimie,11.72,2,2020,Passable
+1776,296,Biochimie,Chimie,9.22,2,2020,Échec
+1777,297,Droit Pénal,Droit,15.23,1,2022,Bien
+1778,297,Droit Commercial,Droit,16.11,1,2022,Très Bien
+1779,297,Droit Civil,Droit,11.43,2,2022,Passable
+1780,297,Droit Administratif,Droit,12.06,2,2022,Assez Bien
+1781,297,Droit Civil,Droit,12.42,2,2022,Assez Bien
+1782,297,Droit Int.,Droit,13.25,2,2022,Assez Bien
+1783,298,Chimie Générale,Chimie,6.55,1,2021,Échec
+1784,298,Chimie Analytique,Chimie,13.41,2,2021,Assez Bien
+1785,298,Électrochimie,Chimie,10.01,2,2021,Passable
+1786,298,Chimie Organique,Chimie,4.49,1,2021,Échec
+1787,298,Chimie Générale,Chimie,11.55,2,2021,Passable
+1788,298,Électrochimie,Chimie,9.0,1,2021,Échec
+1789,299,Droit Int.,Droit,11.51,2,2021,Passable
+1790,299,Droit Administratif,Droit,17.0,1,2021,Très Bien
+1791,299,Droit Administratif,Droit,7.77,1,2021,Échec
+1792,299,Droit Administratif,Droit,11.4,1,2021,Passable
+1793,299,Procédure Civile,Droit,13.75,1,2021,Assez Bien
+1794,299,Droit Commercial,Droit,14.92,1,2021,Bien
+1795,300,Droit Commercial,Droit,14.01,2,2022,Bien
+1796,300,Droit Pénal,Droit,10.89,2,2022,Passable
+1797,300,Droit Int.,Droit,11.38,1,2022,Passable
+1798,300,Droit Pénal,Droit,9.17,1,2022,Échec
+1799,300,Droit Pénal,Droit,13.95,2,2022,Assez Bien
+1800,300,Droit Pénal,Droit,13.78,1,2022,Assez Bien
+1801,301,Pharmacologie,Médecine,13.65,1,2021,Assez Bien
+1802,301,Pharmacologie,Médecine,11.3,2,2021,Passable
+1803,301,Sémiologie,Médecine,9.03,1,2021,Échec
+1804,301,Physiologie,Médecine,16.31,2,2021,Très Bien
+1805,301,Pharmacologie,Médecine,6.26,1,2021,Échec
+1806,301,Biochimie Méd.,Médecine,11.62,1,2021,Passable
+1807,302,Biochimie Méd.,Médecine,4.73,2,2023,Échec
+1808,302,Physiologie,Médecine,18.24,2,2023,Très Bien
+1809,302,Anatomie,Médecine,11.05,2,2023,Passable
+1810,302,Physiologie,Médecine,11.12,2,2023,Passable
+1811,302,Pharmacologie,Médecine,9.97,2,2023,Échec
+1812,302,Physiologie,Médecine,16.37,2,2023,Très Bien
+1813,303,Optique,Physique,8.77,1,2023,Échec
+1814,303,Relativité,Physique,13.58,1,2023,Assez Bien
+1815,303,Relativité,Physique,3.46,2,2023,Échec
+1816,303,Thermodynamique,Physique,8.46,2,2023,Échec
+1817,303,Relativité,Physique,11.88,2,2023,Passable
+1818,303,Électromagnétisme,Physique,6.17,2,2023,Échec
+1819,304,Programmation C,Informatique,9.53,1,2023,Échec
+1820,304,Programmation C,Informatique,10.14,1,2023,Passable
+1821,304,Algorithmique,Informatique,3.45,1,2023,Échec
+1822,304,Programmation C,Informatique,6.43,2,2023,Échec
+1823,304,Algorithmique,Informatique,15.48,2,2023,Bien
+1824,304,Bases de Données,Informatique,13.28,2,2023,Assez Bien
+1825,305,Programmation C,Informatique,8.74,1,2023,Échec
+1826,305,Programmation C,Informatique,10.52,2,2023,Passable
+1827,305,Systèmes d'exploitation,Informatique,8.99,2,2023,Échec
+1828,305,Bases de Données,Informatique,2.81,2,2023,Échec
+1829,305,IA,Informatique,9.21,1,2023,Échec
+1830,305,Réseaux,Informatique,2.39,2,2023,Échec
+1831,306,Marketing,Économie,15.3,1,2020,Bien
+1832,306,Macroéconomie,Économie,9.02,2,2020,Échec
+1833,306,Statistiques Éco,Économie,14.24,1,2020,Bien
+1834,306,Statistiques Éco,Économie,10.33,1,2020,Passable
+1835,306,Statistiques Éco,Économie,12.84,1,2020,Assez Bien
+1836,306,Macroéconomie,Économie,6.7,2,2020,Échec
+1837,307,Énergie,Génie Électrique,5.81,2,2023,Échec
+1838,307,Énergie,Génie Électrique,15.63,2,2023,Bien
+1839,307,Électrotechnique,Génie Électrique,11.95,1,2023,Passable
+1840,307,Énergie,Génie Électrique,13.16,1,2023,Assez Bien
+1841,307,Énergie,Génie Électrique,4.97,2,2023,Échec
+1842,307,Automatique,Génie Électrique,12.73,1,2023,Assez Bien
+1843,308,Hydraulique,Génie Civil,9.69,1,2020,Échec
+1844,308,Mécanique des Sols,Génie Civil,6.1,1,2020,Échec
+1845,308,Matériaux,Génie Civil,11.08,1,2020,Passable
+1846,308,Hydraulique,Génie Civil,12.13,1,2020,Assez Bien
+1847,308,Hydraulique,Génie Civil,11.91,1,2020,Passable
+1848,308,Mécanique des Sols,Génie Civil,10.07,1,2020,Passable
+1849,309,Chimie Générale,Chimie,7.63,2,2020,Échec
+1850,309,Chimie Analytique,Chimie,6.45,1,2020,Échec
+1851,309,Biochimie,Chimie,13.34,1,2020,Assez Bien
+1852,309,Thermochimie,Chimie,8.91,2,2020,Échec
+1853,309,Chimie Analytique,Chimie,16.59,1,2020,Très Bien
+1854,309,Chimie Analytique,Chimie,10.48,1,2020,Passable
+1855,310,Droit Int.,Droit,13.44,1,2023,Assez Bien
+1856,310,Procédure Civile,Droit,10.46,1,2023,Passable
+1857,310,Droit Int.,Droit,10.9,2,2023,Passable
+1858,310,Droit Int.,Droit,7.08,1,2023,Échec
+1859,310,Droit Administratif,Droit,11.58,2,2023,Passable
+1860,310,Droit Pénal,Droit,14.11,2,2023,Bien
+1861,311,Génétique,Biologie,10.46,1,2021,Passable
+1862,311,Écologie,Biologie,6.77,1,2021,Échec
+1863,311,Écologie,Biologie,12.07,1,2021,Assez Bien
+1864,311,Génétique,Biologie,13.33,2,2021,Assez Bien
+1865,311,Physiologie,Biologie,12.38,2,2021,Assez Bien
+1866,311,Génétique,Biologie,13.95,1,2021,Assez Bien
+1867,312,Thermochimie,Chimie,10.01,1,2021,Passable
+1868,312,Chimie Générale,Chimie,8.62,2,2021,Échec
+1869,312,Chimie Organique,Chimie,5.47,2,2021,Échec
+1870,312,Chimie Générale,Chimie,12.61,1,2021,Assez Bien
+1871,312,Biochimie,Chimie,11.0,1,2021,Passable
+1872,312,Thermochimie,Chimie,10.38,2,2021,Passable
+1873,313,Chimie Générale,Chimie,11.51,1,2020,Passable
+1874,313,Chimie Organique,Chimie,11.42,1,2020,Passable
+1875,313,Chimie Générale,Chimie,9.95,1,2020,Échec
+1876,313,Chimie Générale,Chimie,20.0,1,2020,Très Bien
+1877,313,Électrochimie,Chimie,10.68,1,2020,Passable
+1878,313,Chimie Organique,Chimie,7.38,1,2020,Échec
+1879,314,Optique,Physique,11.51,1,2022,Passable
+1880,314,Thermodynamique,Physique,2.57,2,2022,Échec
+1881,314,Optique,Physique,11.77,2,2022,Passable
+1882,314,Relativité,Physique,12.12,1,2022,Assez Bien
+1883,314,Mécanique,Physique,11.85,2,2022,Passable
+1884,314,Mécanique,Physique,9.34,2,2022,Échec
+1885,315,Chimie Organique,Chimie,13.85,1,2022,Assez Bien
+1886,315,Thermochimie,Chimie,11.02,2,2022,Passable
+1887,315,Chimie Organique,Chimie,9.01,2,2022,Échec
+1888,315,Biochimie,Chimie,13.62,1,2022,Assez Bien
+1889,315,Thermochimie,Chimie,11.94,1,2022,Passable
+1890,315,Chimie Analytique,Chimie,12.69,2,2022,Assez Bien
+1891,316,Biologie Cellulaire,Biologie,9.5,1,2020,Échec
+1892,316,Biologie Cellulaire,Biologie,9.67,1,2020,Échec
+1893,316,Génétique,Biologie,7.75,1,2020,Échec
+1894,316,Physiologie,Biologie,12.57,2,2020,Assez Bien
+1895,316,Génétique,Biologie,15.77,2,2020,Bien
+1896,316,Microbiologie,Biologie,7.21,1,2020,Échec
+1897,317,Bases de Données,Informatique,16.09,2,2022,Très Bien
+1898,317,IA,Informatique,8.04,1,2022,Échec
+1899,317,Algorithmique,Informatique,18.14,1,2022,Très Bien
+1900,317,Bases de Données,Informatique,2.56,1,2022,Échec
+1901,317,Réseaux,Informatique,4.26,2,2022,Échec
+1902,317,Algorithmique,Informatique,13.35,1,2022,Assez Bien
+1903,318,Énergie,Génie Électrique,5.21,1,2021,Échec
+1904,318,Électronique,Génie Électrique,13.84,2,2021,Assez Bien
+1905,318,Électrotechnique,Génie Électrique,12.64,2,2021,Assez Bien
+1906,318,Signal,Génie Électrique,14.59,2,2021,Bien
+1907,318,Signal,Génie Électrique,9.56,2,2021,Échec
+1908,318,Électrotechnique,Génie Électrique,7.12,1,2021,Échec
+1909,319,Thermochimie,Chimie,6.91,2,2022,Échec
+1910,319,Électrochimie,Chimie,13.29,1,2022,Assez Bien
+1911,319,Thermochimie,Chimie,16.48,1,2022,Très Bien
+1912,319,Biochimie,Chimie,14.18,1,2022,Bien
+1913,319,Chimie Organique,Chimie,9.26,1,2022,Échec
+1914,319,Chimie Analytique,Chimie,13.06,2,2022,Assez Bien
+1915,320,Électrotechnique,Génie Électrique,12.23,2,2021,Assez Bien
+1916,320,Automatique,Génie Électrique,10.33,1,2021,Passable
+1917,320,Automatique,Génie Électrique,3.64,2,2021,Échec
+1918,320,Électrotechnique,Génie Électrique,12.87,1,2021,Assez Bien
+1919,320,Électrotechnique,Génie Électrique,13.05,1,2021,Assez Bien
+1920,320,Signal,Génie Électrique,11.75,1,2021,Passable
+1921,321,Statistiques Éco,Économie,14.76,1,2022,Bien
+1922,321,Statistiques Éco,Économie,10.16,1,2022,Passable
+1923,321,Finance,Économie,15.22,1,2022,Bien
+1924,321,Macroéconomie,Économie,4.1,2,2022,Échec
+1925,321,Macroéconomie,Économie,12.41,2,2022,Assez Bien
+1926,321,Macroéconomie,Économie,11.76,1,2022,Passable
+1927,322,Pharmacologie,Médecine,10.73,2,2020,Passable
+1928,322,Pharmacologie,Médecine,4.36,2,2020,Échec
+1929,322,Pathologie,Médecine,7.36,1,2020,Échec
+1930,322,Biochimie Méd.,Médecine,16.95,1,2020,Très Bien
+1931,322,Physiologie,Médecine,16.33,1,2020,Très Bien
+1932,322,Sémiologie,Médecine,13.11,1,2020,Assez Bien
+1933,323,Chimie Générale,Chimie,7.66,2,2022,Échec
+1934,323,Électrochimie,Chimie,13.54,2,2022,Assez Bien
+1935,323,Électrochimie,Chimie,4.71,2,2022,Échec
+1936,323,Chimie Organique,Chimie,10.93,2,2022,Passable
+1937,323,Chimie Générale,Chimie,0.05,1,2022,Échec
+1938,323,Biochimie,Chimie,9.51,1,2022,Échec
+1939,324,Finance,Économie,8.94,1,2021,Échec
+1940,324,Statistiques Éco,Économie,9.09,1,2021,Échec
+1941,324,Statistiques Éco,Économie,7.6,2,2021,Échec
+1942,324,Finance,Économie,11.68,1,2021,Passable
+1943,324,Microéconomie,Économie,12.9,1,2021,Assez Bien
+1944,324,Comptabilité,Économie,5.55,1,2021,Échec
+1945,325,Biologie Cellulaire,Biologie,15.8,2,2023,Bien
+1946,325,Biologie Cellulaire,Biologie,13.55,1,2023,Assez Bien
+1947,325,Microbiologie,Biologie,11.99,1,2023,Passable
+1948,325,Biochimie,Biologie,12.62,1,2023,Assez Bien
+1949,325,Microbiologie,Biologie,12.02,1,2023,Assez Bien
+1950,325,Génétique,Biologie,13.48,2,2023,Assez Bien
+1951,326,Droit Civil,Droit,16.1,2,2023,Très Bien
+1952,326,Droit Civil,Droit,10.25,1,2023,Passable
+1953,326,Droit Commercial,Droit,13.86,2,2023,Assez Bien
+1954,326,Droit Commercial,Droit,12.9,2,2023,Assez Bien
+1955,326,Procédure Civile,Droit,13.27,2,2023,Assez Bien
+1956,326,Droit Pénal,Droit,17.28,1,2023,Très Bien
+1957,327,Hydraulique,Génie Civil,5.51,1,2023,Échec
+1958,327,Matériaux,Génie Civil,14.62,1,2023,Bien
+1959,327,Béton Armé,Génie Civil,7.65,1,2023,Échec
+1960,327,Hydraulique,Génie Civil,8.96,1,2023,Échec
+1961,327,Mécanique des Sols,Génie Civil,10.33,1,2023,Passable
+1962,327,Structures,Génie Civil,9.52,1,2023,Échec
+1963,328,Droit Pénal,Droit,13.06,1,2023,Assez Bien
+1964,328,Procédure Civile,Droit,5.55,2,2023,Échec
+1965,328,Droit Administratif,Droit,11.8,2,2023,Passable
+1966,328,Procédure Civile,Droit,7.45,2,2023,Échec
+1967,328,Droit Civil,Droit,16.34,2,2023,Très Bien
+1968,328,Droit Pénal,Droit,6.62,1,2023,Échec
+1969,329,Sémiologie,Médecine,3.11,2,2021,Échec
+1970,329,Anatomie,Médecine,4.73,1,2021,Échec
+1971,329,Physiologie,Médecine,11.35,1,2021,Passable
+1972,329,Pharmacologie,Médecine,7.58,1,2021,Échec
+1973,329,Pharmacologie,Médecine,7.36,1,2021,Échec
+1974,329,Anatomie,Médecine,19.59,2,2021,Très Bien
+1975,330,Marketing,Économie,9.87,1,2021,Échec
+1976,330,Statistiques Éco,Économie,12.31,2,2021,Assez Bien
+1977,330,Comptabilité,Économie,20.0,2,2021,Très Bien
+1978,330,Statistiques Éco,Économie,10.04,1,2021,Passable
+1979,330,Microéconomie,Économie,15.56,2,2021,Bien
+1980,330,Comptabilité,Économie,10.18,2,2021,Passable
+1981,331,Optique,Physique,16.56,1,2020,Très Bien
+1982,331,Optique,Physique,4.02,2,2020,Échec
+1983,331,Physique Quantique,Physique,16.53,2,2020,Très Bien
+1984,331,Mécanique,Physique,2.84,2,2020,Échec
+1985,331,Physique Quantique,Physique,3.2,1,2020,Échec
+1986,331,Physique Quantique,Physique,13.53,1,2020,Assez Bien
+1987,332,Relativité,Physique,12.57,1,2021,Assez Bien
+1988,332,Électromagnétisme,Physique,5.0,1,2021,Échec
+1989,332,Thermodynamique,Physique,7.31,1,2021,Échec
+1990,332,Électromagnétisme,Physique,14.66,2,2021,Bien
+1991,332,Optique,Physique,9.2,2,2021,Échec
+1992,332,Relativité,Physique,7.76,2,2021,Échec
+1993,333,Béton Armé,Génie Civil,16.57,2,2020,Très Bien
+1994,333,Topographie,Génie Civil,14.33,1,2020,Bien
+1995,333,Topographie,Génie Civil,9.34,2,2020,Échec
+1996,333,Mécanique des Sols,Génie Civil,14.08,2,2020,Bien
+1997,333,Béton Armé,Génie Civil,10.8,1,2020,Passable
+1998,333,Topographie,Génie Civil,12.1,1,2020,Assez Bien
+1999,334,IA,Informatique,12.18,2,2023,Assez Bien
+2000,334,Algorithmique,Informatique,16.05,2,2023,Très Bien
+2001,334,Réseaux,Informatique,13.75,1,2023,Assez Bien
+2002,334,Algorithmique,Informatique,10.63,2,2023,Passable
+2003,334,Bases de Données,Informatique,10.97,1,2023,Passable
+2004,334,Algorithmique,Informatique,13.49,2,2023,Assez Bien
+2005,335,Réseaux,Informatique,18.09,2,2023,Très Bien
+2006,335,Réseaux,Informatique,15.0,1,2023,Bien
+2007,335,IA,Informatique,13.0,1,2023,Assez Bien
+2008,335,Algorithmique,Informatique,9.41,2,2023,Échec
+2009,335,Bases de Données,Informatique,14.27,1,2023,Bien
+2010,335,Bases de Données,Informatique,10.23,2,2023,Passable
+2011,336,Thermochimie,Chimie,4.96,1,2021,Échec
+2012,336,Biochimie,Chimie,11.94,2,2021,Passable
+2013,336,Chimie Analytique,Chimie,15.43,1,2021,Bien
+2014,336,Électrochimie,Chimie,8.29,1,2021,Échec
+2015,336,Chimie Générale,Chimie,10.1,1,2021,Passable
+2016,336,Chimie Analytique,Chimie,5.82,2,2021,Échec
+2017,337,Analyse 1,Mathématiques,13.59,1,2022,Assez Bien
+2018,337,Statistiques,Mathématiques,14.59,2,2022,Bien
+2019,337,Analyse 1,Mathématiques,12.56,2,2022,Assez Bien
+2020,337,Topologie,Mathématiques,5.22,1,2022,Échec
+2021,337,Statistiques,Mathématiques,18.4,2,2022,Très Bien
+2022,337,Analyse Numérique,Mathématiques,8.25,1,2022,Échec
+2023,338,Analyse 1,Mathématiques,13.18,2,2020,Assez Bien
+2024,338,Analyse Numérique,Mathématiques,20.0,1,2020,Très Bien
+2025,338,Topologie,Mathématiques,8.34,1,2020,Échec
+2026,338,Analyse Numérique,Mathématiques,13.57,1,2020,Assez Bien
+2027,338,Probabilités,Mathématiques,11.28,2,2020,Passable
+2028,338,Topologie,Mathématiques,10.33,1,2020,Passable
+2029,339,IA,Informatique,0.0,2,2020,Échec
+2030,339,Réseaux,Informatique,11.08,2,2020,Passable
+2031,339,Bases de Données,Informatique,12.99,2,2020,Assez Bien
+2032,339,Algorithmique,Informatique,7.28,1,2020,Échec
+2033,339,Réseaux,Informatique,8.75,1,2020,Échec
+2034,339,Systèmes d'exploitation,Informatique,12.09,2,2020,Assez Bien
+2035,340,Pharmacologie,Médecine,9.72,2,2020,Échec
+2036,340,Pathologie,Médecine,16.73,2,2020,Très Bien
+2037,340,Pathologie,Médecine,4.38,1,2020,Échec
+2038,340,Anatomie,Médecine,4.75,1,2020,Échec
+2039,340,Anatomie,Médecine,7.74,2,2020,Échec
+2040,340,Anatomie,Médecine,6.53,2,2020,Échec
+2041,341,Physiologie,Biologie,11.1,1,2020,Passable
+2042,341,Physiologie,Biologie,1.84,2,2020,Échec
+2043,341,Biochimie,Biologie,10.1,2,2020,Passable
+2044,341,Écologie,Biologie,10.5,1,2020,Passable
+2045,341,Génétique,Biologie,11.85,1,2020,Passable
+2046,341,Génétique,Biologie,6.01,2,2020,Échec
+2047,342,Mécanique,Physique,6.8,2,2022,Échec
+2048,342,Optique,Physique,16.73,2,2022,Très Bien
+2049,342,Mécanique,Physique,17.49,2,2022,Très Bien
+2050,342,Thermodynamique,Physique,8.41,2,2022,Échec
+2051,342,Thermodynamique,Physique,14.76,2,2022,Bien
+2052,342,Relativité,Physique,4.95,1,2022,Échec
+2053,343,Biologie Cellulaire,Biologie,14.35,1,2021,Bien
+2054,343,Biologie Cellulaire,Biologie,8.57,1,2021,Échec
+2055,343,Microbiologie,Biologie,13.61,2,2021,Assez Bien
+2056,343,Microbiologie,Biologie,6.93,1,2021,Échec
+2057,343,Biochimie,Biologie,13.97,2,2021,Assez Bien
+2058,343,Génétique,Biologie,10.87,2,2021,Passable
+2059,344,Électronique,Génie Électrique,12.67,1,2021,Assez Bien
+2060,344,Télécoms,Génie Électrique,6.02,2,2021,Échec
+2061,344,Télécoms,Génie Électrique,14.99,1,2021,Bien
+2062,344,Signal,Génie Électrique,18.69,1,2021,Très Bien
+2063,344,Électronique,Génie Électrique,10.48,1,2021,Passable
+2064,344,Télécoms,Génie Électrique,8.99,2,2021,Échec
+2065,345,Analyse Numérique,Mathématiques,17.6,1,2023,Très Bien
+2066,345,Probabilités,Mathématiques,7.19,1,2023,Échec
+2067,345,Analyse 1,Mathématiques,14.57,1,2023,Bien
+2068,345,Analyse 1,Mathématiques,13.37,1,2023,Assez Bien
+2069,345,Topologie,Mathématiques,6.13,1,2023,Échec
+2070,345,Statistiques,Mathématiques,15.44,2,2023,Bien
+2071,346,Mécanique des Sols,Génie Civil,11.55,2,2020,Passable
+2072,346,Mécanique des Sols,Génie Civil,19.53,1,2020,Très Bien
+2073,346,Structures,Génie Civil,12.32,2,2020,Assez Bien
+2074,346,Structures,Génie Civil,4.1,1,2020,Échec
+2075,346,Hydraulique,Génie Civil,12.93,1,2020,Assez Bien
+2076,346,Structures,Génie Civil,12.11,1,2020,Assez Bien
+2077,347,Droit Civil,Droit,5.79,1,2023,Échec
+2078,347,Droit Pénal,Droit,12.37,2,2023,Assez Bien
+2079,347,Droit Commercial,Droit,12.39,2,2023,Assez Bien
+2080,347,Droit Commercial,Droit,9.91,1,2023,Échec
+2081,347,Droit Administratif,Droit,16.75,2,2023,Très Bien
+2082,347,Droit Civil,Droit,15.21,2,2023,Bien
+2083,348,Biochimie,Chimie,16.41,2,2020,Très Bien
+2084,348,Chimie Analytique,Chimie,13.81,2,2020,Assez Bien
+2085,348,Chimie Organique,Chimie,11.24,1,2020,Passable
+2086,348,Biochimie,Chimie,11.52,1,2020,Passable
+2087,348,Chimie Générale,Chimie,20.0,2,2020,Très Bien
+2088,348,Électrochimie,Chimie,9.08,1,2020,Échec
+2089,349,Mécanique des Sols,Génie Civil,7.96,1,2022,Échec
+2090,349,Mécanique des Sols,Génie Civil,10.58,1,2022,Passable
+2091,349,Matériaux,Génie Civil,15.74,1,2022,Bien
+2092,349,Mécanique des Sols,Génie Civil,11.69,2,2022,Passable
+2093,349,Béton Armé,Génie Civil,11.79,1,2022,Passable
+2094,349,Mécanique des Sols,Génie Civil,10.42,1,2022,Passable
+2095,350,Physiologie,Biologie,10.25,2,2020,Passable
+2096,350,Écologie,Biologie,9.06,1,2020,Échec
+2097,350,Biologie Cellulaire,Biologie,8.06,2,2020,Échec
+2098,350,Écologie,Biologie,15.12,2,2020,Bien
+2099,350,Écologie,Biologie,6.97,1,2020,Échec
+2100,350,Microbiologie,Biologie,10.68,1,2020,Passable
+2101,351,Algèbre 1,Mathématiques,7.78,2,2020,Échec
+2102,351,Statistiques,Mathématiques,3.29,1,2020,Échec
+2103,351,Topologie,Mathématiques,12.43,1,2020,Assez Bien
+2104,351,Algèbre 1,Mathématiques,5.87,2,2020,Échec
+2105,351,Statistiques,Mathématiques,14.11,2,2020,Bien
+2106,351,Probabilités,Mathématiques,8.18,1,2020,Échec
+2107,352,Énergie,Génie Électrique,9.02,2,2020,Échec
+2108,352,Automatique,Génie Électrique,12.79,1,2020,Assez Bien
+2109,352,Signal,Génie Électrique,11.52,2,2020,Passable
+2110,352,Énergie,Génie Électrique,11.91,2,2020,Passable
+2111,352,Automatique,Génie Électrique,4.49,2,2020,Échec
+2112,352,Signal,Génie Électrique,6.02,1,2020,Échec
+2113,353,Anatomie,Médecine,12.51,1,2021,Assez Bien
+2114,353,Biochimie Méd.,Médecine,14.19,1,2021,Bien
+2115,353,Anatomie,Médecine,11.84,1,2021,Passable
+2116,353,Biochimie Méd.,Médecine,14.76,1,2021,Bien
+2117,353,Anatomie,Médecine,10.75,2,2021,Passable
+2118,353,Physiologie,Médecine,11.54,2,2021,Passable
+2119,354,Biochimie,Biologie,13.4,1,2023,Assez Bien
+2120,354,Écologie,Biologie,2.78,2,2023,Échec
+2121,354,Biochimie,Biologie,11.66,2,2023,Passable
+2122,354,Physiologie,Biologie,13.72,1,2023,Assez Bien
+2123,354,Biochimie,Biologie,14.27,2,2023,Bien
+2124,354,Microbiologie,Biologie,8.39,2,2023,Échec
+2125,355,Génétique,Biologie,13.35,2,2023,Assez Bien
+2126,355,Biologie Cellulaire,Biologie,17.81,2,2023,Très Bien
+2127,355,Écologie,Biologie,14.22,2,2023,Bien
+2128,355,Biochimie,Biologie,13.99,2,2023,Assez Bien
+2129,355,Génétique,Biologie,8.09,1,2023,Échec
+2130,355,Écologie,Biologie,9.49,2,2023,Échec
+2131,356,Physiologie,Médecine,13.21,1,2021,Assez Bien
+2132,356,Biochimie Méd.,Médecine,7.59,1,2021,Échec
+2133,356,Anatomie,Médecine,3.61,2,2021,Échec
+2134,356,Pathologie,Médecine,12.42,2,2021,Assez Bien
+2135,356,Biochimie Méd.,Médecine,9.49,1,2021,Échec
+2136,356,Sémiologie,Médecine,14.36,2,2021,Bien
+2137,357,Topographie,Génie Civil,7.96,2,2023,Échec
+2138,357,Topographie,Génie Civil,8.41,1,2023,Échec
+2139,357,Hydraulique,Génie Civil,12.72,1,2023,Assez Bien
+2140,357,Béton Armé,Génie Civil,10.29,1,2023,Passable
+2141,357,Mécanique des Sols,Génie Civil,13.79,2,2023,Assez Bien
+2142,357,Mécanique des Sols,Génie Civil,13.17,1,2023,Assez Bien
+2143,358,Anatomie,Médecine,14.12,2,2021,Bien
+2144,358,Sémiologie,Médecine,19.04,1,2021,Très Bien
+2145,358,Pathologie,Médecine,13.1,1,2021,Assez Bien
+2146,358,Anatomie,Médecine,8.71,1,2021,Échec
+2147,358,Biochimie Méd.,Médecine,14.19,2,2021,Bien
+2148,358,Biochimie Méd.,Médecine,12.62,1,2021,Assez Bien
+2149,359,Électromagnétisme,Physique,9.25,2,2023,Échec
+2150,359,Électromagnétisme,Physique,9.99,2,2023,Échec
+2151,359,Relativité,Physique,9.07,1,2023,Échec
+2152,359,Physique Quantique,Physique,11.67,2,2023,Passable
+2153,359,Relativité,Physique,7.76,2,2023,Échec
+2154,359,Électromagnétisme,Physique,11.2,1,2023,Passable
+2155,360,Hydraulique,Génie Civil,11.64,2,2023,Passable
+2156,360,Matériaux,Génie Civil,4.73,1,2023,Échec
+2157,360,Structures,Génie Civil,6.26,1,2023,Échec
+2158,360,Béton Armé,Génie Civil,4.71,2,2023,Échec
+2159,360,Béton Armé,Génie Civil,12.39,2,2023,Assez Bien
+2160,360,Topographie,Génie Civil,16.8,1,2023,Très Bien
+2161,361,Pharmacologie,Médecine,13.17,2,2021,Assez Bien
+2162,361,Biochimie Méd.,Médecine,12.67,2,2021,Assez Bien
+2163,361,Pathologie,Médecine,13.69,1,2021,Assez Bien
+2164,361,Physiologie,Médecine,14.9,2,2021,Bien
+2165,361,Pharmacologie,Médecine,18.95,1,2021,Très Bien
+2166,361,Pharmacologie,Médecine,9.74,1,2021,Échec
+2167,362,Microéconomie,Économie,10.58,2,2022,Passable
+2168,362,Marketing,Économie,13.36,1,2022,Assez Bien
+2169,362,Macroéconomie,Économie,9.15,1,2022,Échec
+2170,362,Macroéconomie,Économie,11.46,1,2022,Passable
+2171,362,Finance,Économie,11.37,2,2022,Passable
+2172,362,Comptabilité,Économie,11.89,2,2022,Passable
+2173,363,Biologie Cellulaire,Biologie,12.5,2,2021,Assez Bien
+2174,363,Génétique,Biologie,10.26,1,2021,Passable
+2175,363,Écologie,Biologie,6.24,1,2021,Échec
+2176,363,Écologie,Biologie,10.93,2,2021,Passable
+2177,363,Microbiologie,Biologie,15.73,2,2021,Bien
+2178,363,Génétique,Biologie,14.34,2,2021,Bien
+2179,364,Macroéconomie,Économie,6.6,2,2023,Échec
+2180,364,Marketing,Économie,14.08,2,2023,Bien
+2181,364,Microéconomie,Économie,8.58,1,2023,Échec
+2182,364,Macroéconomie,Économie,5.76,1,2023,Échec
+2183,364,Microéconomie,Économie,15.14,1,2023,Bien
+2184,364,Microéconomie,Économie,7.79,1,2023,Échec
+2185,365,Hydraulique,Génie Civil,11.82,2,2020,Passable
+2186,365,Topographie,Génie Civil,16.51,2,2020,Très Bien
+2187,365,Béton Armé,Génie Civil,12.4,2,2020,Assez Bien
+2188,365,Topographie,Génie Civil,18.32,1,2020,Très Bien
+2189,365,Mécanique des Sols,Génie Civil,11.82,2,2020,Passable
+2190,365,Structures,Génie Civil,7.4,2,2020,Échec
+2191,366,Pathologie,Médecine,13.56,2,2023,Assez Bien
+2192,366,Pathologie,Médecine,11.05,2,2023,Passable
+2193,366,Pathologie,Médecine,11.25,1,2023,Passable
+2194,366,Physiologie,Médecine,14.47,1,2023,Bien
+2195,366,Biochimie Méd.,Médecine,12.79,1,2023,Assez Bien
+2196,366,Pathologie,Médecine,9.7,2,2023,Échec
+2197,367,Statistiques,Mathématiques,9.74,2,2022,Échec
+2198,367,Analyse 1,Mathématiques,13.16,1,2022,Assez Bien
+2199,367,Analyse Numérique,Mathématiques,11.04,2,2022,Passable
+2200,367,Statistiques,Mathématiques,10.44,1,2022,Passable
+2201,367,Statistiques,Mathématiques,14.16,1,2022,Bien
+2202,367,Analyse 1,Mathématiques,7.77,2,2022,Échec
+2203,368,Macroéconomie,Économie,8.61,1,2022,Échec
+2204,368,Microéconomie,Économie,10.62,1,2022,Passable
+2205,368,Comptabilité,Économie,12.2,2,2022,Assez Bien
+2206,368,Statistiques Éco,Économie,7.59,2,2022,Échec
+2207,368,Marketing,Économie,10.79,2,2022,Passable
+2208,368,Finance,Économie,15.61,1,2022,Bien
+2209,369,Bases de Données,Informatique,9.86,2,2023,Échec
+2210,369,Algorithmique,Informatique,14.42,2,2023,Bien
+2211,369,IA,Informatique,5.33,1,2023,Échec
+2212,369,Réseaux,Informatique,10.31,1,2023,Passable
+2213,369,IA,Informatique,14.76,1,2023,Bien
+2214,369,Programmation C,Informatique,10.86,2,2023,Passable
+2215,370,Hydraulique,Génie Civil,11.47,2,2022,Passable
+2216,370,Structures,Génie Civil,12.67,1,2022,Assez Bien
+2217,370,Hydraulique,Génie Civil,15.32,2,2022,Bien
+2218,370,Matériaux,Génie Civil,6.8,1,2022,Échec
+2219,370,Hydraulique,Génie Civil,14.13,2,2022,Bien
+2220,370,Topographie,Génie Civil,9.02,2,2022,Échec
+2221,371,Comptabilité,Économie,10.58,2,2020,Passable
+2222,371,Marketing,Économie,12.08,1,2020,Assez Bien
+2223,371,Finance,Économie,12.45,2,2020,Assez Bien
+2224,371,Comptabilité,Économie,6.04,1,2020,Échec
+2225,371,Microéconomie,Économie,4.92,2,2020,Échec
+2226,371,Statistiques Éco,Économie,11.04,1,2020,Passable
+2227,372,Systèmes d'exploitation,Informatique,16.47,1,2020,Très Bien
+2228,372,Bases de Données,Informatique,9.84,2,2020,Échec
+2229,372,Bases de Données,Informatique,14.07,2,2020,Bien
+2230,372,Algorithmique,Informatique,12.32,1,2020,Assez Bien
+2231,372,Bases de Données,Informatique,11.94,2,2020,Passable
+2232,372,Bases de Données,Informatique,9.17,1,2020,Échec
+2233,373,Droit Administratif,Droit,6.46,1,2021,Échec
+2234,373,Droit Commercial,Droit,17.07,1,2021,Très Bien
+2235,373,Droit Commercial,Droit,16.08,1,2021,Très Bien
+2236,373,Droit Civil,Droit,6.16,2,2021,Échec
+2237,373,Droit Pénal,Droit,13.65,1,2021,Assez Bien
+2238,373,Droit Commercial,Droit,10.93,1,2021,Passable
+2239,374,Chimie Générale,Chimie,7.31,2,2023,Échec
+2240,374,Thermochimie,Chimie,11.63,2,2023,Passable
+2241,374,Chimie Générale,Chimie,18.04,2,2023,Très Bien
+2242,374,Chimie Organique,Chimie,5.4,2,2023,Échec
+2243,374,Biochimie,Chimie,16.14,1,2023,Très Bien
+2244,374,Biochimie,Chimie,5.92,1,2023,Échec
+2245,375,Biochimie Méd.,Médecine,14.35,2,2021,Bien
+2246,375,Biochimie Méd.,Médecine,14.83,1,2021,Bien
+2247,375,Biochimie Méd.,Médecine,5.86,1,2021,Échec
+2248,375,Pharmacologie,Médecine,8.71,2,2021,Échec
+2249,375,Anatomie,Médecine,13.78,2,2021,Assez Bien
+2250,375,Sémiologie,Médecine,14.3,2,2021,Bien
+2251,376,Thermochimie,Chimie,8.27,2,2022,Échec
+2252,376,Thermochimie,Chimie,14.56,1,2022,Bien
+2253,376,Électrochimie,Chimie,17.73,1,2022,Très Bien
+2254,376,Chimie Organique,Chimie,12.13,2,2022,Assez Bien
+2255,376,Chimie Organique,Chimie,7.62,2,2022,Échec
+2256,376,Chimie Générale,Chimie,9.13,2,2022,Échec
+2257,377,Mécanique des Sols,Génie Civil,10.64,2,2022,Passable
+2258,377,Béton Armé,Génie Civil,11.25,1,2022,Passable
+2259,377,Béton Armé,Génie Civil,9.52,1,2022,Échec
+2260,377,Hydraulique,Génie Civil,20.0,1,2022,Très Bien
+2261,377,Hydraulique,Génie Civil,5.38,1,2022,Échec
+2262,377,Béton Armé,Génie Civil,8.55,1,2022,Échec
+2263,378,Pathologie,Médecine,11.62,2,2023,Passable
+2264,378,Physiologie,Médecine,13.14,1,2023,Assez Bien
+2265,378,Pathologie,Médecine,9.52,2,2023,Échec
+2266,378,Pathologie,Médecine,9.22,1,2023,Échec
+2267,378,Pharmacologie,Médecine,9.09,1,2023,Échec
+2268,378,Anatomie,Médecine,9.12,1,2023,Échec
+2269,379,Marketing,Économie,14.53,1,2021,Bien
+2270,379,Macroéconomie,Économie,7.68,1,2021,Échec
+2271,379,Finance,Économie,15.69,2,2021,Bien
+2272,379,Microéconomie,Économie,11.73,1,2021,Passable
+2273,379,Comptabilité,Économie,1.59,1,2021,Échec
+2274,379,Marketing,Économie,17.43,2,2021,Très Bien
+2275,380,Topologie,Mathématiques,7.69,1,2021,Échec
+2276,380,Statistiques,Mathématiques,3.8,1,2021,Échec
+2277,380,Analyse Numérique,Mathématiques,13.19,1,2021,Assez Bien
+2278,380,Algèbre 1,Mathématiques,11.3,1,2021,Passable
+2279,380,Statistiques,Mathématiques,7.72,1,2021,Échec
+2280,380,Topologie,Mathématiques,11.4,2,2021,Passable
+2281,381,Automatique,Génie Électrique,9.03,1,2021,Échec
+2282,381,Signal,Génie Électrique,7.54,2,2021,Échec
+2283,381,Signal,Génie Électrique,12.95,1,2021,Assez Bien
+2284,381,Énergie,Génie Électrique,13.62,2,2021,Assez Bien
+2285,381,Électronique,Génie Électrique,10.08,2,2021,Passable
+2286,381,Électronique,Génie Électrique,10.49,2,2021,Passable
+2287,382,Droit Pénal,Droit,4.72,2,2021,Échec
+2288,382,Droit Civil,Droit,12.28,1,2021,Assez Bien
+2289,382,Droit Commercial,Droit,3.05,1,2021,Échec
+2290,382,Droit Commercial,Droit,10.97,2,2021,Passable
+2291,382,Procédure Civile,Droit,16.39,2,2021,Très Bien
+2292,382,Droit Int.,Droit,13.25,2,2021,Assez Bien
+2293,383,Pharmacologie,Médecine,9.47,2,2020,Échec
+2294,383,Pathologie,Médecine,4.14,2,2020,Échec
+2295,383,Pharmacologie,Médecine,17.96,2,2020,Très Bien
+2296,383,Pharmacologie,Médecine,14.18,2,2020,Bien
+2297,383,Sémiologie,Médecine,8.16,2,2020,Échec
+2298,383,Physiologie,Médecine,6.59,2,2020,Échec
+2299,384,Énergie,Génie Électrique,14.55,2,2023,Bien
+2300,384,Électronique,Génie Électrique,9.97,1,2023,Échec
+2301,384,Électronique,Génie Électrique,12.41,1,2023,Assez Bien
+2302,384,Télécoms,Génie Électrique,9.11,1,2023,Échec
+2303,384,Signal,Génie Électrique,15.17,1,2023,Bien
+2304,384,Télécoms,Génie Électrique,9.17,1,2023,Échec
+2305,385,Mécanique,Physique,13.0,2,2020,Assez Bien
+2306,385,Optique,Physique,9.54,1,2020,Échec
+2307,385,Mécanique,Physique,9.5,1,2020,Échec
+2308,385,Optique,Physique,9.72,2,2020,Échec
+2309,385,Physique Quantique,Physique,10.34,1,2020,Passable
+2310,385,Thermodynamique,Physique,10.28,1,2020,Passable
+2311,386,Biochimie,Chimie,8.97,1,2022,Échec
+2312,386,Chimie Organique,Chimie,11.67,2,2022,Passable
+2313,386,Thermochimie,Chimie,7.97,1,2022,Échec
+2314,386,Biochimie,Chimie,12.26,1,2022,Assez Bien
+2315,386,Thermochimie,Chimie,13.84,1,2022,Assez Bien
+2316,386,Chimie Générale,Chimie,4.3,1,2022,Échec
+2317,387,Pathologie,Médecine,12.74,1,2020,Assez Bien
+2318,387,Physiologie,Médecine,10.55,1,2020,Passable
+2319,387,Biochimie Méd.,Médecine,11.79,1,2020,Passable
+2320,387,Biochimie Méd.,Médecine,5.88,1,2020,Échec
+2321,387,Pathologie,Médecine,9.9,2,2020,Échec
+2322,387,Physiologie,Médecine,2.27,1,2020,Échec
+2323,388,Marketing,Économie,13.21,2,2021,Assez Bien
+2324,388,Marketing,Économie,6.83,1,2021,Échec
+2325,388,Microéconomie,Économie,5.8,1,2021,Échec
+2326,388,Marketing,Économie,13.1,1,2021,Assez Bien
+2327,388,Macroéconomie,Économie,11.68,1,2021,Passable
+2328,388,Finance,Économie,7.7,1,2021,Échec
+2329,389,Microéconomie,Économie,8.12,1,2022,Échec
+2330,389,Comptabilité,Économie,8.87,2,2022,Échec
+2331,389,Finance,Économie,10.57,1,2022,Passable
+2332,389,Comptabilité,Économie,9.56,1,2022,Échec
+2333,389,Marketing,Économie,4.03,2,2022,Échec
+2334,389,Finance,Économie,7.43,1,2022,Échec
+2335,390,Électrochimie,Chimie,10.37,2,2022,Passable
+2336,390,Chimie Analytique,Chimie,9.17,1,2022,Échec
+2337,390,Chimie Générale,Chimie,9.37,2,2022,Échec
+2338,390,Chimie Générale,Chimie,13.65,1,2022,Assez Bien
+2339,390,Chimie Organique,Chimie,4.77,1,2022,Échec
+2340,390,Chimie Organique,Chimie,9.1,2,2022,Échec
+2341,391,Chimie Générale,Chimie,12.77,1,2021,Assez Bien
+2342,391,Chimie Analytique,Chimie,6.16,1,2021,Échec
+2343,391,Thermochimie,Chimie,6.51,1,2021,Échec
+2344,391,Électrochimie,Chimie,7.81,2,2021,Échec
+2345,391,Chimie Organique,Chimie,10.85,1,2021,Passable
+2346,391,Thermochimie,Chimie,12.16,1,2021,Assez Bien
+2347,392,Pathologie,Médecine,8.31,1,2021,Échec
+2348,392,Anatomie,Médecine,14.68,1,2021,Bien
+2349,392,Anatomie,Médecine,12.08,2,2021,Assez Bien
+2350,392,Pathologie,Médecine,3.77,1,2021,Échec
+2351,392,Sémiologie,Médecine,7.07,2,2021,Échec
+2352,392,Pathologie,Médecine,11.44,1,2021,Passable
+2353,393,Droit Administratif,Droit,9.48,1,2020,Échec
+2354,393,Droit Administratif,Droit,6.18,1,2020,Échec
+2355,393,Procédure Civile,Droit,14.81,1,2020,Bien
+2356,393,Droit Commercial,Droit,10.58,2,2020,Passable
+2357,393,Droit Civil,Droit,11.13,1,2020,Passable
+2358,393,Droit Pénal,Droit,12.75,2,2020,Assez Bien
+2359,394,Relativité,Physique,11.12,1,2021,Passable
+2360,394,Mécanique,Physique,3.74,1,2021,Échec
+2361,394,Mécanique,Physique,12.85,1,2021,Assez Bien
+2362,394,Thermodynamique,Physique,11.96,1,2021,Passable
+2363,394,Thermodynamique,Physique,7.58,1,2021,Échec
+2364,394,Thermodynamique,Physique,15.73,1,2021,Bien
+2365,395,Physique Quantique,Physique,6.31,1,2022,Échec
+2366,395,Mécanique,Physique,14.51,2,2022,Bien
+2367,395,Physique Quantique,Physique,12.71,2,2022,Assez Bien
+2368,395,Électromagnétisme,Physique,17.01,2,2022,Très Bien
+2369,395,Relativité,Physique,9.76,2,2022,Échec
+2370,395,Relativité,Physique,14.62,1,2022,Bien
+2371,396,Énergie,Génie Électrique,13.74,1,2022,Assez Bien
+2372,396,Électronique,Génie Électrique,8.82,2,2022,Échec
+2373,396,Signal,Génie Électrique,9.46,2,2022,Échec
+2374,396,Électronique,Génie Électrique,5.64,1,2022,Échec
+2375,396,Électrotechnique,Génie Électrique,13.64,2,2022,Assez Bien
+2376,396,Télécoms,Génie Électrique,6.93,1,2022,Échec
+2377,397,Anatomie,Médecine,5.88,1,2020,Échec
+2378,397,Anatomie,Médecine,16.29,1,2020,Très Bien
+2379,397,Pathologie,Médecine,4.67,1,2020,Échec
+2380,397,Anatomie,Médecine,13.49,2,2020,Assez Bien
+2381,397,Anatomie,Médecine,10.32,2,2020,Passable
+2382,397,Anatomie,Médecine,16.29,1,2020,Très Bien
+2383,398,Droit Commercial,Droit,13.4,1,2023,Assez Bien
+2384,398,Droit Administratif,Droit,7.88,2,2023,Échec
+2385,398,Droit Administratif,Droit,13.61,1,2023,Assez Bien
+2386,398,Droit Int.,Droit,11.75,2,2023,Passable
+2387,398,Procédure Civile,Droit,14.23,2,2023,Bien
+2388,398,Droit Civil,Droit,12.1,2,2023,Assez Bien
+2389,399,Hydraulique,Génie Civil,12.98,1,2022,Assez Bien
+2390,399,Hydraulique,Génie Civil,6.03,2,2022,Échec
+2391,399,Topographie,Génie Civil,12.87,1,2022,Assez Bien
+2392,399,Béton Armé,Génie Civil,2.0,2,2022,Échec
+2393,399,Structures,Génie Civil,14.0,2,2022,Bien
+2394,399,Topographie,Génie Civil,9.64,2,2022,Échec
+2395,400,Mécanique des Sols,Génie Civil,15.35,1,2020,Bien
+2396,400,Mécanique des Sols,Génie Civil,9.89,1,2020,Échec
+2397,400,Hydraulique,Génie Civil,14.01,1,2020,Bien
+2398,400,Mécanique des Sols,Génie Civil,1.65,2,2020,Échec
+2399,400,Hydraulique,Génie Civil,9.99,2,2020,Échec
+2400,400,Hydraulique,Génie Civil,10.52,2,2020,Passable
+2401,401,Statistiques Éco,Économie,10.98,1,2023,Passable
+2402,401,Microéconomie,Économie,16.82,2,2023,Très Bien
+2403,401,Marketing,Économie,6.96,1,2023,Échec
+2404,401,Finance,Économie,4.56,2,2023,Échec
+2405,401,Microéconomie,Économie,6.83,2,2023,Échec
+2406,401,Finance,Économie,12.65,1,2023,Assez Bien
+2407,402,Optique,Physique,19.82,2,2022,Très Bien
+2408,402,Physique Quantique,Physique,14.4,2,2022,Bien
+2409,402,Mécanique,Physique,8.12,2,2022,Échec
+2410,402,Thermodynamique,Physique,12.13,2,2022,Assez Bien
+2411,402,Électromagnétisme,Physique,11.35,1,2022,Passable
+2412,402,Électromagnétisme,Physique,13.45,1,2022,Assez Bien
+2413,403,Relativité,Physique,16.9,2,2020,Très Bien
+2414,403,Physique Quantique,Physique,12.46,2,2020,Assez Bien
+2415,403,Mécanique,Physique,8.28,2,2020,Échec
+2416,403,Thermodynamique,Physique,10.05,1,2020,Passable
+2417,403,Relativité,Physique,15.37,1,2020,Bien
+2418,403,Physique Quantique,Physique,4.56,1,2020,Échec
+2419,404,Probabilités,Mathématiques,14.68,1,2020,Bien
+2420,404,Topologie,Mathématiques,14.01,1,2020,Bien
+2421,404,Algèbre 1,Mathématiques,12.48,2,2020,Assez Bien
+2422,404,Analyse 1,Mathématiques,15.98,2,2020,Bien
+2423,404,Probabilités,Mathématiques,13.21,2,2020,Assez Bien
+2424,404,Probabilités,Mathématiques,13.78,2,2020,Assez Bien
+2425,405,Droit Int.,Droit,4.25,2,2023,Échec
+2426,405,Procédure Civile,Droit,17.77,1,2023,Très Bien
+2427,405,Droit Pénal,Droit,8.76,1,2023,Échec
+2428,405,Procédure Civile,Droit,13.44,1,2023,Assez Bien
+2429,405,Droit Civil,Droit,5.37,2,2023,Échec
+2430,405,Droit Pénal,Droit,6.4,2,2023,Échec
+2431,406,Marketing,Économie,17.3,2,2020,Très Bien
+2432,406,Statistiques Éco,Économie,12.31,1,2020,Assez Bien
+2433,406,Microéconomie,Économie,20.0,2,2020,Très Bien
+2434,406,Marketing,Économie,7.79,1,2020,Échec
+2435,406,Marketing,Économie,12.63,2,2020,Assez Bien
+2436,406,Comptabilité,Économie,5.78,2,2020,Échec
+2437,407,Mécanique des Sols,Génie Civil,12.71,1,2022,Assez Bien
+2438,407,Hydraulique,Génie Civil,8.14,1,2022,Échec
+2439,407,Hydraulique,Génie Civil,11.42,1,2022,Passable
+2440,407,Structures,Génie Civil,14.45,1,2022,Bien
+2441,407,Topographie,Génie Civil,10.11,2,2022,Passable
+2442,407,Béton Armé,Génie Civil,2.81,2,2022,Échec
+2443,408,Sémiologie,Médecine,2.13,2,2021,Échec
+2444,408,Sémiologie,Médecine,10.69,1,2021,Passable
+2445,408,Pharmacologie,Médecine,11.65,1,2021,Passable
+2446,408,Sémiologie,Médecine,8.18,1,2021,Échec
+2447,408,Pharmacologie,Médecine,8.28,2,2021,Échec
+2448,408,Biochimie Méd.,Médecine,5.74,2,2021,Échec
+2449,409,Chimie Analytique,Chimie,14.02,1,2020,Bien
+2450,409,Électrochimie,Chimie,13.77,2,2020,Assez Bien
+2451,409,Biochimie,Chimie,12.95,1,2020,Assez Bien
+2452,409,Thermochimie,Chimie,9.2,1,2020,Échec
+2453,409,Chimie Organique,Chimie,13.27,2,2020,Assez Bien
+2454,409,Biochimie,Chimie,13.15,1,2020,Assez Bien
+2455,410,Mécanique des Sols,Génie Civil,16.17,1,2023,Très Bien
+2456,410,Structures,Génie Civil,5.46,1,2023,Échec
+2457,410,Béton Armé,Génie Civil,16.41,2,2023,Très Bien
+2458,410,Topographie,Génie Civil,16.94,2,2023,Très Bien
+2459,410,Mécanique des Sols,Génie Civil,6.83,2,2023,Échec
+2460,410,Béton Armé,Génie Civil,13.94,2,2023,Assez Bien
+2461,411,Chimie Analytique,Chimie,6.35,1,2022,Échec
+2462,411,Chimie Générale,Chimie,7.99,2,2022,Échec
+2463,411,Thermochimie,Chimie,15.78,2,2022,Bien
+2464,411,Chimie Analytique,Chimie,7.99,2,2022,Échec
+2465,411,Biochimie,Chimie,12.69,1,2022,Assez Bien
+2466,411,Chimie Organique,Chimie,12.91,1,2022,Assez Bien
+2467,412,Énergie,Génie Électrique,6.01,2,2022,Échec
+2468,412,Signal,Génie Électrique,7.7,2,2022,Échec
+2469,412,Signal,Génie Électrique,13.85,2,2022,Assez Bien
+2470,412,Électronique,Génie Électrique,16.74,1,2022,Très Bien
+2471,412,Automatique,Génie Électrique,9.74,2,2022,Échec
+2472,412,Automatique,Génie Électrique,11.05,2,2022,Passable
+2473,413,Thermochimie,Chimie,9.95,1,2023,Échec
+2474,413,Chimie Générale,Chimie,13.28,1,2023,Assez Bien
+2475,413,Thermochimie,Chimie,5.8,2,2023,Échec
+2476,413,Chimie Générale,Chimie,10.37,2,2023,Passable
+2477,413,Chimie Analytique,Chimie,12.67,2,2023,Assez Bien
+2478,413,Thermochimie,Chimie,13.84,1,2023,Assez Bien
+2479,414,Mécanique des Sols,Génie Civil,8.86,1,2021,Échec
+2480,414,Mécanique des Sols,Génie Civil,19.68,2,2021,Très Bien
+2481,414,Mécanique des Sols,Génie Civil,15.18,1,2021,Bien
+2482,414,Béton Armé,Génie Civil,13.88,1,2021,Assez Bien
+2483,414,Matériaux,Génie Civil,8.44,2,2021,Échec
+2484,414,Béton Armé,Génie Civil,10.38,2,2021,Passable
+2485,415,Macroéconomie,Économie,9.07,2,2020,Échec
+2486,415,Statistiques Éco,Économie,20.0,2,2020,Très Bien
+2487,415,Marketing,Économie,14.09,1,2020,Bien
+2488,415,Statistiques Éco,Économie,14.13,1,2020,Bien
+2489,415,Finance,Économie,14.57,1,2020,Bien
+2490,415,Macroéconomie,Économie,8.0,2,2020,Échec
+2491,416,IA,Informatique,5.86,1,2020,Échec
+2492,416,IA,Informatique,1.83,1,2020,Échec
+2493,416,IA,Informatique,13.09,2,2020,Assez Bien
+2494,416,Bases de Données,Informatique,12.05,2,2020,Assez Bien
+2495,416,IA,Informatique,10.46,1,2020,Passable
+2496,416,IA,Informatique,5.05,2,2020,Échec
+2497,417,Électronique,Génie Électrique,2.52,2,2023,Échec
+2498,417,Électrotechnique,Génie Électrique,14.77,1,2023,Bien
+2499,417,Télécoms,Génie Électrique,8.91,2,2023,Échec
+2500,417,Électrotechnique,Génie Électrique,8.84,1,2023,Échec
+2501,417,Automatique,Génie Électrique,6.48,1,2023,Échec
+2502,417,Télécoms,Génie Électrique,11.86,2,2023,Passable
+2503,418,Microbiologie,Biologie,14.84,1,2020,Bien
+2504,418,Biochimie,Biologie,15.18,1,2020,Bien
+2505,418,Biologie Cellulaire,Biologie,6.74,1,2020,Échec
+2506,418,Physiologie,Biologie,12.86,1,2020,Assez Bien
+2507,418,Biologie Cellulaire,Biologie,8.28,2,2020,Échec
+2508,418,Physiologie,Biologie,12.54,1,2020,Assez Bien
+2509,419,Télécoms,Génie Électrique,8.14,1,2020,Échec
+2510,419,Automatique,Génie Électrique,15.0,1,2020,Bien
+2511,419,Automatique,Génie Électrique,8.71,2,2020,Échec
+2512,419,Énergie,Génie Électrique,6.96,2,2020,Échec
+2513,419,Énergie,Génie Électrique,9.21,1,2020,Échec
+2514,419,Automatique,Génie Électrique,11.22,2,2020,Passable
+2515,420,Statistiques,Mathématiques,8.31,1,2023,Échec
+2516,420,Algèbre 1,Mathématiques,16.25,2,2023,Très Bien
+2517,420,Probabilités,Mathématiques,9.03,2,2023,Échec
+2518,420,Analyse Numérique,Mathématiques,7.87,1,2023,Échec
+2519,420,Statistiques,Mathématiques,15.29,2,2023,Bien
+2520,420,Analyse Numérique,Mathématiques,4.26,1,2023,Échec
+2521,421,Analyse 1,Mathématiques,9.79,2,2020,Échec
+2522,421,Analyse 1,Mathématiques,15.6,2,2020,Bien
+2523,421,Probabilités,Mathématiques,9.13,2,2020,Échec
+2524,421,Statistiques,Mathématiques,7.33,2,2020,Échec
+2525,421,Probabilités,Mathématiques,13.69,1,2020,Assez Bien
+2526,421,Probabilités,Mathématiques,9.35,1,2020,Échec
+2527,422,Droit Commercial,Droit,8.32,1,2022,Échec
+2528,422,Procédure Civile,Droit,11.91,1,2022,Passable
+2529,422,Droit Int.,Droit,19.08,2,2022,Très Bien
+2530,422,Droit Pénal,Droit,17.71,1,2022,Très Bien
+2531,422,Droit Int.,Droit,14.87,2,2022,Bien
+2532,422,Droit Commercial,Droit,11.52,1,2022,Passable
+2533,423,Structures,Génie Civil,13.62,1,2023,Assez Bien
+2534,423,Mécanique des Sols,Génie Civil,11.84,2,2023,Passable
+2535,423,Structures,Génie Civil,11.93,2,2023,Passable
+2536,423,Hydraulique,Génie Civil,18.13,2,2023,Très Bien
+2537,423,Mécanique des Sols,Génie Civil,8.14,1,2023,Échec
+2538,423,Béton Armé,Génie Civil,10.01,1,2023,Passable
+2539,424,Marketing,Économie,14.22,2,2023,Bien
+2540,424,Microéconomie,Économie,13.42,1,2023,Assez Bien
+2541,424,Comptabilité,Économie,10.08,1,2023,Passable
+2542,424,Microéconomie,Économie,13.74,2,2023,Assez Bien
+2543,424,Statistiques Éco,Économie,15.99,2,2023,Bien
+2544,424,Macroéconomie,Économie,15.91,2,2023,Bien
+2545,425,Béton Armé,Génie Civil,15.2,2,2021,Bien
+2546,425,Béton Armé,Génie Civil,13.19,1,2021,Assez Bien
+2547,425,Structures,Génie Civil,13.63,1,2021,Assez Bien
+2548,425,Béton Armé,Génie Civil,6.23,2,2021,Échec
+2549,425,Mécanique des Sols,Génie Civil,14.88,2,2021,Bien
+2550,425,Topographie,Génie Civil,4.09,1,2021,Échec
+2551,426,Bases de Données,Informatique,10.59,2,2020,Passable
+2552,426,IA,Informatique,13.66,2,2020,Assez Bien
+2553,426,Réseaux,Informatique,10.55,2,2020,Passable
+2554,426,Systèmes d'exploitation,Informatique,12.71,2,2020,Assez Bien
+2555,426,Réseaux,Informatique,9.66,1,2020,Échec
+2556,426,Réseaux,Informatique,17.09,1,2020,Très Bien
+2557,427,Optique,Physique,9.62,1,2020,Échec
+2558,427,Optique,Physique,1.26,1,2020,Échec
+2559,427,Physique Quantique,Physique,14.98,1,2020,Bien
+2560,427,Optique,Physique,10.38,2,2020,Passable
+2561,427,Optique,Physique,5.71,2,2020,Échec
+2562,427,Électromagnétisme,Physique,8.78,1,2020,Échec
+2563,428,Électronique,Génie Électrique,8.47,2,2022,Échec
+2564,428,Énergie,Génie Électrique,9.98,1,2022,Échec
+2565,428,Électronique,Génie Électrique,14.49,2,2022,Bien
+2566,428,Énergie,Génie Électrique,15.3,1,2022,Bien
+2567,428,Électronique,Génie Électrique,11.33,2,2022,Passable
+2568,428,Télécoms,Génie Électrique,7.97,2,2022,Échec
+2569,429,Électromagnétisme,Physique,16.95,2,2021,Très Bien
+2570,429,Mécanique,Physique,12.39,2,2021,Assez Bien
+2571,429,Relativité,Physique,12.3,2,2021,Assez Bien
+2572,429,Physique Quantique,Physique,15.97,2,2021,Bien
+2573,429,Thermodynamique,Physique,13.84,2,2021,Assez Bien
+2574,429,Relativité,Physique,10.26,2,2021,Passable
+2575,430,Biochimie,Biologie,4.82,1,2022,Échec
+2576,430,Biologie Cellulaire,Biologie,8.78,2,2022,Échec
+2577,430,Physiologie,Biologie,12.84,1,2022,Assez Bien
+2578,430,Génétique,Biologie,11.98,1,2022,Passable
+2579,430,Génétique,Biologie,13.62,1,2022,Assez Bien
+2580,430,Biologie Cellulaire,Biologie,18.64,2,2022,Très Bien
+2581,431,Thermochimie,Chimie,14.45,2,2022,Bien
+2582,431,Chimie Organique,Chimie,17.34,2,2022,Très Bien
+2583,431,Thermochimie,Chimie,13.0,2,2022,Assez Bien
+2584,431,Biochimie,Chimie,11.12,2,2022,Passable
+2585,431,Électrochimie,Chimie,7.31,1,2022,Échec
+2586,431,Chimie Organique,Chimie,18.54,2,2022,Très Bien
+2587,432,Sémiologie,Médecine,8.14,2,2023,Échec
+2588,432,Sémiologie,Médecine,4.38,2,2023,Échec
+2589,432,Pharmacologie,Médecine,1.87,1,2023,Échec
+2590,432,Physiologie,Médecine,13.17,2,2023,Assez Bien
+2591,432,Anatomie,Médecine,9.96,2,2023,Échec
+2592,432,Anatomie,Médecine,13.29,1,2023,Assez Bien
+2593,433,Bases de Données,Informatique,10.2,1,2023,Passable
+2594,433,Systèmes d'exploitation,Informatique,8.46,2,2023,Échec
+2595,433,Bases de Données,Informatique,15.64,1,2023,Bien
+2596,433,Algorithmique,Informatique,14.14,2,2023,Bien
+2597,433,IA,Informatique,8.33,1,2023,Échec
+2598,433,Programmation C,Informatique,9.96,2,2023,Échec
+2599,434,Bases de Données,Informatique,14.46,2,2023,Bien
+2600,434,Bases de Données,Informatique,3.73,2,2023,Échec
+2601,434,Bases de Données,Informatique,5.69,1,2023,Échec
+2602,434,Algorithmique,Informatique,8.85,1,2023,Échec
+2603,434,Algorithmique,Informatique,10.61,2,2023,Passable
+2604,434,Systèmes d'exploitation,Informatique,7.78,1,2023,Échec
+2605,435,Électrotechnique,Génie Électrique,12.55,2,2023,Assez Bien
+2606,435,Automatique,Génie Électrique,5.91,2,2023,Échec
+2607,435,Télécoms,Génie Électrique,15.11,2,2023,Bien
+2608,435,Électrotechnique,Génie Électrique,6.7,1,2023,Échec
+2609,435,Électronique,Génie Électrique,13.5,1,2023,Assez Bien
+2610,435,Énergie,Génie Électrique,0.0,1,2023,Échec
+2611,436,Chimie Organique,Chimie,15.16,2,2023,Bien
+2612,436,Chimie Générale,Chimie,18.01,1,2023,Très Bien
+2613,436,Chimie Organique,Chimie,6.71,2,2023,Échec
+2614,436,Chimie Analytique,Chimie,10.68,2,2023,Passable
+2615,436,Électrochimie,Chimie,11.19,2,2023,Passable
+2616,436,Thermochimie,Chimie,8.04,2,2023,Échec
+2617,437,Droit Int.,Droit,7.59,2,2021,Échec
+2618,437,Procédure Civile,Droit,11.55,1,2021,Passable
+2619,437,Procédure Civile,Droit,16.46,2,2021,Très Bien
+2620,437,Droit Int.,Droit,2.65,1,2021,Échec
+2621,437,Droit Administratif,Droit,6.69,2,2021,Échec
+2622,437,Droit Int.,Droit,9.28,1,2021,Échec
+2623,438,Énergie,Génie Électrique,15.7,1,2021,Bien
+2624,438,Électronique,Génie Électrique,7.58,2,2021,Échec
+2625,438,Signal,Génie Électrique,11.48,2,2021,Passable
+2626,438,Électrotechnique,Génie Électrique,7.35,1,2021,Échec
+2627,438,Signal,Génie Électrique,4.45,1,2021,Échec
+2628,438,Électrotechnique,Génie Électrique,17.61,2,2021,Très Bien
+2629,439,Hydraulique,Génie Civil,10.58,2,2023,Passable
+2630,439,Hydraulique,Génie Civil,10.93,1,2023,Passable
+2631,439,Hydraulique,Génie Civil,15.08,1,2023,Bien
+2632,439,Matériaux,Génie Civil,8.61,2,2023,Échec
+2633,439,Béton Armé,Génie Civil,7.55,2,2023,Échec
+2634,439,Béton Armé,Génie Civil,6.42,2,2023,Échec
+2635,440,Thermodynamique,Physique,3.48,1,2020,Échec
+2636,440,Relativité,Physique,3.46,2,2020,Échec
+2637,440,Physique Quantique,Physique,7.87,2,2020,Échec
+2638,440,Relativité,Physique,7.57,1,2020,Échec
+2639,440,Mécanique,Physique,7.24,1,2020,Échec
+2640,440,Relativité,Physique,15.03,1,2020,Bien
+2641,441,Droit Pénal,Droit,17.58,1,2022,Très Bien
+2642,441,Droit Civil,Droit,14.77,2,2022,Bien
+2643,441,Droit Int.,Droit,10.15,2,2022,Passable
+2644,441,Droit Pénal,Droit,7.63,1,2022,Échec
+2645,441,Droit Commercial,Droit,15.05,2,2022,Bien
+2646,441,Droit Int.,Droit,4.37,1,2022,Échec
+2647,442,Biochimie,Biologie,10.33,1,2020,Passable
+2648,442,Physiologie,Biologie,7.24,2,2020,Échec
+2649,442,Écologie,Biologie,14.12,1,2020,Bien
+2650,442,Génétique,Biologie,5.93,1,2020,Échec
+2651,442,Physiologie,Biologie,10.74,1,2020,Passable
+2652,442,Microbiologie,Biologie,13.45,1,2020,Assez Bien
+2653,443,Relativité,Physique,8.54,1,2020,Échec
+2654,443,Thermodynamique,Physique,10.92,2,2020,Passable
+2655,443,Physique Quantique,Physique,8.84,1,2020,Échec
+2656,443,Physique Quantique,Physique,13.95,2,2020,Assez Bien
+2657,443,Mécanique,Physique,12.3,1,2020,Assez Bien
+2658,443,Électromagnétisme,Physique,12.16,2,2020,Assez Bien
+2659,444,Biochimie,Biologie,10.44,1,2022,Passable
+2660,444,Biologie Cellulaire,Biologie,10.42,1,2022,Passable
+2661,444,Physiologie,Biologie,9.84,1,2022,Échec
+2662,444,Microbiologie,Biologie,12.17,1,2022,Assez Bien
+2663,444,Physiologie,Biologie,11.08,1,2022,Passable
+2664,444,Écologie,Biologie,8.87,2,2022,Échec
+2665,445,Droit Pénal,Droit,10.07,2,2021,Passable
+2666,445,Droit Pénal,Droit,16.08,1,2021,Très Bien
+2667,445,Droit Commercial,Droit,12.86,2,2021,Assez Bien
+2668,445,Droit Commercial,Droit,9.33,2,2021,Échec
+2669,445,Droit Commercial,Droit,14.13,2,2021,Bien
+2670,445,Droit Commercial,Droit,13.06,2,2021,Assez Bien
+2671,446,IA,Informatique,10.06,2,2021,Passable
+2672,446,Programmation C,Informatique,8.74,1,2021,Échec
+2673,446,IA,Informatique,5.73,2,2021,Échec
+2674,446,Programmation C,Informatique,13.33,2,2021,Assez Bien
+2675,446,IA,Informatique,15.97,2,2021,Bien
+2676,446,Algorithmique,Informatique,10.0,1,2021,Passable
+2677,447,Probabilités,Mathématiques,11.62,1,2020,Passable
+2678,447,Topologie,Mathématiques,14.05,1,2020,Bien
+2679,447,Statistiques,Mathématiques,14.39,2,2020,Bien
+2680,447,Topologie,Mathématiques,15.09,2,2020,Bien
+2681,447,Analyse Numérique,Mathématiques,10.11,1,2020,Passable
+2682,447,Analyse Numérique,Mathématiques,10.45,2,2020,Passable
+2683,448,Béton Armé,Génie Civil,13.46,2,2020,Assez Bien
+2684,448,Structures,Génie Civil,14.82,1,2020,Bien
+2685,448,Mécanique des Sols,Génie Civil,13.92,2,2020,Assez Bien
+2686,448,Matériaux,Génie Civil,9.22,1,2020,Échec
+2687,448,Béton Armé,Génie Civil,5.86,2,2020,Échec
+2688,448,Structures,Génie Civil,13.07,2,2020,Assez Bien
+2689,449,Signal,Génie Électrique,12.54,2,2023,Assez Bien
+2690,449,Énergie,Génie Électrique,8.36,2,2023,Échec
+2691,449,Signal,Génie Électrique,9.53,1,2023,Échec
+2692,449,Énergie,Génie Électrique,7.96,1,2023,Échec
+2693,449,Signal,Génie Électrique,8.17,2,2023,Échec
+2694,449,Énergie,Génie Électrique,12.42,1,2023,Assez Bien
+2695,450,Électromagnétisme,Physique,1.98,1,2022,Échec
+2696,450,Physique Quantique,Physique,10.31,1,2022,Passable
+2697,450,Électromagnétisme,Physique,7.35,1,2022,Échec
+2698,450,Mécanique,Physique,4.97,2,2022,Échec
+2699,450,Électromagnétisme,Physique,12.41,1,2022,Assez Bien
+2700,450,Optique,Physique,6.8,1,2022,Échec
+2701,451,Physiologie,Biologie,15.98,2,2023,Bien
+2702,451,Microbiologie,Biologie,17.63,1,2023,Très Bien
+2703,451,Génétique,Biologie,11.23,1,2023,Passable
+2704,451,Physiologie,Biologie,13.69,1,2023,Assez Bien
+2705,451,Génétique,Biologie,7.92,2,2023,Échec
+2706,451,Biologie Cellulaire,Biologie,3.91,2,2023,Échec
+2707,452,Génétique,Biologie,8.47,2,2023,Échec
+2708,452,Physiologie,Biologie,14.74,1,2023,Bien
+2709,452,Écologie,Biologie,7.3,1,2023,Échec
+2710,452,Biologie Cellulaire,Biologie,4.42,2,2023,Échec
+2711,452,Génétique,Biologie,7.1,2,2023,Échec
+2712,452,Microbiologie,Biologie,19.51,2,2023,Très Bien
+2713,453,Télécoms,Génie Électrique,10.48,2,2022,Passable
+2714,453,Énergie,Génie Électrique,6.83,1,2022,Échec
+2715,453,Automatique,Génie Électrique,4.45,1,2022,Échec
+2716,453,Électrotechnique,Génie Électrique,11.48,1,2022,Passable
+2717,453,Électrotechnique,Génie Électrique,8.52,1,2022,Échec
+2718,453,Énergie,Génie Électrique,13.67,2,2022,Assez Bien
+2719,454,Électronique,Génie Électrique,9.67,1,2022,Échec
+2720,454,Électronique,Génie Électrique,9.27,1,2022,Échec
+2721,454,Automatique,Génie Électrique,7.65,1,2022,Échec
+2722,454,Signal,Génie Électrique,12.44,1,2022,Assez Bien
+2723,454,Automatique,Génie Électrique,8.75,2,2022,Échec
+2724,454,Électronique,Génie Électrique,16.56,2,2022,Très Bien
+2725,455,Réseaux,Informatique,12.73,1,2023,Assez Bien
+2726,455,Réseaux,Informatique,14.64,1,2023,Bien
+2727,455,Bases de Données,Informatique,10.28,2,2023,Passable
+2728,455,Algorithmique,Informatique,9.3,1,2023,Échec
+2729,455,Bases de Données,Informatique,14.28,2,2023,Bien
+2730,455,Algorithmique,Informatique,14.44,2,2023,Bien
+2731,456,Biochimie,Chimie,14.93,1,2021,Bien
+2732,456,Chimie Analytique,Chimie,9.99,2,2021,Échec
+2733,456,Chimie Analytique,Chimie,10.9,2,2021,Passable
+2734,456,Électrochimie,Chimie,9.02,2,2021,Échec
+2735,456,Thermochimie,Chimie,9.18,2,2021,Échec
+2736,456,Chimie Générale,Chimie,3.51,1,2021,Échec
+2737,457,Topographie,Génie Civil,7.14,1,2021,Échec
+2738,457,Mécanique des Sols,Génie Civil,10.22,1,2021,Passable
+2739,457,Hydraulique,Génie Civil,16.94,2,2021,Très Bien
+2740,457,Mécanique des Sols,Génie Civil,8.99,2,2021,Échec
+2741,457,Topographie,Génie Civil,14.1,1,2021,Bien
+2742,457,Topographie,Génie Civil,11.98,2,2021,Passable
+2743,458,Hydraulique,Génie Civil,16.14,2,2021,Très Bien
+2744,458,Hydraulique,Génie Civil,12.67,2,2021,Assez Bien
+2745,458,Hydraulique,Génie Civil,7.9,1,2021,Échec
+2746,458,Matériaux,Génie Civil,4.92,2,2021,Échec
+2747,458,Mécanique des Sols,Génie Civil,9.88,2,2021,Échec
+2748,458,Hydraulique,Génie Civil,15.0,2,2021,Bien
+2749,459,Relativité,Physique,12.9,1,2023,Assez Bien
+2750,459,Physique Quantique,Physique,11.43,2,2023,Passable
+2751,459,Électromagnétisme,Physique,13.24,1,2023,Assez Bien
+2752,459,Relativité,Physique,15.41,1,2023,Bien
+2753,459,Relativité,Physique,2.56,2,2023,Échec
+2754,459,Optique,Physique,11.35,1,2023,Passable
+2755,460,IA,Informatique,13.22,1,2023,Assez Bien
+2756,460,Algorithmique,Informatique,6.31,2,2023,Échec
+2757,460,Bases de Données,Informatique,16.33,1,2023,Très Bien
+2758,460,Réseaux,Informatique,12.31,1,2023,Assez Bien
+2759,460,Bases de Données,Informatique,16.97,2,2023,Très Bien
+2760,460,Réseaux,Informatique,8.07,1,2023,Échec
+2761,461,Électromagnétisme,Physique,13.93,1,2022,Assez Bien
+2762,461,Optique,Physique,10.05,1,2022,Passable
+2763,461,Électromagnétisme,Physique,0.0,1,2022,Échec
+2764,461,Relativité,Physique,5.4,1,2022,Échec
+2765,461,Thermodynamique,Physique,8.51,2,2022,Échec
+2766,461,Thermodynamique,Physique,9.76,1,2022,Échec
+2767,462,Probabilités,Mathématiques,9.78,2,2022,Échec
+2768,462,Algèbre 1,Mathématiques,10.99,2,2022,Passable
+2769,462,Probabilités,Mathématiques,13.72,2,2022,Assez Bien
+2770,462,Analyse Numérique,Mathématiques,11.09,1,2022,Passable
+2771,462,Probabilités,Mathématiques,10.42,2,2022,Passable
+2772,462,Analyse 1,Mathématiques,16.38,1,2022,Très Bien
+2773,463,Mécanique des Sols,Génie Civil,14.52,1,2021,Bien
+2774,463,Matériaux,Génie Civil,11.4,2,2021,Passable
+2775,463,Structures,Génie Civil,9.23,2,2021,Échec
+2776,463,Structures,Génie Civil,3.72,2,2021,Échec
+2777,463,Matériaux,Génie Civil,3.93,1,2021,Échec
+2778,463,Hydraulique,Génie Civil,16.92,2,2021,Très Bien
+2779,464,Droit Commercial,Droit,8.53,2,2022,Échec
+2780,464,Droit Int.,Droit,14.57,2,2022,Bien
+2781,464,Droit Pénal,Droit,8.61,2,2022,Échec
+2782,464,Droit Commercial,Droit,10.51,2,2022,Passable
+2783,464,Droit Civil,Droit,8.23,1,2022,Échec
+2784,464,Droit Int.,Droit,6.59,2,2022,Échec
+2785,465,Biochimie,Biologie,12.66,2,2021,Assez Bien
+2786,465,Microbiologie,Biologie,10.84,2,2021,Passable
+2787,465,Microbiologie,Biologie,6.72,1,2021,Échec
+2788,465,Biochimie,Biologie,12.35,1,2021,Assez Bien
+2789,465,Biochimie,Biologie,8.47,1,2021,Échec
+2790,465,Microbiologie,Biologie,14.41,2,2021,Bien
+2791,466,Électromagnétisme,Physique,7.48,2,2022,Échec
+2792,466,Physique Quantique,Physique,14.51,1,2022,Bien
+2793,466,Mécanique,Physique,8.81,1,2022,Échec
+2794,466,Physique Quantique,Physique,12.68,2,2022,Assez Bien
+2795,466,Électromagnétisme,Physique,15.51,2,2022,Bien
+2796,466,Physique Quantique,Physique,5.88,2,2022,Échec
+2797,467,Comptabilité,Économie,11.03,2,2021,Passable
+2798,467,Comptabilité,Économie,6.84,2,2021,Échec
+2799,467,Statistiques Éco,Économie,17.55,2,2021,Très Bien
+2800,467,Marketing,Économie,16.12,2,2021,Très Bien
+2801,467,Macroéconomie,Économie,13.96,2,2021,Assez Bien
+2802,467,Comptabilité,Économie,7.38,2,2021,Échec
+2803,468,Électromagnétisme,Physique,13.22,2,2020,Assez Bien
+2804,468,Mécanique,Physique,9.85,2,2020,Échec
+2805,468,Optique,Physique,7.63,1,2020,Échec
+2806,468,Optique,Physique,5.96,2,2020,Échec
+2807,468,Optique,Physique,6.19,1,2020,Échec
+2808,468,Électromagnétisme,Physique,14.04,1,2020,Bien
+2809,469,Électrochimie,Chimie,7.3,1,2021,Échec
+2810,469,Chimie Analytique,Chimie,9.24,1,2021,Échec
+2811,469,Chimie Organique,Chimie,6.9,1,2021,Échec
+2812,469,Chimie Analytique,Chimie,9.09,1,2021,Échec
+2813,469,Biochimie,Chimie,5.32,2,2021,Échec
+2814,469,Électrochimie,Chimie,6.8,1,2021,Échec
+2815,470,Programmation C,Informatique,4.81,1,2023,Échec
+2816,470,Programmation C,Informatique,12.68,2,2023,Assez Bien
+2817,470,IA,Informatique,14.11,2,2023,Bien
+2818,470,Algorithmique,Informatique,9.33,1,2023,Échec
+2819,470,Programmation C,Informatique,7.08,2,2023,Échec
+2820,470,Programmation C,Informatique,8.92,1,2023,Échec
+2821,471,Signal,Génie Électrique,9.06,2,2022,Échec
+2822,471,Électrotechnique,Génie Électrique,11.0,1,2022,Passable
+2823,471,Signal,Génie Électrique,10.73,1,2022,Passable
+2824,471,Télécoms,Génie Électrique,9.5,2,2022,Échec
+2825,471,Énergie,Génie Électrique,18.96,1,2022,Très Bien
+2826,471,Signal,Génie Électrique,10.78,2,2022,Passable
+2827,472,Relativité,Physique,4.83,1,2023,Échec
+2828,472,Optique,Physique,9.52,2,2023,Échec
+2829,472,Relativité,Physique,17.8,1,2023,Très Bien
+2830,472,Thermodynamique,Physique,13.68,2,2023,Assez Bien
+2831,472,Relativité,Physique,16.06,2,2023,Très Bien
+2832,472,Optique,Physique,8.52,1,2023,Échec
+2833,473,Biologie Cellulaire,Biologie,12.9,1,2020,Assez Bien
+2834,473,Physiologie,Biologie,13.48,1,2020,Assez Bien
+2835,473,Microbiologie,Biologie,7.89,1,2020,Échec
+2836,473,Écologie,Biologie,12.9,1,2020,Assez Bien
+2837,473,Microbiologie,Biologie,15.7,1,2020,Bien
+2838,473,Écologie,Biologie,14.29,2,2020,Bien
+2839,474,Droit Pénal,Droit,11.16,2,2020,Passable
+2840,474,Droit Commercial,Droit,7.34,2,2020,Échec
+2841,474,Droit Int.,Droit,10.84,1,2020,Passable
+2842,474,Droit Pénal,Droit,14.21,1,2020,Bien
+2843,474,Procédure Civile,Droit,10.32,2,2020,Passable
+2844,474,Procédure Civile,Droit,13.75,2,2020,Assez Bien
+2845,475,Relativité,Physique,8.53,1,2023,Échec
+2846,475,Physique Quantique,Physique,20.0,2,2023,Très Bien
+2847,475,Optique,Physique,9.62,1,2023,Échec
+2848,475,Relativité,Physique,5.18,1,2023,Échec
+2849,475,Électromagnétisme,Physique,4.82,2,2023,Échec
+2850,475,Relativité,Physique,6.05,1,2023,Échec
+2851,476,Électronique,Génie Électrique,14.14,1,2022,Bien
+2852,476,Énergie,Génie Électrique,6.74,1,2022,Échec
+2853,476,Automatique,Génie Électrique,7.87,2,2022,Échec
+2854,476,Signal,Génie Électrique,14.59,1,2022,Bien
+2855,476,Automatique,Génie Électrique,7.71,2,2022,Échec
+2856,476,Énergie,Génie Électrique,6.82,2,2022,Échec
+2857,477,Signal,Génie Électrique,14.06,1,2023,Bien
+2858,477,Énergie,Génie Électrique,7.55,2,2023,Échec
+2859,477,Électrotechnique,Génie Électrique,7.11,1,2023,Échec
+2860,477,Automatique,Génie Électrique,11.39,1,2023,Passable
+2861,477,Automatique,Génie Électrique,11.62,1,2023,Passable
+2862,477,Télécoms,Génie Électrique,13.2,1,2023,Assez Bien
+2863,478,Microbiologie,Biologie,5.81,1,2023,Échec
+2864,478,Physiologie,Biologie,11.04,1,2023,Passable
+2865,478,Physiologie,Biologie,12.74,2,2023,Assez Bien
+2866,478,Physiologie,Biologie,16.65,1,2023,Très Bien
+2867,478,Microbiologie,Biologie,7.82,1,2023,Échec
+2868,478,Biologie Cellulaire,Biologie,10.85,2,2023,Passable
+2869,479,Topologie,Mathématiques,8.03,1,2023,Échec
+2870,479,Analyse Numérique,Mathématiques,10.57,1,2023,Passable
+2871,479,Algèbre 1,Mathématiques,9.37,1,2023,Échec
+2872,479,Topologie,Mathématiques,6.9,2,2023,Échec
+2873,479,Topologie,Mathématiques,9.87,1,2023,Échec
+2874,479,Algèbre 1,Mathématiques,17.5,2,2023,Très Bien
+2875,480,Biologie Cellulaire,Biologie,11.79,2,2020,Passable
+2876,480,Écologie,Biologie,13.89,1,2020,Assez Bien
+2877,480,Biochimie,Biologie,11.95,1,2020,Passable
+2878,480,Génétique,Biologie,10.12,2,2020,Passable
+2879,480,Biologie Cellulaire,Biologie,6.75,1,2020,Échec
+2880,480,Biochimie,Biologie,12.62,1,2020,Assez Bien
+2881,481,Matériaux,Génie Civil,5.82,2,2021,Échec
+2882,481,Béton Armé,Génie Civil,11.42,2,2021,Passable
+2883,481,Structures,Génie Civil,13.46,2,2021,Assez Bien
+2884,481,Béton Armé,Génie Civil,17.81,2,2021,Très Bien
+2885,481,Topographie,Génie Civil,7.25,1,2021,Échec
+2886,481,Hydraulique,Génie Civil,8.23,2,2021,Échec
+2887,482,Électrochimie,Chimie,9.79,2,2022,Échec
+2888,482,Électrochimie,Chimie,16.63,1,2022,Très Bien
+2889,482,Chimie Analytique,Chimie,10.19,2,2022,Passable
+2890,482,Biochimie,Chimie,16.07,2,2022,Très Bien
+2891,482,Chimie Générale,Chimie,20.0,2,2022,Très Bien
+2892,482,Chimie Générale,Chimie,9.62,2,2022,Échec
+2893,483,Procédure Civile,Droit,8.65,1,2023,Échec
+2894,483,Droit Administratif,Droit,11.44,2,2023,Passable
+2895,483,Droit Civil,Droit,14.86,1,2023,Bien
+2896,483,Droit Pénal,Droit,9.04,1,2023,Échec
+2897,483,Droit Pénal,Droit,12.08,2,2023,Assez Bien
+2898,483,Procédure Civile,Droit,15.6,2,2023,Bien
+2899,484,Électronique,Génie Électrique,7.35,1,2023,Échec
+2900,484,Énergie,Génie Électrique,2.59,1,2023,Échec
+2901,484,Automatique,Génie Électrique,14.78,1,2023,Bien
+2902,484,Électrotechnique,Génie Électrique,16.68,1,2023,Très Bien
+2903,484,Automatique,Génie Électrique,20.0,2,2023,Très Bien
+2904,484,Télécoms,Génie Électrique,7.97,2,2023,Échec
+2905,485,Algèbre 1,Mathématiques,15.12,2,2023,Bien
+2906,485,Probabilités,Mathématiques,9.15,1,2023,Échec
+2907,485,Probabilités,Mathématiques,9.12,2,2023,Échec
+2908,485,Statistiques,Mathématiques,14.23,2,2023,Bien
+2909,485,Statistiques,Mathématiques,4.74,1,2023,Échec
+2910,485,Statistiques,Mathématiques,8.37,1,2023,Échec
+2911,486,Statistiques,Mathématiques,6.61,2,2023,Échec
+2912,486,Probabilités,Mathématiques,16.76,1,2023,Très Bien
+2913,486,Analyse Numérique,Mathématiques,12.74,2,2023,Assez Bien
+2914,486,Probabilités,Mathématiques,16.63,2,2023,Très Bien
+2915,486,Analyse 1,Mathématiques,7.91,2,2023,Échec
+2916,486,Topologie,Mathématiques,17.37,1,2023,Très Bien
+2917,487,Programmation C,Informatique,7.81,2,2023,Échec
+2918,487,Algorithmique,Informatique,8.1,1,2023,Échec
+2919,487,Programmation C,Informatique,14.42,2,2023,Bien
+2920,487,Algorithmique,Informatique,16.42,2,2023,Très Bien
+2921,487,IA,Informatique,17.06,1,2023,Très Bien
+2922,487,Bases de Données,Informatique,9.43,2,2023,Échec
+2923,488,Béton Armé,Génie Civil,15.59,2,2020,Bien
+2924,488,Matériaux,Génie Civil,14.4,2,2020,Bien
+2925,488,Topographie,Génie Civil,12.72,1,2020,Assez Bien
+2926,488,Structures,Génie Civil,10.1,1,2020,Passable
+2927,488,Hydraulique,Génie Civil,17.43,1,2020,Très Bien
+2928,488,Mécanique des Sols,Génie Civil,10.07,2,2020,Passable
+2929,489,Biochimie,Biologie,11.53,1,2023,Passable
+2930,489,Microbiologie,Biologie,12.63,2,2023,Assez Bien
+2931,489,Biochimie,Biologie,7.74,1,2023,Échec
+2932,489,Génétique,Biologie,10.36,1,2023,Passable
+2933,489,Physiologie,Biologie,10.17,2,2023,Passable
+2934,489,Écologie,Biologie,7.63,1,2023,Échec
+2935,490,Électrotechnique,Génie Électrique,9.76,2,2021,Échec
+2936,490,Automatique,Génie Électrique,13.59,1,2021,Assez Bien
+2937,490,Télécoms,Génie Électrique,14.05,1,2021,Bien
+2938,490,Électrotechnique,Génie Électrique,10.45,1,2021,Passable
+2939,490,Télécoms,Génie Électrique,7.6,2,2021,Échec
+2940,490,Électronique,Génie Électrique,13.14,1,2021,Assez Bien
+2941,491,Biochimie,Biologie,7.38,1,2022,Échec
+2942,491,Biochimie,Biologie,14.69,2,2022,Bien
+2943,491,Biochimie,Biologie,5.78,1,2022,Échec
+2944,491,Physiologie,Biologie,11.26,1,2022,Passable
+2945,491,Biochimie,Biologie,15.28,1,2022,Bien
+2946,491,Biochimie,Biologie,13.8,1,2022,Assez Bien
+2947,492,Systèmes d'exploitation,Informatique,11.98,2,2021,Passable
+2948,492,Systèmes d'exploitation,Informatique,9.59,1,2021,Échec
+2949,492,Algorithmique,Informatique,11.46,2,2021,Passable
+2950,492,Réseaux,Informatique,6.78,2,2021,Échec
+2951,492,IA,Informatique,13.07,1,2021,Assez Bien
+2952,492,IA,Informatique,13.93,2,2021,Assez Bien
+2953,493,Topographie,Génie Civil,4.95,2,2021,Échec
+2954,493,Béton Armé,Génie Civil,9.94,2,2021,Échec
+2955,493,Matériaux,Génie Civil,9.48,2,2021,Échec
+2956,493,Béton Armé,Génie Civil,16.38,1,2021,Très Bien
+2957,493,Mécanique des Sols,Génie Civil,10.0,1,2021,Passable
+2958,493,Matériaux,Génie Civil,13.05,2,2021,Assez Bien
+2959,494,Matériaux,Génie Civil,5.29,2,2022,Échec
+2960,494,Structures,Génie Civil,12.55,1,2022,Assez Bien
+2961,494,Mécanique des Sols,Génie Civil,11.39,1,2022,Passable
+2962,494,Béton Armé,Génie Civil,8.31,1,2022,Échec
+2963,494,Matériaux,Génie Civil,4.81,1,2022,Échec
+2964,494,Matériaux,Génie Civil,6.39,2,2022,Échec
+2965,495,Biologie Cellulaire,Biologie,9.37,1,2023,Échec
+2966,495,Physiologie,Biologie,14.08,1,2023,Bien
+2967,495,Génétique,Biologie,9.63,2,2023,Échec
+2968,495,Génétique,Biologie,14.97,1,2023,Bien
+2969,495,Microbiologie,Biologie,19.08,2,2023,Très Bien
+2970,495,Biologie Cellulaire,Biologie,12.4,2,2023,Assez Bien
+2971,496,Chimie Générale,Chimie,4.8,1,2023,Échec
+2972,496,Thermochimie,Chimie,13.28,1,2023,Assez Bien
+2973,496,Thermochimie,Chimie,8.53,2,2023,Échec
+2974,496,Électrochimie,Chimie,12.0,1,2023,Assez Bien
+2975,496,Chimie Générale,Chimie,15.67,1,2023,Bien
+2976,496,Chimie Organique,Chimie,10.09,1,2023,Passable
+2977,497,Algorithmique,Informatique,17.12,2,2021,Très Bien
+2978,497,IA,Informatique,8.61,2,2021,Échec
+2979,497,Réseaux,Informatique,15.21,2,2021,Bien
+2980,497,Réseaux,Informatique,20.0,2,2021,Très Bien
+2981,497,Systèmes d'exploitation,Informatique,14.37,1,2021,Bien
+2982,497,Réseaux,Informatique,13.86,2,2021,Assez Bien
+2983,498,Optique,Physique,12.78,2,2021,Assez Bien
+2984,498,Thermodynamique,Physique,10.56,1,2021,Passable
+2985,498,Optique,Physique,16.48,1,2021,Très Bien
+2986,498,Relativité,Physique,9.06,1,2021,Échec
+2987,498,Relativité,Physique,8.54,2,2021,Échec
+2988,498,Mécanique,Physique,7.88,2,2021,Échec
+2989,499,Statistiques Éco,Économie,8.88,1,2020,Échec
+2990,499,Macroéconomie,Économie,8.18,1,2020,Échec
+2991,499,Marketing,Économie,15.83,1,2020,Bien
+2992,499,Statistiques Éco,Économie,11.28,2,2020,Passable
+2993,499,Microéconomie,Économie,17.68,2,2020,Très Bien
+2994,499,Comptabilité,Économie,13.7,2,2020,Assez Bien
+2995,500,Droit Pénal,Droit,8.83,1,2023,Échec
+2996,500,Droit Int.,Droit,12.2,1,2023,Assez Bien
+2997,500,Droit Commercial,Droit,12.4,1,2023,Assez Bien
+2998,500,Droit Civil,Droit,9.67,2,2023,Échec
+2999,500,Droit Pénal,Droit,9.07,2,2023,Échec
+3000,500,Procédure Civile,Droit,16.26,2,2023,Très Bien

@@ -1,0 +1,81 @@
+enseignant_id,nom,grade,departement,cours_assignes,email,date_recrutement
+1,Hamza Ouali,Maître de Conférences B,Économie,Marketing | Finance | Macroéconomie,enseignant1@upes.dz,2015-06-11
+2,Ahmed Saidi,Professeur,Physique,Thermodynamique | Mécanique | Relativité,enseignant2@upes.dz,2007-04-23
+3,Amine Rahmani,Maître Assistant A,Médecine,Physiologie | Pathologie | Sémiologie,enseignant3@upes.dz,2000-11-24
+4,Loubna Benali,Maître de Conférences A,Informatique,Réseaux | Programmation C | Systèmes d'exploitation,enseignant4@upes.dz,2011-04-28
+5,Fatima Larbi,Maître Assistant A,Médecine,Biochimie Méd. | Pathologie | Pharmacologie,enseignant5@upes.dz,2011-04-21
+6,Djamila Meziane,Professeur,Chimie,Thermochimie | Chimie Analytique | Biochimie,enseignant6@upes.dz,2022-12-11
+7,Lina Meziane,Maître Assistant A,Génie Civil,Matériaux | Structures | Hydraulique,enseignant7@upes.dz,2002-11-11
+8,Nadia Tebbal,Maître de Conférences A,Génie Civil,Hydraulique | Structures | Matériaux,enseignant8@upes.dz,2006-09-22
+9,Meriem Cherif,Professeur,Droit,Droit Pénal | Droit Civil | Droit Administratif,enseignant9@upes.dz,2022-04-23
+10,Fatima Boumediene,Maître Assistant B,Biologie,Microbiologie | Écologie | Biochimie,enseignant10@upes.dz,2008-07-08
+11,Asma Ziani,Maître de Conférences B,Génie Civil,Structures | Mécanique des Sols | Topographie,enseignant11@upes.dz,2007-08-17
+12,Hamza Cherif,Maître de Conférences B,Droit,Droit Pénal | Droit Commercial | Droit Civil,enseignant12@upes.dz,2008-03-18
+13,Asma Mansouri,Maître de Conférences B,Génie Civil,Structures | Béton Armé | Mécanique des Sols,enseignant13@upes.dz,2018-11-11
+14,Omar Meziane,Maître Assistant A,Génie Civil,Hydraulique | Structures | Matériaux,enseignant14@upes.dz,2002-05-29
+15,Hamza Boudjelal,Maître Assistant B,Médecine,Sémiologie | Pathologie | Anatomie,enseignant15@upes.dz,2005-05-17
+16,Mohamed Cherif,Maître de Conférences A,Génie Électrique,Énergie | Automatique | Signal,enseignant16@upes.dz,2008-12-25
+17,Sofiane Guerfi,Maître de Conférences A,Génie Civil,Topographie | Matériaux | Structures,enseignant17@upes.dz,2003-08-17
+18,Mohamed Benali,Maître Assistant A,Économie,Comptabilité | Macroéconomie | Statistiques Éco,enseignant18@upes.dz,2012-04-08
+19,Hamza Khelif,Maître de Conférences A,Chimie,Chimie Organique | Électrochimie | Biochimie,enseignant19@upes.dz,2019-06-15
+20,Fatima Benali,Professeur,Génie Électrique,Signal | Télécoms | Énergie,enseignant20@upes.dz,2008-12-11
+21,Ahmed Benali,Maître de Conférences A,Génie Civil,Béton Armé | Hydraulique | Mécanique des Sols,enseignant21@upes.dz,2010-02-24
+22,Fatima Ziani,Maître Assistant B,Génie Civil,Hydraulique | Mécanique des Sols | Béton Armé,enseignant22@upes.dz,2013-09-24
+23,Lina Benmoussa,Maître Assistant B,Physique,Mécanique | Relativité | Thermodynamique,enseignant23@upes.dz,2015-02-26
+24,Hamza Larbi,Maître de Conférences A,Génie Électrique,Télécoms | Électrotechnique | Automatique,enseignant24@upes.dz,2007-05-25
+25,Sofiane Boudjelal,Professeur,Génie Électrique,Électronique | Électrotechnique | Énergie,enseignant25@upes.dz,2022-08-20
+26,Fatima Rahmani,Maître Assistant B,Physique,Mécanique | Thermodynamique | Relativité,enseignant26@upes.dz,2002-03-07
+27,Mohamed Meziane,Maître Assistant A,Médecine,Anatomie | Pathologie | Sémiologie,enseignant27@upes.dz,2019-12-06
+28,Hamza Cherif,Maître de Conférences A,Génie Électrique,Électronique | Énergie | Automatique,enseignant28@upes.dz,2000-06-01
+29,Loubna Cherif,Maître Assistant A,Biologie,Écologie | Biologie Cellulaire | Microbiologie,enseignant29@upes.dz,2004-09-14
+30,Lina Meziane,Professeur,Droit,Droit Int. | Procédure Civile | Droit Civil,enseignant30@upes.dz,2022-04-29
+31,Walid Boudjelal,Maître de Conférences B,Chimie,Électrochimie | Chimie Organique | Chimie Analytique,enseignant31@upes.dz,2018-05-19
+32,Amine Amrani,Maître de Conférences B,Biologie,Génétique | Biologie Cellulaire | Écologie,enseignant32@upes.dz,2010-07-09
+33,Djamila Amrani,Maître de Conférences A,Informatique,Algorithmique | IA | Systèmes d'exploitation,enseignant33@upes.dz,2004-01-15
+34,Sara Benmoussa,Maître de Conférences B,Droit,Droit Civil | Droit Int. | Droit Commercial,enseignant34@upes.dz,2011-11-06
+35,Mohamed Tebbal,Maître de Conférences B,Économie,Microéconomie | Statistiques Éco | Macroéconomie,enseignant35@upes.dz,2014-01-10
+36,Mohamed Benali,Maître de Conférences A,Génie Électrique,Télécoms | Électronique | Énergie,enseignant36@upes.dz,2007-08-25
+37,Yacine Larbi,Maître de Conférences B,Génie Civil,Hydraulique | Topographie | Structures,enseignant37@upes.dz,2008-03-15
+38,Nadia Saidi,Maître Assistant A,Mathématiques,Statistiques | Analyse Numérique | Topologie,enseignant38@upes.dz,2018-12-01
+39,Bilal Meziane,Maître Assistant A,Physique,Mécanique | Électromagnétisme | Relativité,enseignant39@upes.dz,2021-08-26
+40,Loubna Saidi,Maître de Conférences B,Médecine,Pathologie | Pharmacologie | Physiologie,enseignant40@upes.dz,2001-04-17
+41,Rania Benmoussa,Professeur,Physique,Optique | Relativité | Mécanique,enseignant41@upes.dz,2002-11-03
+42,Walid Mansouri,Maître de Conférences B,Biologie,Physiologie | Microbiologie | Biologie Cellulaire,enseignant42@upes.dz,2004-04-09
+43,Asma Saidi,Maître de Conférences A,Génie Électrique,Télécoms | Électrotechnique | Signal,enseignant43@upes.dz,2002-06-13
+44,Hamza Hadj,Professeur,Informatique,IA | Programmation C | Réseaux,enseignant44@upes.dz,2022-01-20
+45,Mohamed Ziani,Maître de Conférences A,Génie Civil,Mécanique des Sols | Hydraulique | Matériaux,enseignant45@upes.dz,2016-12-25
+46,Omar Benmoussa,Professeur,Génie Électrique,Électrotechnique | Électronique | Signal,enseignant46@upes.dz,2022-05-11
+47,Ahmed Meziane,Maître Assistant A,Économie,Comptabilité | Microéconomie | Finance,enseignant47@upes.dz,2018-06-30
+48,Yacine Tebbal,Maître Assistant B,Informatique,Systèmes d'exploitation | IA | Algorithmique,enseignant48@upes.dz,2009-04-12
+49,Sara Benmoussa,Maître de Conférences B,Économie,Comptabilité | Statistiques Éco | Microéconomie,enseignant49@upes.dz,2021-03-22
+50,Karim Mansouri,Professeur,Génie Civil,Structures | Topographie | Béton Armé,enseignant50@upes.dz,2015-04-24
+51,Karim Boumediene,Maître de Conférences A,Génie Civil,Structures | Hydraulique | Matériaux,enseignant51@upes.dz,2022-02-01
+52,Nadia Boudjelal,Maître de Conférences A,Physique,Relativité | Optique | Mécanique,enseignant52@upes.dz,2005-06-01
+53,Meriem Meziane,Maître Assistant A,Génie Électrique,Électrotechnique | Signal | Télécoms,enseignant53@upes.dz,2002-01-31
+54,Djamila Ziani,Maître de Conférences A,Médecine,Anatomie | Pharmacologie | Sémiologie,enseignant54@upes.dz,2022-05-17
+55,Djamila Amrani,Maître Assistant B,Informatique,Systèmes d'exploitation | Algorithmique | Réseaux,enseignant55@upes.dz,2007-12-13
+56,Fatima Guerfi,Maître Assistant B,Médecine,Physiologie | Pathologie | Anatomie,enseignant56@upes.dz,2017-04-03
+57,Fatima Guerfi,Maître de Conférences B,Génie Électrique,Énergie | Électrotechnique | Automatique,enseignant57@upes.dz,2020-04-24
+58,Imane Guerfi,Maître Assistant B,Physique,Électromagnétisme | Optique | Thermodynamique,enseignant58@upes.dz,2009-09-30
+59,Asma Cherif,Maître de Conférences A,Chimie,Chimie Organique | Électrochimie | Chimie Analytique,enseignant59@upes.dz,2022-08-08
+60,Asma Ouali,Maître Assistant A,Droit,Droit Int. | Droit Commercial | Droit Civil,enseignant60@upes.dz,2018-09-22
+61,Walid Meziane,Professeur,Droit,Droit Commercial | Droit Administratif | Droit Civil,enseignant61@upes.dz,2017-01-31
+62,Nadia Hadj,Maître de Conférences B,Physique,Mécanique | Relativité | Électromagnétisme,enseignant62@upes.dz,2011-03-29
+63,Imane Boumediene,Maître de Conférences B,Physique,Mécanique | Thermodynamique | Électromagnétisme,enseignant63@upes.dz,2020-04-20
+64,Imane Saidi,Maître de Conférences A,Mathématiques,Topologie | Analyse Numérique | Algèbre 1,enseignant64@upes.dz,2022-12-01
+65,Fatima Boukhari,Maître de Conférences B,Biologie,Physiologie | Biologie Cellulaire | Écologie,enseignant65@upes.dz,2002-05-31
+66,Loubna Benmoussa,Maître de Conférences A,Informatique,IA | Bases de Données | Programmation C,enseignant66@upes.dz,2016-06-30
+67,Amine Tebbal,Maître Assistant A,Médecine,Sémiologie | Pathologie | Physiologie,enseignant67@upes.dz,2007-12-16
+68,Fatima Boumediene,Maître Assistant A,Mathématiques,Algèbre 1 | Analyse Numérique | Analyse 1,enseignant68@upes.dz,2012-07-08
+69,Djamila Rahmani,Professeur,Droit,Droit Commercial | Droit Pénal | Procédure Civile,enseignant69@upes.dz,2014-10-29
+70,Sofiane Guerfi,Maître Assistant B,Économie,Statistiques Éco | Macroéconomie | Microéconomie,enseignant70@upes.dz,2002-04-13
+71,Djamila Ouali,Maître de Conférences B,Médecine,Pathologie | Biochimie Méd. | Pharmacologie,enseignant71@upes.dz,2003-04-09
+72,Walid Khelif,Maître Assistant B,Génie Civil,Matériaux | Mécanique des Sols | Structures,enseignant72@upes.dz,2007-02-24
+73,Yacine Larbi,Maître de Conférences A,Génie Électrique,Énergie | Télécoms | Signal,enseignant73@upes.dz,2009-07-27
+74,Amine Ziani,Maître Assistant A,Génie Civil,Hydraulique | Structures | Matériaux,enseignant74@upes.dz,2000-05-24
+75,Sara Mansouri,Professeur,Mathématiques,Analyse Numérique | Probabilités | Statistiques,enseignant75@upes.dz,2014-05-25
+76,Imane Tebbal,Professeur,Génie Électrique,Électronique | Signal | Automatique,enseignant76@upes.dz,2016-10-26
+77,Mohamed Tebbal,Maître de Conférences A,Droit,Procédure Civile | Droit Administratif | Droit Int.,enseignant77@upes.dz,2014-05-15
+78,Imane Ouali,Professeur,Droit,Droit Civil | Droit Int. | Droit Pénal,enseignant78@upes.dz,2002-12-08
+79,Karim Boudjelal,Maître Assistant B,Chimie,Biochimie | Chimie Organique | Thermochimie,enseignant79@upes.dz,2019-07-10
+80,Omar Guerfi,Professeur,Mathématiques,Analyse Numérique | Algèbre 1 | Analyse 1,enseignant80@upes.dz,2003-12-04

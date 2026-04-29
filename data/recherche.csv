@@ -1,0 +1,61 @@
+projet_id,titre,enseignant_id,departement,budget,depenses,statut,date_debut,date_fin_prevue,publications,thematique
+1,Projet Biotechnologie #1,23,Physique,6012012.02,2237129.29,Terminé,2023-07-26,2026-10-09,9,Droit Numérique
+2,Projet Réseaux & Télécoms #2,70,Économie,4374344.89,4205435.75,En cours,2023-12-18,2023-10-09,4,Santé Numérique
+3,Projet Biotechnologie #3,46,Génie Électrique,6631909.34,2989457.45,Suspendu,2023-12-28,2023-03-29,5,Santé Numérique
+4,Projet Santé Numérique #4,65,Biologie,9223837.49,9064395.08,En cours,2022-01-11,2026-07-19,4,Biotechnologie
+5,Projet Économie Durable #5,74,Génie Civil,1825452.36,1490040.49,En cours,2019-06-17,2025-05-08,5,Énergies Renouvelables
+6,Projet Réseaux & Télécoms #6,65,Biologie,5667969.0,2944900.11,Suspendu,2022-02-01,2026-09-23,0,Biotechnologie
+7,Projet Santé Numérique #7,30,Droit,6998101.55,5512574.25,Terminé,2023-02-07,2025-02-03,3,Économie Durable
+8,Projet Économie Durable #8,67,Médecine,6740473.01,2647655.97,Suspendu,2022-11-09,2023-08-06,2,Matériaux Avancés
+9,Projet Intelligence Artificielle #9,59,Chimie,1979161.22,1373424.75,En cours,2023-06-14,2025-10-30,5,Énergies Renouvelables
+10,Projet Économie Durable #10,64,Mathématiques,1871377.72,135125.96,Terminé,2020-09-12,2024-03-04,7,Énergies Renouvelables
+11,Projet Biotechnologie #11,25,Génie Électrique,723303.33,22492.88,En cours,2023-08-23,2026-10-25,1,Énergies Renouvelables
+12,Projet Économie Durable #12,9,Droit,2907622.06,2765185.38,Terminé,2019-01-22,2026-11-30,11,Réseaux & Télécoms
+13,Projet Intelligence Artificielle #13,44,Informatique,4183599.47,872064.64,Terminé,2022-10-22,2025-10-03,15,Intelligence Artificielle
+14,Projet Économie Durable #14,64,Mathématiques,3536502.55,109774.17,Suspendu,2023-03-22,2026-01-08,3,Énergies Renouvelables
+15,Projet Intelligence Artificielle #15,55,Informatique,7041615.85,4367433.54,Terminé,2021-02-17,2023-03-21,15,Droit Numérique
+16,Projet Énergies Renouvelables #16,12,Droit,5011281.97,2724809.17,En cours,2021-07-20,2025-02-16,1,Santé Numérique
+17,Projet Droit Numérique #17,31,Chimie,6234282.98,2925621.19,Terminé,2020-03-19,2026-06-10,9,Économie Durable
+18,Projet Droit Numérique #18,13,Génie Civil,597792.53,76747.09,Suspendu,2019-05-22,2025-10-25,0,Biotechnologie
+19,Projet Intelligence Artificielle #19,60,Droit,3110040.91,1757328.48,Suspendu,2020-06-02,2026-04-14,5,Énergies Renouvelables
+20,Projet Intelligence Artificielle #20,67,Médecine,5165440.51,4660579.37,Terminé,2020-08-17,2026-05-16,5,Santé Numérique
+21,Projet Droit Numérique #21,55,Informatique,1541908.42,238681.55,En cours,2021-09-22,2024-05-25,1,Intelligence Artificielle
+22,Projet Intelligence Artificielle #22,50,Génie Civil,7869531.09,6349158.6,En cours,2020-09-11,2024-01-10,3,Matériaux Avancés
+23,Projet Droit Numérique #23,44,Informatique,8722873.09,5090405.44,Terminé,2023-07-14,2026-12-06,7,Énergies Renouvelables
+24,Projet Intelligence Artificielle #24,13,Génie Civil,2062116.15,272197.28,Suspendu,2021-06-16,2025-10-13,4,Santé Numérique
+25,Projet Énergies Renouvelables #25,56,Médecine,695107.25,365053.1,Suspendu,2021-05-07,2025-08-28,2,Intelligence Artificielle
+26,Projet Énergies Renouvelables #26,36,Génie Électrique,4644765.69,3260847.35,En cours,2020-06-22,2026-09-23,0,Santé Numérique
+27,Projet Intelligence Artificielle #27,61,Droit,4312606.24,3964468.73,En cours,2019-11-28,2023-06-26,0,Biotechnologie
+28,Projet Droit Numérique #28,26,Physique,4737970.12,4721484.08,Terminé,2019-05-17,2026-09-06,8,Biotechnologie
+29,Projet Biotechnologie #29,75,Mathématiques,4425929.79,2477045.0,En cours,2020-09-07,2023-09-30,1,Économie Durable
+30,Projet Réseaux & Télécoms #30,2,Physique,4032656.32,2057445.24,En cours,2022-04-14,2025-12-22,0,Intelligence Artificielle
+31,Projet Matériaux Avancés #31,39,Physique,8863654.13,1214868.32,En cours,2020-01-22,2026-09-21,3,Droit Numérique
+32,Projet Biotechnologie #32,62,Physique,5047976.36,499986.98,Terminé,2022-09-28,2023-09-18,2,Biotechnologie
+33,Projet Biotechnologie #33,9,Droit,5038039.78,4986988.96,En cours,2020-05-20,2026-07-07,4,Économie Durable
+34,Projet Économie Durable #34,47,Économie,9407281.22,7788999.69,Terminé,2019-03-29,2024-10-18,1,Économie Durable
+35,Projet Droit Numérique #35,4,Informatique,2329754.09,1692555.28,Terminé,2022-05-26,2024-04-05,12,Biotechnologie
+36,Projet Matériaux Avancés #36,62,Physique,6341509.87,5012758.05,Terminé,2022-05-11,2025-12-03,5,Réseaux & Télécoms
+37,Projet Énergies Renouvelables #37,64,Mathématiques,7844442.11,3394615.86,En cours,2022-02-24,2023-06-23,3,Biotechnologie
+38,Projet Réseaux & Télécoms #38,6,Chimie,4010450.72,1577179.3,Terminé,2023-09-09,2026-01-01,10,Santé Numérique
+39,Projet Biotechnologie #39,40,Médecine,8626099.58,4053506.71,Terminé,2021-08-19,2024-11-21,12,Énergies Renouvelables
+40,Projet Énergies Renouvelables #40,63,Physique,9764653.18,5202012.69,Suspendu,2020-05-30,2026-07-12,5,Réseaux & Télécoms
+41,Projet Santé Numérique #41,35,Économie,8810139.42,5237044.81,En cours,2020-05-05,2026-03-05,2,Matériaux Avancés
+42,Projet Réseaux & Télécoms #42,45,Génie Civil,9737236.49,1868055.14,Terminé,2020-06-24,2026-05-09,13,Économie Durable
+43,Projet Réseaux & Télécoms #43,25,Génie Électrique,7798983.51,6945387.85,En cours,2020-01-25,2026-11-08,5,Santé Numérique
+44,Projet Énergies Renouvelables #44,70,Économie,5752580.33,1176198.38,Terminé,2023-01-23,2024-08-19,5,Matériaux Avancés
+45,Projet Droit Numérique #45,27,Médecine,6182246.83,3916108.65,Terminé,2021-02-06,2024-05-18,5,Économie Durable
+46,Projet Biotechnologie #46,62,Physique,7311893.77,6818223.33,Terminé,2020-06-05,2026-05-26,10,Énergies Renouvelables
+47,Projet Intelligence Artificielle #47,33,Informatique,1682078.14,633406.74,Suspendu,2019-05-17,2024-01-22,3,Réseaux & Télécoms
+48,Projet Économie Durable #48,64,Mathématiques,4820225.38,4776138.41,Suspendu,2020-02-12,2024-06-28,2,Intelligence Artificielle
+49,Projet Économie Durable #49,55,Informatique,6467070.89,3166016.61,En cours,2021-03-03,2024-10-03,3,Énergies Renouvelables
+50,Projet Énergies Renouvelables #50,18,Économie,2220494.92,802342.38,En cours,2020-07-22,2023-08-09,0,Réseaux & Télécoms
+51,Projet Matériaux Avancés #51,17,Génie Civil,7946771.06,7356705.9,Suspendu,2019-03-23,2026-09-14,3,Intelligence Artificielle
+52,Projet Réseaux & Télécoms #52,2,Physique,1558604.39,1522501.29,Suspendu,2021-05-30,2024-05-07,2,Matériaux Avancés
+53,Projet Matériaux Avancés #53,29,Biologie,6373963.06,3637092.32,Terminé,2019-11-07,2023-02-17,11,Santé Numérique
+54,Projet Intelligence Artificielle #54,29,Biologie,2132502.18,2060849.49,Terminé,2019-11-25,2023-07-06,6,Réseaux & Télécoms
+55,Projet Matériaux Avancés #55,63,Physique,1683351.14,414429.19,Terminé,2021-07-30,2026-06-02,7,Biotechnologie
+56,Projet Réseaux & Télécoms #56,23,Physique,9217442.57,2576004.97,En cours,2021-06-10,2026-04-02,1,Économie Durable
+57,Projet Droit Numérique #57,58,Physique,2527184.21,253644.92,En cours,2021-06-25,2023-11-04,3,Économie Durable
+58,Projet Droit Numérique #58,79,Chimie,7631594.72,175729.6,Terminé,2021-06-13,2025-12-09,6,Santé Numérique
+59,Projet Matériaux Avancés #59,42,Biologie,696800.16,353667.43,Terminé,2021-02-02,2023-10-23,14,Énergies Renouvelables
+60,Projet Matériaux Avancés #60,77,Droit,8450927.62,5774336.68,En cours,2020-03-22,2024-10-05,3,Santé Numérique
