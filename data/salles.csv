@@ -1,0 +1,61 @@
+salle_id,nom_salle,capacite,type,batiment,disponible
+1,Salle 001,15,Salle Réunion,Bloc D,True
+2,Salle 002,20,Labo Sciences,Bloc D,False
+3,Salle 003,150,Amphithéâtre,Bloc D,True
+4,Salle 004,300,Amphithéâtre,Bloc B,True
+5,Salle 005,100,Amphithéâtre,Bloc C,True
+6,Salle 006,300,Amphithéâtre,Bloc C,True
+7,Salle 007,50,Salle TD,Bloc B,False
+8,Salle 008,200,Amphithéâtre,Bloc D,True
+9,Salle 009,50,Salle TD,Bloc D,True
+10,Salle 010,30,Labo Informatique,Bloc D,True
+11,Salle 011,20,Salle Réunion,Bloc C,True
+12,Salle 012,20,Labo Informatique,Bloc D,True
+13,Salle 013,50,Salle TD,Bloc D,True
+14,Salle 014,10,Salle Réunion,Bloc B,True
+15,Salle 015,15,Salle Réunion,Bloc Sciences,False
+16,Salle 016,200,Amphithéâtre,Bloc Sciences,True
+17,Salle 017,300,Amphithéâtre,Bloc D,True
+18,Salle 018,20,Labo Informatique,Bloc B,True
+19,Salle 019,30,Labo Informatique,Bloc C,True
+20,Salle 020,30,Labo Sciences,Bloc Sciences,True
+21,Salle 021,20,Labo Informatique,Bloc C,True
+22,Salle 022,25,Labo Sciences,Bloc B,True
+23,Salle 023,30,Labo Informatique,Bloc D,True
+24,Salle 024,30,Labo Sciences,Bloc C,True
+25,Salle 025,20,Labo Informatique,Bloc D,True
+26,Salle 026,40,Salle TD,Bloc C,False
+27,Salle 027,30,Labo Informatique,Bloc D,True
+28,Salle 028,30,Labo Sciences,Bloc C,True
+29,Salle 029,10,Salle Réunion,Bloc A,True
+30,Salle 030,50,Salle TD,Bloc A,True
+31,Salle 031,30,Labo Informatique,Bloc D,False
+32,Salle 032,15,Salle Réunion,Bloc B,True
+33,Salle 033,30,Salle TD,Bloc B,True
+34,Salle 034,10,Salle Réunion,Bloc A,True
+35,Salle 035,30,Salle TD,Bloc D,True
+36,Salle 036,20,Salle Réunion,Bloc D,True
+37,Salle 037,150,Amphithéâtre,Bloc Sciences,False
+38,Salle 038,200,Amphithéâtre,Bloc Sciences,True
+39,Salle 039,30,Labo Sciences,Bloc Sciences,True
+40,Salle 040,30,Labo Informatique,Bloc Sciences,True
+41,Salle 041,30,Labo Informatique,Bloc C,False
+42,Salle 042,300,Amphithéâtre,Bloc A,True
+43,Salle 043,20,Labo Sciences,Bloc C,True
+44,Salle 044,20,Salle Réunion,Bloc B,True
+45,Salle 045,40,Salle TD,Bloc C,True
+46,Salle 046,25,Labo Sciences,Bloc Sciences,True
+47,Salle 047,30,Labo Sciences,Bloc A,True
+48,Salle 048,100,Amphithéâtre,Bloc A,True
+49,Salle 049,20,Labo Sciences,Bloc C,True
+50,Salle 050,50,Salle TD,Bloc D,True
+51,Salle 051,30,Labo Informatique,Bloc D,True
+52,Salle 052,100,Amphithéâtre,Bloc A,True
+53,Salle 053,30,Labo Sciences,Bloc D,True
+54,Salle 054,30,Salle TD,Bloc A,True
+55,Salle 055,20,Labo Sciences,Bloc Sciences,True
+56,Salle 056,200,Amphithéâtre,Bloc B,True
+57,Salle 057,200,Amphithéâtre,Bloc A,True
+58,Salle 058,20,Salle Réunion,Bloc A,True
+59,Salle 059,30,Labo Informatique,Bloc Sciences,True
+60,Salle 060,20,Labo Informatique,Bloc C,False

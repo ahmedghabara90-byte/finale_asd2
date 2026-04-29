@@ -1,0 +1,201 @@
+finance_id,poste_budgetaire,montant,type,date,annee,departement,description
+1,Salaires Enseignants,1664594.42,Dépense,2024-12-25,2023,Informatique,Dépense - Salaires Enseignants
+2,Équipements Informatiques,4568748.9,Dépense,2020-04-05,2024,Génie Électrique,Dépense - Équipements Informatiques
+3,Subvention État,799281.17,Recette,2020-01-31,2022,Chimie,Recette - Subvention État
+4,Salaires Administratifs,570928.84,Dépense,2022-09-01,2023,Génie Électrique,Dépense - Salaires Administratifs
+5,Dons,680682.93,Recette,2023-05-20,2020,Biologie,Recette - Dons
+6,Bibliothèque,649711.07,Dépense,2023-09-06,2024,Génie Civil,Dépense - Bibliothèque
+7,Dons,2469080.53,Recette,2024-08-29,2024,Chimie,Recette - Dons
+8,Activités Étudiantes,657739.99,Dépense,2020-10-19,2021,Administration Centrale,Dépense - Activités Étudiantes
+9,Salaires Administratifs,3589167.66,Dépense,2021-08-01,2024,Mathématiques,Dépense - Salaires Administratifs
+10,Bibliothèque,931287.51,Dépense,2023-09-12,2022,Génie Civil,Dépense - Bibliothèque
+11,Travaux,3345098.25,Dépense,2022-11-30,2024,Médecine,Dépense - Travaux
+12,Subvention État,1646440.63,Recette,2022-02-06,2021,Médecine,Recette - Subvention État
+13,Salaires Enseignants,3742200.35,Dépense,2024-06-25,2023,Administration Centrale,Dépense - Salaires Enseignants
+14,Maintenance,4897857.79,Dépense,2020-01-30,2021,Administration Centrale,Dépense - Maintenance
+15,Maintenance,817807.17,Dépense,2021-10-22,2020,Médecine,Dépense - Maintenance
+16,Recherche Scientifique,946863.84,Dépense,2024-11-15,2024,Génie Électrique,Dépense - Recherche Scientifique
+17,Maintenance,2271436.04,Dépense,2021-06-22,2024,Économie,Dépense - Maintenance
+18,Bibliothèque,3280747.92,Dépense,2022-11-19,2022,Génie Civil,Dépense - Bibliothèque
+19,Contrats Recherche,1711505.14,Recette,2024-11-20,2023,Droit,Recette - Contrats Recherche
+20,Salaires Administratifs,3343383.3,Dépense,2021-12-02,2024,Biologie,Dépense - Salaires Administratifs
+21,Recherche Scientifique,2138307.45,Dépense,2020-02-22,2024,Physique,Dépense - Recherche Scientifique
+22,Travaux,4152088.99,Dépense,2020-09-03,2024,Biologie,Dépense - Travaux
+23,Recherche Scientifique,1542081.72,Dépense,2022-06-12,2024,Mathématiques,Dépense - Recherche Scientifique
+24,Subvention État,1993814.91,Recette,2024-12-18,2024,Chimie,Recette - Subvention État
+25,Maintenance,3881797.69,Dépense,2021-02-10,2022,Droit,Dépense - Maintenance
+26,Équipements Informatiques,2818786.19,Dépense,2022-12-22,2024,Informatique,Dépense - Équipements Informatiques
+27,Subvention État,3471536.79,Recette,2022-12-23,2021,Génie Civil,Recette - Subvention État
+28,Équipements Informatiques,3178187.63,Dépense,2024-10-25,2024,Chimie,Dépense - Équipements Informatiques
+29,Dons,4292893.03,Recette,2021-07-24,2020,Génie Électrique,Recette - Dons
+30,Activités Étudiantes,4860324.24,Dépense,2022-09-02,2023,Génie Civil,Dépense - Activités Étudiantes
+31,Bibliothèque,11764.53,Dépense,2021-05-29,2024,Administration Centrale,Dépense - Bibliothèque
+32,Formation Continue,2973984.81,Dépense,2020-05-16,2020,Génie Électrique,Dépense - Formation Continue
+33,Travaux,4113981.84,Dépense,2024-04-14,2021,Génie Électrique,Dépense - Travaux
+34,Dons,2961167.86,Recette,2021-05-24,2022,Mathématiques,Recette - Dons
+35,Bibliothèque,710797.28,Dépense,2022-04-02,2020,Médecine,Dépense - Bibliothèque
+36,Subvention État,2222472.96,Recette,2023-10-08,2022,Génie Civil,Recette - Subvention État
+37,Salaires Administratifs,2607895.2,Dépense,2022-12-09,2020,Administration Centrale,Dépense - Salaires Administratifs
+38,Maintenance,3305502.96,Dépense,2021-09-03,2020,Droit,Dépense - Maintenance
+39,Travaux,776846.27,Dépense,2024-12-07,2022,Biologie,Dépense - Travaux
+40,Dons,4191507.45,Recette,2021-06-07,2020,Administration Centrale,Recette - Dons
+41,Formation Continue,850595.49,Dépense,2023-12-24,2023,Biologie,Dépense - Formation Continue
+42,Salaires Administratifs,451979.05,Dépense,2024-02-07,2024,Médecine,Dépense - Salaires Administratifs
+43,Dons,4185178.49,Recette,2022-06-04,2023,Informatique,Recette - Dons
+44,Bibliothèque,4213201.75,Dépense,2024-02-09,2022,Biologie,Dépense - Bibliothèque
+45,Recherche Scientifique,2104030.34,Dépense,2024-09-08,2022,Génie Civil,Dépense - Recherche Scientifique
+46,Salaires Administratifs,3568347.14,Dépense,2022-09-21,2021,Médecine,Dépense - Salaires Administratifs
+47,Formation Continue,2174497.5,Dépense,2021-06-28,2020,Économie,Dépense - Formation Continue
+48,Formation Continue,1885353.48,Dépense,2022-11-28,2023,Informatique,Dépense - Formation Continue
+49,Formation Continue,4192646.19,Dépense,2023-08-09,2020,Médecine,Dépense - Formation Continue
+50,Maintenance,1809897.13,Dépense,2023-10-09,2024,Génie Électrique,Dépense - Maintenance
+51,Contrats Recherche,3238971.48,Recette,2022-06-20,2023,Médecine,Recette - Contrats Recherche
+52,Dons,4067671.75,Recette,2023-07-10,2023,Administration Centrale,Recette - Dons
+53,Subvention État,130480.67,Recette,2021-11-04,2020,Biologie,Recette - Subvention État
+54,Dons,4248656.12,Recette,2021-06-03,2022,Administration Centrale,Recette - Dons
+55,Maintenance,1390396.06,Dépense,2024-05-24,2020,Génie Civil,Dépense - Maintenance
+56,Bibliothèque,3845369.58,Dépense,2020-11-24,2021,Droit,Dépense - Bibliothèque
+57,Contrats Recherche,3706116.8,Recette,2024-03-22,2022,Physique,Recette - Contrats Recherche
+58,Contrats Recherche,1765505.46,Recette,2023-01-07,2021,Génie Civil,Recette - Contrats Recherche
+59,Frais d'inscription,3200864.17,Recette,2021-10-02,2024,Économie,Recette - Frais d'inscription
+60,Énergie,1018724.1,Dépense,2024-10-19,2023,Génie Civil,Dépense - Énergie
+61,Travaux,4479943.35,Dépense,2024-03-25,2021,Physique,Dépense - Travaux
+62,Salaires Administratifs,957050.87,Dépense,2021-09-27,2024,Administration Centrale,Dépense - Salaires Administratifs
+63,Activités Étudiantes,2695889.25,Dépense,2022-03-26,2024,Mathématiques,Dépense - Activités Étudiantes
+64,Salaires Administratifs,3561211.18,Dépense,2024-11-30,2023,Biologie,Dépense - Salaires Administratifs
+65,Recherche Scientifique,2668810.48,Dépense,2022-03-23,2021,Génie Électrique,Dépense - Recherche Scientifique
+66,Bibliothèque,3070965.94,Dépense,2020-06-17,2022,Chimie,Dépense - Bibliothèque
+67,Salaires Enseignants,1237058.93,Dépense,2020-11-13,2022,Informatique,Dépense - Salaires Enseignants
+68,Maintenance,1234305.17,Dépense,2021-04-07,2023,Administration Centrale,Dépense - Maintenance
+69,Frais d'inscription,1490997.74,Recette,2020-02-12,2024,Économie,Recette - Frais d'inscription
+70,Subvention État,2067494.59,Recette,2024-10-02,2024,Médecine,Recette - Subvention État
+71,Formation Continue,4444134.66,Dépense,2022-03-03,2022,Génie Civil,Dépense - Formation Continue
+72,Dons,1857440.22,Recette,2021-04-25,2022,Droit,Recette - Dons
+73,Équipements Informatiques,1615096.13,Dépense,2024-08-21,2021,Droit,Dépense - Équipements Informatiques
+74,Salaires Administratifs,4905245.01,Dépense,2024-05-25,2024,Économie,Dépense - Salaires Administratifs
+75,Salaires Administratifs,4038195.3,Dépense,2023-05-22,2021,Génie Civil,Dépense - Salaires Administratifs
+76,Activités Étudiantes,4107176.89,Dépense,2021-04-03,2023,Biologie,Dépense - Activités Étudiantes
+77,Salaires Enseignants,2306591.97,Dépense,2022-06-15,2023,Médecine,Dépense - Salaires Enseignants
+78,Équipements Informatiques,120354.76,Dépense,2022-07-07,2024,Administration Centrale,Dépense - Équipements Informatiques
+79,Recherche Scientifique,2388365.97,Dépense,2023-12-17,2021,Mathématiques,Dépense - Recherche Scientifique
+80,Salaires Administratifs,4774123.9,Dépense,2021-07-19,2024,Biologie,Dépense - Salaires Administratifs
+81,Dons,2159841.85,Recette,2024-04-14,2021,Génie Électrique,Recette - Dons
+82,Travaux,1556028.12,Dépense,2023-11-28,2022,Génie Civil,Dépense - Travaux
+83,Activités Étudiantes,4731876.26,Dépense,2020-10-22,2024,Administration Centrale,Dépense - Activités Étudiantes
+84,Salaires Enseignants,4854733.73,Dépense,2020-04-18,2022,Médecine,Dépense - Salaires Enseignants
+85,Salaires Administratifs,3073113.8,Dépense,2022-12-20,2023,Physique,Dépense - Salaires Administratifs
+86,Maintenance,4899111.94,Dépense,2024-05-03,2021,Physique,Dépense - Maintenance
+87,Travaux,3646048.92,Dépense,2021-11-10,2020,Mathématiques,Dépense - Travaux
+88,Dons,4026520.6,Recette,2022-02-19,2023,Physique,Recette - Dons
+89,Frais d'inscription,1562864.96,Recette,2020-12-29,2023,Biologie,Recette - Frais d'inscription
+90,Équipements Informatiques,1309922.78,Dépense,2021-02-14,2021,Génie Civil,Dépense - Équipements Informatiques
+91,Contrats Recherche,2264120.19,Recette,2020-07-11,2024,Biologie,Recette - Contrats Recherche
+92,Formation Continue,313895.44,Dépense,2023-02-14,2020,Administration Centrale,Dépense - Formation Continue
+93,Équipements Informatiques,18627.21,Dépense,2022-12-19,2020,Informatique,Dépense - Équipements Informatiques
+94,Bibliothèque,147991.26,Dépense,2023-03-09,2024,Génie Civil,Dépense - Bibliothèque
+95,Subvention État,3186043.98,Recette,2022-10-17,2021,Droit,Recette - Subvention État
+96,Recherche Scientifique,493859.25,Dépense,2023-10-31,2021,Médecine,Dépense - Recherche Scientifique
+97,Équipements Informatiques,4458269.46,Dépense,2023-12-17,2021,Droit,Dépense - Équipements Informatiques
+98,Travaux,161404.92,Dépense,2020-03-20,2024,Mathématiques,Dépense - Travaux
+99,Contrats Recherche,547796.87,Recette,2023-10-30,2021,Médecine,Recette - Contrats Recherche
+100,Salaires Administratifs,2493278.74,Dépense,2023-05-20,2021,Médecine,Dépense - Salaires Administratifs
+101,Dons,3922472.62,Recette,2020-08-26,2024,Mathématiques,Recette - Dons
+102,Recherche Scientifique,715493.07,Dépense,2024-08-01,2023,Chimie,Dépense - Recherche Scientifique
+103,Contrats Recherche,302534.68,Recette,2022-09-10,2024,Mathématiques,Recette - Contrats Recherche
+104,Contrats Recherche,4560216.46,Recette,2023-02-27,2024,Droit,Recette - Contrats Recherche
+105,Activités Étudiantes,3219560.55,Dépense,2021-08-01,2022,Physique,Dépense - Activités Étudiantes
+106,Maintenance,1471866.17,Dépense,2023-07-06,2023,Génie Électrique,Dépense - Maintenance
+107,Salaires Administratifs,2457422.06,Dépense,2022-10-03,2020,Génie Civil,Dépense - Salaires Administratifs
+108,Formation Continue,1950155.19,Dépense,2022-10-16,2022,Administration Centrale,Dépense - Formation Continue
+109,Activités Étudiantes,4157973.44,Dépense,2021-01-20,2020,Biologie,Dépense - Activités Étudiantes
+110,Subvention État,3208252.82,Recette,2024-02-22,2020,Droit,Recette - Subvention État
+111,Bibliothèque,1930657.94,Dépense,2021-12-21,2024,Informatique,Dépense - Bibliothèque
+112,Subvention État,2548640.46,Recette,2023-10-26,2020,Chimie,Recette - Subvention État
+113,Équipements Informatiques,4462856.82,Dépense,2023-12-30,2022,Mathématiques,Dépense - Équipements Informatiques
+114,Travaux,1041617.34,Dépense,2023-08-04,2024,Informatique,Dépense - Travaux
+115,Énergie,1038088.9,Dépense,2023-11-12,2020,Biologie,Dépense - Énergie
+116,Maintenance,3301375.02,Dépense,2024-08-29,2022,Physique,Dépense - Maintenance
+117,Contrats Recherche,4588742.64,Recette,2022-04-03,2020,Physique,Recette - Contrats Recherche
+118,Maintenance,3112601.1,Dépense,2021-06-12,2023,Administration Centrale,Dépense - Maintenance
+119,Bibliothèque,1032332.64,Dépense,2024-12-04,2022,Génie Électrique,Dépense - Bibliothèque
+120,Énergie,4119539.06,Dépense,2022-02-11,2022,Chimie,Dépense - Énergie
+121,Contrats Recherche,3004646.84,Recette,2023-07-07,2023,Informatique,Recette - Contrats Recherche
+122,Travaux,653152.35,Dépense,2023-11-13,2021,Mathématiques,Dépense - Travaux
+123,Salaires Administratifs,803029.93,Dépense,2024-06-08,2023,Mathématiques,Dépense - Salaires Administratifs
+124,Recherche Scientifique,845160.01,Dépense,2024-02-24,2022,Administration Centrale,Dépense - Recherche Scientifique
+125,Énergie,1431185.85,Dépense,2021-08-09,2022,Médecine,Dépense - Énergie
+126,Salaires Administratifs,1980582.16,Dépense,2024-12-18,2021,Mathématiques,Dépense - Salaires Administratifs
+127,Travaux,1011932.97,Dépense,2022-11-27,2020,Économie,Dépense - Travaux
+128,Salaires Administratifs,1150938.94,Dépense,2024-09-02,2023,Physique,Dépense - Salaires Administratifs
+129,Salaires Administratifs,1216341.71,Dépense,2023-06-14,2022,Économie,Dépense - Salaires Administratifs
+130,Travaux,2989037.37,Dépense,2020-03-25,2024,Chimie,Dépense - Travaux
+131,Frais d'inscription,2848318.74,Recette,2020-11-08,2022,Biologie,Recette - Frais d'inscription
+132,Dons,1011240.0,Recette,2023-08-12,2020,Génie Électrique,Recette - Dons
+133,Bibliothèque,2532917.04,Dépense,2021-04-06,2021,Administration Centrale,Dépense - Bibliothèque
+134,Travaux,136295.27,Dépense,2022-06-21,2020,Chimie,Dépense - Travaux
+135,Bibliothèque,2788697.13,Dépense,2020-10-20,2024,Génie Civil,Dépense - Bibliothèque
+136,Salaires Administratifs,2055521.6,Dépense,2022-12-30,2020,Médecine,Dépense - Salaires Administratifs
+137,Recherche Scientifique,1858157.01,Dépense,2020-10-20,2020,Administration Centrale,Dépense - Recherche Scientifique
+138,Énergie,27070.56,Dépense,2020-04-29,2023,Médecine,Dépense - Énergie
+139,Maintenance,3813259.49,Dépense,2020-03-13,2024,Droit,Dépense - Maintenance
+140,Travaux,4686682.57,Dépense,2023-08-13,2023,Biologie,Dépense - Travaux
+141,Énergie,2253859.33,Dépense,2024-03-12,2021,Administration Centrale,Dépense - Énergie
+142,Bibliothèque,1732279.81,Dépense,2023-07-27,2023,Économie,Dépense - Bibliothèque
+143,Dons,2686908.84,Recette,2022-01-07,2021,Physique,Recette - Dons
+144,Équipements Informatiques,4815568.05,Dépense,2022-03-06,2022,Physique,Dépense - Équipements Informatiques
+145,Salaires Enseignants,2164365.57,Dépense,2021-09-06,2021,Informatique,Dépense - Salaires Enseignants
+146,Activités Étudiantes,4259901.4,Dépense,2022-04-03,2021,Administration Centrale,Dépense - Activités Étudiantes
+147,Énergie,2111491.87,Dépense,2022-05-05,2023,Économie,Dépense - Énergie
+148,Énergie,2322950.6,Dépense,2021-11-22,2022,Administration Centrale,Dépense - Énergie
+149,Activités Étudiantes,1037516.25,Dépense,2021-03-20,2021,Médecine,Dépense - Activités Étudiantes
+150,Formation Continue,1823440.38,Dépense,2022-08-06,2024,Génie Électrique,Dépense - Formation Continue
+151,Bibliothèque,1075433.28,Dépense,2020-10-16,2023,Mathématiques,Dépense - Bibliothèque
+152,Travaux,1508598.17,Dépense,2024-09-01,2024,Génie Électrique,Dépense - Travaux
+153,Maintenance,1695038.93,Dépense,2024-12-27,2021,Administration Centrale,Dépense - Maintenance
+154,Activités Étudiantes,2164601.26,Dépense,2022-06-26,2020,Chimie,Dépense - Activités Étudiantes
+155,Équipements Informatiques,1373866.71,Dépense,2024-03-07,2024,Physique,Dépense - Équipements Informatiques
+156,Formation Continue,3911475.97,Dépense,2021-02-09,2021,Génie Électrique,Dépense - Formation Continue
+157,Maintenance,4341470.19,Dépense,2020-09-24,2023,Génie Civil,Dépense - Maintenance
+158,Formation Continue,2657634.67,Dépense,2023-07-10,2020,Administration Centrale,Dépense - Formation Continue
+159,Salaires Administratifs,437892.79,Dépense,2020-01-18,2020,Génie Civil,Dépense - Salaires Administratifs
+160,Contrats Recherche,1023005.28,Recette,2020-11-04,2021,Biologie,Recette - Contrats Recherche
+161,Contrats Recherche,2921408.12,Recette,2024-08-23,2023,Économie,Recette - Contrats Recherche
+162,Équipements Informatiques,1455807.83,Dépense,2020-07-26,2024,Physique,Dépense - Équipements Informatiques
+163,Subvention État,2081777.49,Recette,2022-12-26,2024,Génie Électrique,Recette - Subvention État
+164,Activités Étudiantes,3147125.63,Dépense,2023-12-04,2022,Chimie,Dépense - Activités Étudiantes
+165,Dons,494373.98,Recette,2020-03-21,2021,Génie Électrique,Recette - Dons
+166,Travaux,860585.21,Dépense,2020-02-10,2024,Génie Civil,Dépense - Travaux
+167,Subvention État,2242193.75,Recette,2020-02-10,2023,Administration Centrale,Recette - Subvention État
+168,Recherche Scientifique,4939198.34,Dépense,2024-12-20,2022,Mathématiques,Dépense - Recherche Scientifique
+169,Formation Continue,1507521.66,Dépense,2022-03-17,2021,Mathématiques,Dépense - Formation Continue
+170,Contrats Recherche,1468823.82,Recette,2024-06-11,2020,Génie Civil,Recette - Contrats Recherche
+171,Travaux,89618.12,Dépense,2024-12-29,2024,Génie Électrique,Dépense - Travaux
+172,Contrats Recherche,968195.5,Recette,2021-07-27,2024,Informatique,Recette - Contrats Recherche
+173,Équipements Informatiques,269535.24,Dépense,2021-05-04,2022,Biologie,Dépense - Équipements Informatiques
+174,Énergie,1694213.96,Dépense,2021-07-12,2023,Administration Centrale,Dépense - Énergie
+175,Activités Étudiantes,166555.3,Dépense,2024-11-20,2024,Informatique,Dépense - Activités Étudiantes
+176,Salaires Enseignants,1520525.24,Dépense,2021-02-12,2023,Génie Électrique,Dépense - Salaires Enseignants
+177,Bibliothèque,3487311.9,Dépense,2021-11-18,2022,Droit,Dépense - Bibliothèque
+178,Dons,3539329.79,Recette,2020-09-28,2022,Biologie,Recette - Dons
+179,Travaux,1415389.26,Dépense,2020-06-19,2023,Administration Centrale,Dépense - Travaux
+180,Recherche Scientifique,4308780.89,Dépense,2020-08-20,2020,Physique,Dépense - Recherche Scientifique
+181,Subvention État,381328.99,Recette,2022-02-03,2020,Physique,Recette - Subvention État
+182,Maintenance,3896594.62,Dépense,2024-11-03,2020,Informatique,Dépense - Maintenance
+183,Recherche Scientifique,4352096.38,Dépense,2023-06-18,2020,Physique,Dépense - Recherche Scientifique
+184,Travaux,3158704.56,Dépense,2021-11-08,2020,Médecine,Dépense - Travaux
+185,Équipements Informatiques,1005611.34,Dépense,2024-03-07,2020,Physique,Dépense - Équipements Informatiques
+186,Salaires Administratifs,29167.26,Dépense,2024-06-09,2021,Chimie,Dépense - Salaires Administratifs
+187,Salaires Administratifs,1940635.73,Dépense,2023-07-04,2024,Chimie,Dépense - Salaires Administratifs
+188,Maintenance,3544105.75,Dépense,2022-10-11,2024,Physique,Dépense - Maintenance
+189,Formation Continue,4326391.05,Dépense,2020-05-05,2023,Physique,Dépense - Formation Continue
+190,Salaires Administratifs,887496.05,Dépense,2021-02-08,2022,Physique,Dépense - Salaires Administratifs
+191,Subvention État,3502835.43,Recette,2023-12-10,2020,Chimie,Recette - Subvention État
+192,Recherche Scientifique,3783868.34,Dépense,2021-04-11,2021,Génie Électrique,Dépense - Recherche Scientifique
+193,Formation Continue,1490630.28,Dépense,2022-04-24,2024,Administration Centrale,Dépense - Formation Continue
+194,Énergie,1262239.5,Dépense,2021-12-07,2021,Droit,Dépense - Énergie
+195,Bibliothèque,1414431.2,Dépense,2020-11-26,2020,Informatique,Dépense - Bibliothèque
+196,Recherche Scientifique,4514440.38,Dépense,2020-05-03,2024,Génie Électrique,Dépense - Recherche Scientifique
+197,Travaux,69874.73,Dépense,2024-03-04,2020,Génie Civil,Dépense - Travaux
+198,Recherche Scientifique,3493399.13,Dépense,2023-05-25,2020,Médecine,Dépense - Recherche Scientifique
+199,Recherche Scientifique,2259426.88,Dépense,2024-02-29,2023,Génie Civil,Dépense - Recherche Scientifique
+200,Travaux,1574238.62,Dépense,2024-03-05,2021,Chimie,Dépense - Travaux

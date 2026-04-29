@@ -1,0 +1,501 @@
+etudiant_id,nom,filiere,annee_inscription,statut,date_naissance,email,sexe
+1,Sara Mansouri,Mathématiques,2020,Diplômé,1999-07-26,etudiant1@upes.dz,M
+2,Mohamed Benali,Droit,2020,Inscrit,1999-01-19,etudiant2@upes.dz,M
+3,Imane Boukhari,Chimie,2020,Inscrit,2000-06-21,etudiant3@upes.dz,F
+4,Ahmed Hadj,Médecine,2022,Diplômé,2002-09-28,etudiant4@upes.dz,F
+5,Meriem Meziane,Biologie,2021,Inscrit,1999-01-15,etudiant5@upes.dz,F
+6,Loubna Rahmani,Mathématiques,2022,Diplômé,1998-06-27,etudiant6@upes.dz,F
+7,Fatima Khelif,Droit,2020,Abandonné,2004-03-11,etudiant7@upes.dz,F
+8,Yacine Boumediene,Médecine,2022,Inscrit,2000-07-22,etudiant8@upes.dz,F
+9,Fatima Rahmani,Mathématiques,2021,Diplômé,2003-02-01,etudiant9@upes.dz,F
+10,Nadia Khelif,Physique,2022,Inscrit,2004-10-31,etudiant10@upes.dz,M
+11,Fatima Rahmani,Droit,2021,Inscrit,2004-03-31,etudiant11@upes.dz,M
+12,Mohamed Guerfi,Génie Civil,2020,Inscrit,2002-07-02,etudiant12@upes.dz,F
+13,Djamila Guerfi,Mathématiques,2021,Abandonné,2000-05-20,etudiant13@upes.dz,F
+14,Sofiane Mansouri,Génie Électrique,2023,Inscrit,2004-04-18,etudiant14@upes.dz,F
+15,Fatima Larbi,Médecine,2023,Diplômé,2000-06-17,etudiant15@upes.dz,M
+16,Mohamed Meziane,Droit,2023,Inscrit,1999-09-19,etudiant16@upes.dz,M
+17,Loubna Benmoussa,Génie Électrique,2020,Inscrit,2003-12-08,etudiant17@upes.dz,F
+18,Karim Ouali,Droit,2020,Diplômé,2000-12-28,etudiant18@upes.dz,F
+19,Omar Benali,Mathématiques,2022,Inscrit,2000-12-14,etudiant19@upes.dz,M
+20,Lina Ziani,Droit,2020,Diplômé,2004-10-30,etudiant20@upes.dz,M
+21,Imane Ziani,Physique,2022,Diplômé,1998-01-03,etudiant21@upes.dz,F
+22,Asma Tebbal,Économie,2020,Inscrit,2000-09-07,etudiant22@upes.dz,M
+23,Hamza Khelif,Chimie,2020,Inscrit,2003-12-22,etudiant23@upes.dz,M
+24,Bilal Rahmani,Physique,2023,Abandonné,2003-12-02,etudiant24@upes.dz,F
+25,Fatima Larbi,Chimie,2021,Diplômé,2002-11-30,etudiant25@upes.dz,F
+26,Meriem Benali,Mathématiques,2021,Inscrit,2004-08-06,etudiant26@upes.dz,M
+27,Mohamed Mansouri,Médecine,2021,Inscrit,1998-10-04,etudiant27@upes.dz,M
+28,Nadia Amrani,Génie Civil,2020,Inscrit,2000-05-27,etudiant28@upes.dz,M
+29,Hamza Boukhari,Médecine,2023,Inscrit,2000-02-19,etudiant29@upes.dz,M
+30,Rania Benmoussa,Mathématiques,2023,Inscrit,1998-08-10,etudiant30@upes.dz,M
+31,Karim Mansouri,Informatique,2023,Diplômé,2000-02-24,etudiant31@upes.dz,M
+32,Bilal Rahmani,Droit,2023,Inscrit,2003-03-10,etudiant32@upes.dz,M
+33,Imane Meziane,Mathématiques,2023,Diplômé,1998-07-27,etudiant33@upes.dz,M
+34,Hamza Amrani,Mathématiques,2021,Inscrit,2000-05-25,etudiant34@upes.dz,F
+35,Fatima Rahmani,Informatique,2021,Inscrit,2003-02-07,etudiant35@upes.dz,F
+36,Lina Boudjelal,Génie Électrique,2023,Inscrit,1998-08-28,etudiant36@upes.dz,M
+37,Hamza Ziani,Génie Civil,2020,Inscrit,2003-12-16,etudiant37@upes.dz,M
+38,Yacine Khelif,Informatique,2020,Diplômé,2000-08-21,etudiant38@upes.dz,F
+39,Mohamed Khelif,Mathématiques,2021,Inscrit,2002-09-14,etudiant39@upes.dz,F
+40,Meriem Mansouri,Biologie,2021,Diplômé,2000-12-23,etudiant40@upes.dz,F
+41,Yacine Benali,Physique,2022,Inscrit,2003-02-21,etudiant41@upes.dz,M
+42,Sofiane Larbi,Mathématiques,2021,Inscrit,1998-10-09,etudiant42@upes.dz,M
+43,Imane Tebbal,Génie Civil,2022,Inscrit,2004-11-10,etudiant43@upes.dz,M
+44,Karim Cherif,Droit,2022,Abandonné,2000-12-19,etudiant44@upes.dz,M
+45,Loubna Boudjelal,Mathématiques,2021,Inscrit,2001-11-05,etudiant45@upes.dz,M
+46,Mohamed Khelif,Biologie,2023,Inscrit,2002-10-01,etudiant46@upes.dz,F
+47,Sofiane Rahmani,Informatique,2020,Inscrit,1999-10-24,etudiant47@upes.dz,F
+48,Karim Khelif,Droit,2023,Inscrit,1999-09-03,etudiant48@upes.dz,M
+49,Mohamed Tebbal,Génie Civil,2021,Inscrit,2002-02-02,etudiant49@upes.dz,M
+50,Karim Larbi,Génie Civil,2021,Diplômé,2004-04-12,etudiant50@upes.dz,F
+51,Sara Hadj,Médecine,2021,Abandonné,1999-12-27,etudiant51@upes.dz,F
+52,Meriem Boukhari,Informatique,2021,Diplômé,2000-10-13,etudiant52@upes.dz,F
+53,Mohamed Amrani,Physique,2020,Inscrit,2000-06-30,etudiant53@upes.dz,M
+54,Sara Mansouri,Économie,2022,Inscrit,1998-04-07,etudiant54@upes.dz,M
+55,Yacine Rahmani,Génie Électrique,2022,Inscrit,2001-12-09,etudiant55@upes.dz,F
+56,Karim Rahmani,Droit,2022,Abandonné,2000-01-02,etudiant56@upes.dz,F
+57,Asma Guerfi,Informatique,2020,Inscrit,2002-11-23,etudiant57@upes.dz,M
+58,Rania Benali,Génie Électrique,2021,Inscrit,2003-10-31,etudiant58@upes.dz,M
+59,Meriem Guerfi,Génie Civil,2023,Inscrit,1999-05-26,etudiant59@upes.dz,F
+60,Meriem Saidi,Droit,2022,Diplômé,2001-04-26,etudiant60@upes.dz,M
+61,Fatima Hadj,Chimie,2023,Diplômé,2004-11-26,etudiant61@upes.dz,F
+62,Amine Boukhari,Génie Électrique,2020,Inscrit,2004-07-03,etudiant62@upes.dz,F
+63,Amine Ziani,Économie,2023,Inscrit,2003-04-23,etudiant63@upes.dz,M
+64,Loubna Guerfi,Mathématiques,2022,Inscrit,1999-01-18,etudiant64@upes.dz,M
+65,Sofiane Benali,Biologie,2021,Diplômé,1998-07-09,etudiant65@upes.dz,M
+66,Djamila Boudjelal,Économie,2020,Inscrit,2002-04-22,etudiant66@upes.dz,F
+67,Ahmed Meziane,Génie Électrique,2021,Inscrit,2002-10-08,etudiant67@upes.dz,M
+68,Sara Meziane,Physique,2023,Inscrit,2003-02-13,etudiant68@upes.dz,M
+69,Omar Ziani,Économie,2022,Abandonné,2002-10-14,etudiant69@upes.dz,F
+70,Sara Rahmani,Physique,2023,Inscrit,2003-11-06,etudiant70@upes.dz,F
+71,Lina Mansouri,Chimie,2022,Inscrit,2001-01-17,etudiant71@upes.dz,F
+72,Sara Saidi,Génie Civil,2020,Inscrit,1999-09-18,etudiant72@upes.dz,M
+73,Imane Benmoussa,Mathématiques,2023,Inscrit,2002-08-31,etudiant73@upes.dz,M
+74,Djamila Benali,Chimie,2023,Inscrit,2004-06-16,etudiant74@upes.dz,F
+75,Lina Saidi,Économie,2020,Abandonné,2002-09-13,etudiant75@upes.dz,M
+76,Hamza Benali,Économie,2021,Inscrit,2002-05-12,etudiant76@upes.dz,F
+77,Sofiane Ouali,Génie Électrique,2021,Diplômé,1998-04-21,etudiant77@upes.dz,F
+78,Rania Cherif,Médecine,2020,Inscrit,2003-03-07,etudiant78@upes.dz,M
+79,Amine Benmoussa,Informatique,2022,Inscrit,2001-08-31,etudiant79@upes.dz,F
+80,Rania Rahmani,Génie Électrique,2022,Diplômé,1998-12-02,etudiant80@upes.dz,F
+81,Asma Mansouri,Informatique,2020,Abandonné,1998-10-09,etudiant81@upes.dz,M
+82,Ahmed Cherif,Informatique,2021,Inscrit,2000-09-04,etudiant82@upes.dz,M
+83,Amine Benmoussa,Économie,2020,Inscrit,2000-11-15,etudiant83@upes.dz,F
+84,Bilal Tebbal,Physique,2020,Diplômé,1999-03-19,etudiant84@upes.dz,M
+85,Amine Khelif,Biologie,2023,Inscrit,2004-08-22,etudiant85@upes.dz,M
+86,Loubna Meziane,Mathématiques,2022,Diplômé,2004-05-07,etudiant86@upes.dz,M
+87,Yacine Ziani,Génie Civil,2023,Diplômé,2001-10-29,etudiant87@upes.dz,M
+88,Asma Benmoussa,Génie Électrique,2023,Inscrit,1999-09-19,etudiant88@upes.dz,F
+89,Imane Amrani,Physique,2022,Diplômé,2003-03-20,etudiant89@upes.dz,F
+90,Sara Khelif,Médecine,2022,Inscrit,2001-02-16,etudiant90@upes.dz,F
+91,Fatima Guerfi,Chimie,2023,Inscrit,1998-04-28,etudiant91@upes.dz,F
+92,Asma Rahmani,Génie Civil,2021,Inscrit,2001-10-26,etudiant92@upes.dz,F
+93,Walid Boudjelal,Médecine,2022,Inscrit,1998-12-17,etudiant93@upes.dz,M
+94,Sara Amrani,Génie Électrique,2023,Inscrit,2003-07-04,etudiant94@upes.dz,F
+95,Fatima Mansouri,Informatique,2020,Inscrit,2001-06-08,etudiant95@upes.dz,F
+96,Imane Guerfi,Économie,2022,Inscrit,2001-12-12,etudiant96@upes.dz,F
+97,Karim Boudjelal,Biologie,2022,Inscrit,2001-07-16,etudiant97@upes.dz,M
+98,Hamza Rahmani,Droit,2021,Inscrit,2004-08-11,etudiant98@upes.dz,F
+99,Asma Hadj,Mathématiques,2021,Inscrit,2001-05-23,etudiant99@upes.dz,M
+100,Mohamed Ouali,Droit,2021,Inscrit,2001-04-11,etudiant100@upes.dz,M
+101,Djamila Tebbal,Économie,2020,Diplômé,2003-04-07,etudiant101@upes.dz,F
+102,Mohamed Rahmani,Économie,2022,Inscrit,2003-05-11,etudiant102@upes.dz,M
+103,Djamila Boumediene,Mathématiques,2023,Inscrit,1999-09-14,etudiant103@upes.dz,M
+104,Sara Meziane,Médecine,2022,Inscrit,2004-04-04,etudiant104@upes.dz,F
+105,Fatima Benmoussa,Médecine,2021,Diplômé,2002-12-19,etudiant105@upes.dz,F
+106,Loubna Boumediene,Médecine,2023,Inscrit,2004-11-02,etudiant106@upes.dz,M
+107,Yacine Hadj,Chimie,2021,Inscrit,2000-09-09,etudiant107@upes.dz,M
+108,Rania Benmoussa,Droit,2020,Inscrit,2004-08-29,etudiant108@upes.dz,F
+109,Lina Benmoussa,Biologie,2020,Inscrit,1998-10-19,etudiant109@upes.dz,M
+110,Imane Mansouri,Biologie,2021,Inscrit,1999-09-03,etudiant110@upes.dz,F
+111,Lina Tebbal,Physique,2020,Inscrit,2002-12-04,etudiant111@upes.dz,M
+112,Nadia Ziani,Économie,2022,Diplômé,2004-01-21,etudiant112@upes.dz,F
+113,Rania Guerfi,Économie,2020,Inscrit,2004-10-08,etudiant113@upes.dz,F
+114,Djamila Benali,Informatique,2020,Inscrit,2001-01-08,etudiant114@upes.dz,M
+115,Omar Rahmani,Physique,2023,Inscrit,2000-01-14,etudiant115@upes.dz,F
+116,Rania Guerfi,Économie,2020,Inscrit,2001-08-08,etudiant116@upes.dz,M
+117,Hamza Tebbal,Physique,2022,Inscrit,2002-06-29,etudiant117@upes.dz,M
+118,Meriem Meziane,Économie,2020,Inscrit,2002-07-14,etudiant118@upes.dz,M
+119,Amine Ziani,Droit,2023,Inscrit,2002-01-21,etudiant119@upes.dz,F
+120,Imane Cherif,Économie,2020,Inscrit,2001-03-25,etudiant120@upes.dz,F
+121,Loubna Mansouri,Économie,2020,Inscrit,1999-10-11,etudiant121@upes.dz,F
+122,Yacine Mansouri,Droit,2020,Inscrit,1999-04-10,etudiant122@upes.dz,F
+123,Lina Ziani,Mathématiques,2021,Inscrit,2001-01-24,etudiant123@upes.dz,F
+124,Imane Cherif,Économie,2023,Inscrit,2002-04-21,etudiant124@upes.dz,M
+125,Nadia Boukhari,Médecine,2021,Diplômé,2001-10-24,etudiant125@upes.dz,F
+126,Djamila Amrani,Informatique,2022,Diplômé,1999-09-01,etudiant126@upes.dz,F
+127,Imane Ouali,Droit,2023,Inscrit,2002-03-26,etudiant127@upes.dz,F
+128,Sara Saidi,Génie Civil,2021,Abandonné,2000-08-14,etudiant128@upes.dz,F
+129,Fatima Saidi,Informatique,2022,Diplômé,1999-09-16,etudiant129@upes.dz,F
+130,Djamila Guerfi,Informatique,2021,Inscrit,1999-02-16,etudiant130@upes.dz,F
+131,Sofiane Boukhari,Mathématiques,2023,Inscrit,1999-09-25,etudiant131@upes.dz,M
+132,Fatima Khelif,Économie,2022,Inscrit,2001-09-07,etudiant132@upes.dz,F
+133,Mohamed Khelif,Génie Civil,2023,Diplômé,2000-08-19,etudiant133@upes.dz,F
+134,Karim Meziane,Chimie,2020,Inscrit,2002-12-23,etudiant134@upes.dz,M
+135,Mohamed Tebbal,Biologie,2020,Inscrit,2002-01-08,etudiant135@upes.dz,F
+136,Rania Hadj,Génie Électrique,2021,Inscrit,1999-11-28,etudiant136@upes.dz,M
+137,Sara Amrani,Mathématiques,2023,Diplômé,2004-07-16,etudiant137@upes.dz,M
+138,Omar Rahmani,Chimie,2023,Diplômé,1998-02-08,etudiant138@upes.dz,F
+139,Asma Tebbal,Biologie,2021,Inscrit,2002-10-04,etudiant139@upes.dz,F
+140,Fatima Amrani,Économie,2022,Inscrit,1999-03-13,etudiant140@upes.dz,M
+141,Lina Benali,Génie Électrique,2022,Inscrit,2002-06-10,etudiant141@upes.dz,F
+142,Hamza Tebbal,Informatique,2020,Abandonné,2000-07-31,etudiant142@upes.dz,F
+143,Sofiane Meziane,Chimie,2021,Diplômé,1998-06-11,etudiant143@upes.dz,F
+144,Sofiane Khelif,Économie,2020,Inscrit,2001-04-23,etudiant144@upes.dz,F
+145,Imane Larbi,Génie Électrique,2021,Inscrit,2003-12-15,etudiant145@upes.dz,F
+146,Hamza Tebbal,Physique,2022,Abandonné,2001-10-19,etudiant146@upes.dz,M
+147,Sara Saidi,Économie,2020,Inscrit,2004-04-01,etudiant147@upes.dz,F
+148,Imane Meziane,Mathématiques,2023,Inscrit,2003-02-06,etudiant148@upes.dz,F
+149,Asma Meziane,Biologie,2023,Diplômé,2000-08-15,etudiant149@upes.dz,F
+150,Sara Khelif,Informatique,2022,Abandonné,2003-03-17,etudiant150@upes.dz,F
+151,Mohamed Tebbal,Génie Électrique,2020,Inscrit,2003-07-11,etudiant151@upes.dz,M
+152,Sofiane Saidi,Mathématiques,2021,Diplômé,2003-02-02,etudiant152@upes.dz,F
+153,Sofiane Boukhari,Droit,2023,Inscrit,1999-02-10,etudiant153@upes.dz,F
+154,Nadia Boumediene,Médecine,2023,Abandonné,2002-02-26,etudiant154@upes.dz,M
+155,Asma Meziane,Économie,2023,Abandonné,2002-02-13,etudiant155@upes.dz,F
+156,Karim Benmoussa,Informatique,2023,Inscrit,1999-01-11,etudiant156@upes.dz,M
+157,Meriem Mansouri,Médecine,2020,Inscrit,1999-05-31,etudiant157@upes.dz,M
+158,Sara Guerfi,Mathématiques,2021,Inscrit,1999-08-28,etudiant158@upes.dz,M
+159,Imane Rahmani,Biologie,2021,Abandonné,1999-12-16,etudiant159@upes.dz,M
+160,Sara Guerfi,Informatique,2021,Inscrit,1998-03-06,etudiant160@upes.dz,M
+161,Rania Ziani,Biologie,2020,Inscrit,1999-04-11,etudiant161@upes.dz,M
+162,Walid Meziane,Économie,2023,Diplômé,2003-01-26,etudiant162@upes.dz,M
+163,Walid Tebbal,Médecine,2020,Diplômé,2003-02-20,etudiant163@upes.dz,M
+164,Rania Meziane,Informatique,2023,Diplômé,2003-07-02,etudiant164@upes.dz,F
+165,Sofiane Khelif,Mathématiques,2020,Inscrit,1999-06-01,etudiant165@upes.dz,F
+166,Loubna Ziani,Médecine,2022,Inscrit,2001-04-22,etudiant166@upes.dz,F
+167,Karim Ouali,Droit,2023,Inscrit,2000-05-30,etudiant167@upes.dz,F
+168,Omar Saidi,Économie,2021,Inscrit,2002-08-31,etudiant168@upes.dz,M
+169,Nadia Larbi,Génie Civil,2023,Inscrit,1999-09-18,etudiant169@upes.dz,F
+170,Yacine Boukhari,Mathématiques,2020,Diplômé,1999-01-31,etudiant170@upes.dz,F
+171,Imane Ouali,Physique,2020,Inscrit,2001-09-12,etudiant171@upes.dz,M
+172,Rania Boumediene,Génie Électrique,2022,Diplômé,2001-03-24,etudiant172@upes.dz,F
+173,Amine Cherif,Génie Civil,2020,Inscrit,2003-05-30,etudiant173@upes.dz,M
+174,Asma Meziane,Mathématiques,2022,Diplômé,2001-02-15,etudiant174@upes.dz,M
+175,Nadia Benali,Génie Électrique,2020,Diplômé,2000-01-09,etudiant175@upes.dz,F
+176,Bilal Cherif,Biologie,2022,Inscrit,2004-05-08,etudiant176@upes.dz,F
+177,Ahmed Khelif,Mathématiques,2021,Diplômé,2003-12-13,etudiant177@upes.dz,M
+178,Bilal Larbi,Génie Électrique,2023,Inscrit,2001-06-30,etudiant178@upes.dz,F
+179,Sofiane Hadj,Médecine,2020,Diplômé,2004-12-05,etudiant179@upes.dz,M
+180,Rania Amrani,Mathématiques,2022,Inscrit,2004-10-22,etudiant180@upes.dz,F
+181,Walid Meziane,Génie Électrique,2022,Inscrit,2001-11-14,etudiant181@upes.dz,F
+182,Djamila Amrani,Mathématiques,2022,Diplômé,2003-11-29,etudiant182@upes.dz,F
+183,Loubna Boumediene,Informatique,2021,Inscrit,1998-02-01,etudiant183@upes.dz,M
+184,Nadia Tebbal,Biologie,2021,Diplômé,2001-09-05,etudiant184@upes.dz,M
+185,Bilal Cherif,Informatique,2023,Diplômé,2002-04-07,etudiant185@upes.dz,M
+186,Mohamed Boukhari,Droit,2022,Inscrit,1998-03-18,etudiant186@upes.dz,F
+187,Djamila Saidi,Mathématiques,2022,Inscrit,2002-09-07,etudiant187@upes.dz,F
+188,Meriem Hadj,Mathématiques,2023,Inscrit,2004-12-06,etudiant188@upes.dz,F
+189,Karim Mansouri,Génie Civil,2020,Inscrit,2002-11-20,etudiant189@upes.dz,F
+190,Lina Guerfi,Droit,2020,Inscrit,2000-06-26,etudiant190@upes.dz,F
+191,Karim Ziani,Physique,2020,Inscrit,2003-09-20,etudiant191@upes.dz,M
+192,Sofiane Mansouri,Génie Civil,2022,Diplômé,1999-02-26,etudiant192@upes.dz,M
+193,Sofiane Khelif,Biologie,2021,Inscrit,1999-12-27,etudiant193@upes.dz,F
+194,Djamila Guerfi,Économie,2023,Diplômé,2001-07-18,etudiant194@upes.dz,M
+195,Lina Rahmani,Économie,2020,Inscrit,2004-08-19,etudiant195@upes.dz,M
+196,Omar Boumediene,Génie Civil,2020,Inscrit,1998-08-22,etudiant196@upes.dz,F
+197,Yacine Ziani,Biologie,2020,Diplômé,2002-04-24,etudiant197@upes.dz,F
+198,Djamila Boudjelal,Médecine,2020,Inscrit,2001-08-09,etudiant198@upes.dz,F
+199,Omar Meziane,Droit,2021,Abandonné,2001-11-07,etudiant199@upes.dz,M
+200,Omar Benmoussa,Droit,2021,Inscrit,2003-11-17,etudiant200@upes.dz,M
+201,Fatima Boukhari,Génie Civil,2022,Abandonné,2001-10-17,etudiant201@upes.dz,M
+202,Imane Saidi,Génie Civil,2020,Inscrit,2001-03-09,etudiant202@upes.dz,F
+203,Djamila Cherif,Médecine,2021,Inscrit,2001-12-03,etudiant203@upes.dz,F
+204,Yacine Tebbal,Génie Électrique,2021,Inscrit,2004-04-08,etudiant204@upes.dz,F
+205,Walid Khelif,Génie Civil,2021,Diplômé,2002-10-01,etudiant205@upes.dz,F
+206,Amine Guerfi,Informatique,2022,Inscrit,2003-06-15,etudiant206@upes.dz,M
+207,Lina Meziane,Chimie,2021,Inscrit,2003-09-11,etudiant207@upes.dz,M
+208,Sofiane Hadj,Génie Civil,2021,Inscrit,2000-01-11,etudiant208@upes.dz,M
+209,Sara Benmoussa,Économie,2020,Inscrit,2004-11-05,etudiant209@upes.dz,F
+210,Lina Amrani,Économie,2021,Inscrit,2000-03-05,etudiant210@upes.dz,F
+211,Lina Saidi,Médecine,2023,Inscrit,2003-08-22,etudiant211@upes.dz,F
+212,Sofiane Rahmani,Physique,2021,Diplômé,1998-08-02,etudiant212@upes.dz,F
+213,Walid Meziane,Génie Civil,2020,Diplômé,2001-03-13,etudiant213@upes.dz,M
+214,Walid Cherif,Physique,2022,Inscrit,2002-11-27,etudiant214@upes.dz,M
+215,Ahmed Boukhari,Chimie,2023,Diplômé,1998-08-07,etudiant215@upes.dz,F
+216,Yacine Larbi,Droit,2022,Inscrit,2000-07-08,etudiant216@upes.dz,M
+217,Meriem Cherif,Génie Civil,2020,Diplômé,1999-07-18,etudiant217@upes.dz,M
+218,Sofiane Amrani,Biologie,2023,Diplômé,2003-01-12,etudiant218@upes.dz,M
+219,Sofiane Ouali,Mathématiques,2020,Inscrit,2004-10-29,etudiant219@upes.dz,F
+220,Karim Boumediene,Mathématiques,2022,Inscrit,2000-09-03,etudiant220@upes.dz,F
+221,Hamza Ouali,Médecine,2023,Inscrit,1998-03-09,etudiant221@upes.dz,M
+222,Loubna Larbi,Physique,2022,Inscrit,2000-09-12,etudiant222@upes.dz,F
+223,Asma Khelif,Physique,2020,Inscrit,2003-11-25,etudiant223@upes.dz,M
+224,Fatima Larbi,Génie Électrique,2023,Inscrit,2000-11-04,etudiant224@upes.dz,M
+225,Karim Guerfi,Génie Civil,2020,Inscrit,1999-07-01,etudiant225@upes.dz,M
+226,Bilal Benmoussa,Génie Civil,2022,Diplômé,2003-05-15,etudiant226@upes.dz,M
+227,Omar Boumediene,Physique,2020,Diplômé,2001-04-16,etudiant227@upes.dz,M
+228,Meriem Tebbal,Informatique,2021,Diplômé,2003-10-13,etudiant228@upes.dz,F
+229,Amine Tebbal,Droit,2023,Inscrit,2002-01-02,etudiant229@upes.dz,M
+230,Asma Boukhari,Génie Civil,2022,Inscrit,2002-06-27,etudiant230@upes.dz,F
+231,Hamza Amrani,Génie Électrique,2022,Abandonné,2002-02-13,etudiant231@upes.dz,F
+232,Loubna Hadj,Mathématiques,2023,Inscrit,2004-02-13,etudiant232@upes.dz,F
+233,Lina Tebbal,Génie Civil,2020,Inscrit,2003-01-01,etudiant233@upes.dz,F
+234,Mohamed Larbi,Physique,2023,Inscrit,2004-11-23,etudiant234@upes.dz,F
+235,Fatima Larbi,Biologie,2020,Inscrit,2003-10-03,etudiant235@upes.dz,M
+236,Omar Boumediene,Informatique,2021,Diplômé,1999-06-02,etudiant236@upes.dz,M
+237,Djamila Boumediene,Chimie,2022,Inscrit,2004-10-14,etudiant237@upes.dz,M
+238,Yacine Cherif,Économie,2022,Inscrit,2003-12-09,etudiant238@upes.dz,F
+239,Sara Meziane,Génie Électrique,2022,Diplômé,1998-04-17,etudiant239@upes.dz,M
+240,Karim Rahmani,Économie,2023,Abandonné,2000-12-02,etudiant240@upes.dz,F
+241,Hamza Boudjelal,Chimie,2022,Diplômé,1999-05-18,etudiant241@upes.dz,M
+242,Omar Khelif,Mathématiques,2023,Inscrit,2001-08-02,etudiant242@upes.dz,F
+243,Bilal Hadj,Mathématiques,2022,Diplômé,2002-01-20,etudiant243@upes.dz,M
+244,Sara Amrani,Mathématiques,2021,Diplômé,1998-04-18,etudiant244@upes.dz,F
+245,Imane Cherif,Droit,2022,Inscrit,2004-11-11,etudiant245@upes.dz,M
+246,Hamza Ziani,Mathématiques,2022,Inscrit,2002-08-10,etudiant246@upes.dz,F
+247,Meriem Khelif,Médecine,2020,Inscrit,2003-01-18,etudiant247@upes.dz,F
+248,Imane Hadj,Droit,2022,Inscrit,1999-06-13,etudiant248@upes.dz,F
+249,Walid Cherif,Droit,2020,Diplômé,2001-05-30,etudiant249@upes.dz,M
+250,Sara Larbi,Physique,2022,Abandonné,2003-10-27,etudiant250@upes.dz,F
+251,Imane Rahmani,Mathématiques,2022,Inscrit,1999-05-28,etudiant251@upes.dz,F
+252,Bilal Cherif,Médecine,2020,Inscrit,1999-12-03,etudiant252@upes.dz,F
+253,Ahmed Khelif,Médecine,2020,Diplômé,1998-07-06,etudiant253@upes.dz,F
+254,Ahmed Amrani,Chimie,2023,Diplômé,2004-02-13,etudiant254@upes.dz,F
+255,Fatima Tebbal,Biologie,2023,Inscrit,2003-02-01,etudiant255@upes.dz,M
+256,Hamza Benmoussa,Informatique,2021,Inscrit,2000-04-15,etudiant256@upes.dz,F
+257,Meriem Larbi,Médecine,2021,Inscrit,2002-06-22,etudiant257@upes.dz,M
+258,Omar Meziane,Génie Civil,2020,Inscrit,2000-12-31,etudiant258@upes.dz,F
+259,Lina Saidi,Chimie,2021,Inscrit,2004-11-25,etudiant259@upes.dz,F
+260,Djamila Guerfi,Chimie,2021,Diplômé,2000-02-17,etudiant260@upes.dz,M
+261,Lina Amrani,Économie,2023,Inscrit,1998-04-05,etudiant261@upes.dz,M
+262,Amine Larbi,Génie Électrique,2023,Abandonné,1998-07-19,etudiant262@upes.dz,M
+263,Hamza Tebbal,Biologie,2023,Inscrit,2004-01-08,etudiant263@upes.dz,M
+264,Nadia Larbi,Mathématiques,2023,Inscrit,2002-07-10,etudiant264@upes.dz,F
+265,Imane Boudjelal,Informatique,2023,Inscrit,2002-01-24,etudiant265@upes.dz,F
+266,Imane Rahmani,Mathématiques,2023,Inscrit,2004-12-27,etudiant266@upes.dz,M
+267,Meriem Ouali,Physique,2020,Inscrit,2002-02-06,etudiant267@upes.dz,M
+268,Mohamed Boumediene,Chimie,2023,Inscrit,1999-07-16,etudiant268@upes.dz,F
+269,Walid Cherif,Économie,2023,Inscrit,2001-09-05,etudiant269@upes.dz,F
+270,Lina Guerfi,Physique,2023,Abandonné,2003-09-09,etudiant270@upes.dz,F
+271,Ahmed Larbi,Médecine,2022,Inscrit,2001-09-18,etudiant271@upes.dz,M
+272,Ahmed Amrani,Génie Électrique,2022,Diplômé,2000-12-23,etudiant272@upes.dz,M
+273,Loubna Saidi,Informatique,2023,Inscrit,1999-08-29,etudiant273@upes.dz,M
+274,Omar Guerfi,Informatique,2020,Inscrit,2002-09-12,etudiant274@upes.dz,M
+275,Loubna Amrani,Génie Électrique,2021,Inscrit,1998-09-13,etudiant275@upes.dz,M
+276,Hamza Ziani,Droit,2021,Inscrit,2002-03-24,etudiant276@upes.dz,F
+277,Meriem Ouali,Physique,2023,Abandonné,2001-12-22,etudiant277@upes.dz,F
+278,Sara Rahmani,Médecine,2023,Inscrit,2004-04-04,etudiant278@upes.dz,F
+279,Amine Amrani,Chimie,2022,Diplômé,2001-07-22,etudiant279@upes.dz,F
+280,Djamila Ouali,Génie Civil,2022,Inscrit,2002-04-05,etudiant280@upes.dz,F
+281,Lina Khelif,Génie Civil,2021,Inscrit,2001-11-19,etudiant281@upes.dz,F
+282,Imane Rahmani,Biologie,2023,Inscrit,2004-04-21,etudiant282@upes.dz,F
+283,Djamila Mansouri,Physique,2020,Diplômé,2000-09-20,etudiant283@upes.dz,M
+284,Mohamed Meziane,Droit,2021,Diplômé,2002-08-20,etudiant284@upes.dz,F
+285,Sofiane Benali,Économie,2020,Diplômé,2004-03-04,etudiant285@upes.dz,M
+286,Amine Tebbal,Génie Électrique,2023,Inscrit,2001-08-08,etudiant286@upes.dz,F
+287,Sara Ouali,Informatique,2020,Diplômé,1998-06-02,etudiant287@upes.dz,M
+288,Mohamed Saidi,Génie Électrique,2021,Abandonné,2003-07-23,etudiant288@upes.dz,M
+289,Djamila Meziane,Biologie,2020,Inscrit,2001-10-04,etudiant289@upes.dz,F
+290,Sofiane Ziani,Économie,2023,Diplômé,2003-04-02,etudiant290@upes.dz,F
+291,Omar Rahmani,Chimie,2020,Inscrit,2000-02-02,etudiant291@upes.dz,M
+292,Amine Hadj,Génie Civil,2022,Inscrit,2004-11-07,etudiant292@upes.dz,F
+293,Karim Hadj,Génie Électrique,2022,Inscrit,1999-07-30,etudiant293@upes.dz,F
+294,Fatima Mansouri,Génie Civil,2021,Inscrit,2003-01-04,etudiant294@upes.dz,F
+295,Djamila Benali,Génie Civil,2022,Inscrit,2000-12-07,etudiant295@upes.dz,F
+296,Omar Tebbal,Chimie,2020,Diplômé,1999-10-17,etudiant296@upes.dz,F
+297,Lina Larbi,Droit,2022,Diplômé,2004-11-22,etudiant297@upes.dz,M
+298,Omar Larbi,Chimie,2021,Inscrit,2002-08-31,etudiant298@upes.dz,F
+299,Loubna Khelif,Droit,2021,Diplômé,2003-11-23,etudiant299@upes.dz,F
+300,Djamila Meziane,Droit,2022,Inscrit,1998-09-10,etudiant300@upes.dz,M
+301,Walid Benmoussa,Médecine,2021,Inscrit,1999-04-22,etudiant301@upes.dz,M
+302,Walid Benmoussa,Médecine,2023,Inscrit,1998-08-16,etudiant302@upes.dz,F
+303,Mohamed Ouali,Physique,2023,Inscrit,2003-03-09,etudiant303@upes.dz,F
+304,Ahmed Boudjelal,Informatique,2023,Inscrit,2004-06-26,etudiant304@upes.dz,M
+305,Yacine Ouali,Informatique,2023,Inscrit,1998-09-04,etudiant305@upes.dz,M
+306,Bilal Cherif,Économie,2020,Inscrit,2002-09-18,etudiant306@upes.dz,F
+307,Fatima Saidi,Génie Électrique,2023,Diplômé,1998-11-25,etudiant307@upes.dz,M
+308,Imane Saidi,Génie Civil,2020,Inscrit,2003-12-07,etudiant308@upes.dz,M
+309,Lina Benmoussa,Chimie,2020,Diplômé,2004-02-09,etudiant309@upes.dz,F
+310,Sara Benmoussa,Droit,2023,Diplômé,2001-11-18,etudiant310@upes.dz,M
+311,Karim Boumediene,Biologie,2021,Abandonné,2002-09-14,etudiant311@upes.dz,M
+312,Loubna Boumediene,Chimie,2021,Inscrit,2003-01-03,etudiant312@upes.dz,M
+313,Sara Ouali,Chimie,2020,Inscrit,2000-06-08,etudiant313@upes.dz,M
+314,Djamila Guerfi,Physique,2022,Inscrit,2004-06-23,etudiant314@upes.dz,F
+315,Walid Mansouri,Chimie,2022,Diplômé,2002-08-21,etudiant315@upes.dz,F
+316,Djamila Hadj,Biologie,2020,Inscrit,2002-10-16,etudiant316@upes.dz,F
+317,Fatima Ziani,Informatique,2022,Abandonné,2001-07-29,etudiant317@upes.dz,F
+318,Bilal Ouali,Génie Électrique,2021,Inscrit,2003-04-24,etudiant318@upes.dz,M
+319,Sofiane Benmoussa,Chimie,2022,Diplômé,1998-08-25,etudiant319@upes.dz,F
+320,Nadia Boudjelal,Génie Électrique,2021,Inscrit,2001-09-14,etudiant320@upes.dz,M
+321,Amine Boumediene,Économie,2022,Inscrit,2001-01-04,etudiant321@upes.dz,F
+322,Amine Ouali,Médecine,2020,Diplômé,2000-06-07,etudiant322@upes.dz,F
+323,Ahmed Boudjelal,Chimie,2022,Inscrit,2000-02-18,etudiant323@upes.dz,M
+324,Amine Saidi,Économie,2021,Diplômé,2000-09-07,etudiant324@upes.dz,F
+325,Asma Tebbal,Biologie,2023,Inscrit,2000-12-07,etudiant325@upes.dz,F
+326,Hamza Guerfi,Droit,2023,Inscrit,2000-04-12,etudiant326@upes.dz,F
+327,Sara Cherif,Génie Civil,2023,Inscrit,1998-03-08,etudiant327@upes.dz,F
+328,Amine Guerfi,Droit,2023,Inscrit,2000-07-31,etudiant328@upes.dz,F
+329,Meriem Rahmani,Médecine,2021,Inscrit,2003-06-25,etudiant329@upes.dz,F
+330,Asma Hadj,Économie,2021,Diplômé,1999-07-28,etudiant330@upes.dz,F
+331,Yacine Boumediene,Physique,2020,Inscrit,1998-01-27,etudiant331@upes.dz,F
+332,Sofiane Benali,Physique,2021,Inscrit,2000-06-14,etudiant332@upes.dz,F
+333,Loubna Amrani,Génie Civil,2020,Diplômé,2003-06-22,etudiant333@upes.dz,M
+334,Walid Rahmani,Informatique,2023,Inscrit,2004-01-04,etudiant334@upes.dz,F
+335,Bilal Meziane,Informatique,2023,Diplômé,1999-01-30,etudiant335@upes.dz,M
+336,Nadia Larbi,Chimie,2021,Diplômé,2000-12-30,etudiant336@upes.dz,F
+337,Omar Mansouri,Mathématiques,2022,Abandonné,2000-07-14,etudiant337@upes.dz,F
+338,Fatima Saidi,Mathématiques,2020,Inscrit,2004-03-13,etudiant338@upes.dz,F
+339,Yacine Amrani,Informatique,2020,Diplômé,2002-11-13,etudiant339@upes.dz,F
+340,Mohamed Mansouri,Médecine,2020,Diplômé,2000-05-15,etudiant340@upes.dz,F
+341,Nadia Ouali,Biologie,2020,Abandonné,2004-04-27,etudiant341@upes.dz,M
+342,Amine Cherif,Physique,2022,Inscrit,2002-06-20,etudiant342@upes.dz,M
+343,Djamila Saidi,Biologie,2021,Inscrit,2004-01-24,etudiant343@upes.dz,F
+344,Yacine Ziani,Génie Électrique,2021,Diplômé,2001-11-17,etudiant344@upes.dz,M
+345,Yacine Guerfi,Mathématiques,2023,Inscrit,2004-10-14,etudiant345@upes.dz,F
+346,Omar Amrani,Génie Civil,2020,Diplômé,2000-07-23,etudiant346@upes.dz,F
+347,Djamila Saidi,Droit,2023,Inscrit,1998-12-18,etudiant347@upes.dz,F
+348,Sofiane Saidi,Chimie,2020,Inscrit,1999-09-24,etudiant348@upes.dz,F
+349,Ahmed Tebbal,Génie Civil,2022,Inscrit,2002-12-27,etudiant349@upes.dz,F
+350,Bilal Boukhari,Biologie,2020,Inscrit,2003-01-13,etudiant350@upes.dz,F
+351,Imane Khelif,Mathématiques,2020,Inscrit,2004-09-11,etudiant351@upes.dz,F
+352,Fatima Khelif,Génie Électrique,2020,Inscrit,2004-04-10,etudiant352@upes.dz,M
+353,Bilal Cherif,Médecine,2021,Diplômé,2001-01-06,etudiant353@upes.dz,F
+354,Bilal Boukhari,Biologie,2023,Inscrit,2001-02-04,etudiant354@upes.dz,F
+355,Asma Rahmani,Biologie,2023,Diplômé,2000-10-07,etudiant355@upes.dz,F
+356,Sofiane Tebbal,Médecine,2021,Inscrit,1998-01-28,etudiant356@upes.dz,F
+357,Meriem Benmoussa,Génie Civil,2023,Diplômé,2001-10-03,etudiant357@upes.dz,F
+358,Loubna Boudjelal,Médecine,2021,Inscrit,2003-05-17,etudiant358@upes.dz,F
+359,Lina Amrani,Physique,2023,Abandonné,2004-06-16,etudiant359@upes.dz,M
+360,Fatima Larbi,Génie Civil,2023,Inscrit,1999-04-12,etudiant360@upes.dz,M
+361,Imane Benali,Médecine,2021,Diplômé,2003-03-06,etudiant361@upes.dz,M
+362,Yacine Boukhari,Économie,2022,Diplômé,2003-08-08,etudiant362@upes.dz,M
+363,Sofiane Boukhari,Biologie,2021,Inscrit,2002-03-25,etudiant363@upes.dz,M
+364,Imane Ziani,Économie,2023,Inscrit,2002-09-10,etudiant364@upes.dz,M
+365,Sara Larbi,Génie Civil,2020,Inscrit,1999-11-13,etudiant365@upes.dz,M
+366,Meriem Boukhari,Médecine,2023,Abandonné,1999-03-10,etudiant366@upes.dz,M
+367,Walid Ouali,Mathématiques,2022,Inscrit,2004-07-05,etudiant367@upes.dz,M
+368,Djamila Ziani,Économie,2022,Inscrit,1999-09-10,etudiant368@upes.dz,F
+369,Rania Khelif,Informatique,2023,Inscrit,1999-04-21,etudiant369@upes.dz,M
+370,Amine Ziani,Génie Civil,2022,Inscrit,2003-06-02,etudiant370@upes.dz,F
+371,Omar Guerfi,Économie,2020,Inscrit,1998-10-03,etudiant371@upes.dz,F
+372,Meriem Meziane,Informatique,2020,Inscrit,1999-11-05,etudiant372@upes.dz,M
+373,Meriem Ouali,Droit,2021,Inscrit,2002-10-13,etudiant373@upes.dz,F
+374,Bilal Boukhari,Chimie,2023,Diplômé,2002-06-09,etudiant374@upes.dz,M
+375,Rania Saidi,Médecine,2021,Inscrit,1998-01-19,etudiant375@upes.dz,M
+376,Yacine Meziane,Chimie,2022,Diplômé,2004-01-09,etudiant376@upes.dz,M
+377,Karim Rahmani,Génie Civil,2022,Inscrit,2003-06-28,etudiant377@upes.dz,F
+378,Djamila Meziane,Médecine,2023,Diplômé,2001-11-26,etudiant378@upes.dz,F
+379,Lina Khelif,Économie,2021,Diplômé,1999-07-03,etudiant379@upes.dz,F
+380,Bilal Larbi,Mathématiques,2021,Inscrit,1999-08-03,etudiant380@upes.dz,F
+381,Rania Hadj,Génie Électrique,2021,Inscrit,2003-06-17,etudiant381@upes.dz,M
+382,Sofiane Hadj,Droit,2021,Inscrit,2001-07-12,etudiant382@upes.dz,F
+383,Ahmed Amrani,Médecine,2020,Diplômé,1999-07-14,etudiant383@upes.dz,M
+384,Hamza Boukhari,Génie Électrique,2023,Inscrit,2002-12-24,etudiant384@upes.dz,F
+385,Sara Tebbal,Physique,2020,Inscrit,1998-05-14,etudiant385@upes.dz,F
+386,Omar Amrani,Chimie,2022,Inscrit,2004-03-01,etudiant386@upes.dz,M
+387,Imane Larbi,Médecine,2020,Inscrit,2004-01-30,etudiant387@upes.dz,M
+388,Karim Mansouri,Économie,2021,Abandonné,2001-05-04,etudiant388@upes.dz,M
+389,Yacine Benmoussa,Économie,2022,Inscrit,1999-04-26,etudiant389@upes.dz,M
+390,Loubna Boukhari,Chimie,2022,Diplômé,1999-11-11,etudiant390@upes.dz,M
+391,Djamila Larbi,Chimie,2021,Diplômé,2003-12-21,etudiant391@upes.dz,F
+392,Lina Tebbal,Médecine,2021,Inscrit,2004-06-03,etudiant392@upes.dz,F
+393,Rania Boumediene,Droit,2020,Inscrit,2001-02-09,etudiant393@upes.dz,M
+394,Meriem Mansouri,Physique,2021,Inscrit,2002-05-28,etudiant394@upes.dz,F
+395,Fatima Benmoussa,Physique,2022,Diplômé,1998-11-06,etudiant395@upes.dz,M
+396,Asma Benmoussa,Génie Électrique,2022,Diplômé,2003-06-23,etudiant396@upes.dz,F
+397,Yacine Benmoussa,Médecine,2020,Diplômé,2002-01-07,etudiant397@upes.dz,M
+398,Rania Boudjelal,Droit,2023,Inscrit,2003-07-20,etudiant398@upes.dz,F
+399,Djamila Cherif,Génie Civil,2022,Inscrit,2004-05-07,etudiant399@upes.dz,F
+400,Omar Benali,Génie Civil,2020,Inscrit,1999-05-24,etudiant400@upes.dz,M
+401,Rania Boudjelal,Économie,2023,Inscrit,1999-06-25,etudiant401@upes.dz,F
+402,Asma Rahmani,Physique,2022,Inscrit,1998-12-04,etudiant402@upes.dz,F
+403,Lina Mansouri,Physique,2020,Inscrit,2002-10-25,etudiant403@upes.dz,M
+404,Yacine Cherif,Mathématiques,2020,Inscrit,2004-08-28,etudiant404@upes.dz,M
+405,Meriem Meziane,Droit,2023,Inscrit,2002-09-26,etudiant405@upes.dz,M
+406,Yacine Meziane,Économie,2020,Inscrit,1999-02-27,etudiant406@upes.dz,F
+407,Sofiane Cherif,Génie Civil,2022,Inscrit,1998-10-08,etudiant407@upes.dz,M
+408,Amine Cherif,Médecine,2021,Inscrit,2002-08-14,etudiant408@upes.dz,F
+409,Sofiane Meziane,Chimie,2020,Diplômé,2004-08-11,etudiant409@upes.dz,F
+410,Sofiane Mansouri,Génie Civil,2023,Inscrit,2001-02-08,etudiant410@upes.dz,M
+411,Ahmed Tebbal,Chimie,2022,Diplômé,2000-04-21,etudiant411@upes.dz,M
+412,Sara Amrani,Génie Électrique,2022,Diplômé,2002-04-30,etudiant412@upes.dz,M
+413,Yacine Ziani,Chimie,2023,Diplômé,1998-02-19,etudiant413@upes.dz,F
+414,Djamila Boukhari,Génie Civil,2021,Inscrit,2002-02-05,etudiant414@upes.dz,M
+415,Yacine Benali,Économie,2020,Inscrit,2000-12-09,etudiant415@upes.dz,M
+416,Fatima Ziani,Informatique,2020,Abandonné,2001-03-19,etudiant416@upes.dz,F
+417,Imane Ouali,Génie Électrique,2023,Inscrit,2004-11-28,etudiant417@upes.dz,M
+418,Walid Boudjelal,Biologie,2020,Inscrit,1999-09-29,etudiant418@upes.dz,F
+419,Rania Mansouri,Génie Électrique,2020,Inscrit,1998-08-26,etudiant419@upes.dz,M
+420,Loubna Boumediene,Mathématiques,2023,Inscrit,2001-06-20,etudiant420@upes.dz,M
+421,Ahmed Hadj,Mathématiques,2020,Diplômé,2003-07-27,etudiant421@upes.dz,F
+422,Sofiane Rahmani,Droit,2022,Inscrit,1999-04-29,etudiant422@upes.dz,M
+423,Yacine Rahmani,Génie Civil,2023,Inscrit,2004-06-19,etudiant423@upes.dz,M
+424,Mohamed Amrani,Économie,2023,Inscrit,2004-05-10,etudiant424@upes.dz,M
+425,Karim Meziane,Génie Civil,2021,Inscrit,2000-07-24,etudiant425@upes.dz,M
+426,Hamza Larbi,Informatique,2020,Inscrit,2002-04-18,etudiant426@upes.dz,M
+427,Rania Mansouri,Physique,2020,Inscrit,2001-08-11,etudiant427@upes.dz,M
+428,Yacine Larbi,Génie Électrique,2022,Inscrit,1999-05-05,etudiant428@upes.dz,M
+429,Mohamed Saidi,Physique,2021,Diplômé,1998-10-10,etudiant429@upes.dz,F
+430,Imane Benmoussa,Biologie,2022,Inscrit,1998-02-02,etudiant430@upes.dz,F
+431,Lina Mansouri,Chimie,2022,Inscrit,2003-03-16,etudiant431@upes.dz,F
+432,Amine Ouali,Médecine,2023,Abandonné,2000-10-01,etudiant432@upes.dz,M
+433,Imane Larbi,Informatique,2023,Inscrit,1998-02-09,etudiant433@upes.dz,F
+434,Lina Meziane,Informatique,2023,Diplômé,2000-04-20,etudiant434@upes.dz,M
+435,Sofiane Rahmani,Génie Électrique,2023,Abandonné,1999-01-17,etudiant435@upes.dz,M
+436,Asma Benmoussa,Chimie,2023,Diplômé,1998-12-14,etudiant436@upes.dz,M
+437,Fatima Khelif,Droit,2021,Diplômé,2004-08-21,etudiant437@upes.dz,M
+438,Nadia Guerfi,Génie Électrique,2021,Inscrit,2002-05-29,etudiant438@upes.dz,F
+439,Yacine Boudjelal,Génie Civil,2023,Inscrit,1999-07-12,etudiant439@upes.dz,M
+440,Omar Guerfi,Physique,2020,Inscrit,2002-07-24,etudiant440@upes.dz,M
+441,Amine Benmoussa,Droit,2022,Abandonné,2001-06-16,etudiant441@upes.dz,F
+442,Lina Boumediene,Biologie,2020,Inscrit,2000-05-30,etudiant442@upes.dz,F
+443,Asma Saidi,Physique,2020,Diplômé,2003-10-05,etudiant443@upes.dz,M
+444,Bilal Benali,Biologie,2022,Diplômé,2002-07-15,etudiant444@upes.dz,F
+445,Karim Cherif,Droit,2021,Inscrit,1999-05-13,etudiant445@upes.dz,M
+446,Fatima Larbi,Informatique,2021,Inscrit,1998-12-11,etudiant446@upes.dz,F
+447,Amine Benmoussa,Mathématiques,2020,Abandonné,1999-06-12,etudiant447@upes.dz,M
+448,Omar Boumediene,Génie Civil,2020,Inscrit,1999-11-20,etudiant448@upes.dz,F
+449,Rania Hadj,Génie Électrique,2023,Inscrit,2001-12-20,etudiant449@upes.dz,M
+450,Sofiane Boumediene,Physique,2022,Inscrit,2004-11-20,etudiant450@upes.dz,M
+451,Imane Amrani,Biologie,2023,Inscrit,1998-09-07,etudiant451@upes.dz,M
+452,Amine Ziani,Biologie,2023,Inscrit,2000-10-17,etudiant452@upes.dz,M
+453,Hamza Larbi,Génie Électrique,2022,Inscrit,2004-05-05,etudiant453@upes.dz,F
+454,Meriem Mansouri,Génie Électrique,2022,Inscrit,1998-05-01,etudiant454@upes.dz,F
+455,Djamila Mansouri,Informatique,2023,Inscrit,1999-10-16,etudiant455@upes.dz,M
+456,Mohamed Mansouri,Chimie,2021,Inscrit,2004-06-16,etudiant456@upes.dz,F
+457,Djamila Guerfi,Génie Civil,2021,Inscrit,2002-01-09,etudiant457@upes.dz,M
+458,Amine Amrani,Génie Civil,2021,Inscrit,2004-01-30,etudiant458@upes.dz,F
+459,Mohamed Mansouri,Physique,2023,Inscrit,2004-09-30,etudiant459@upes.dz,M
+460,Loubna Boudjelal,Informatique,2023,Inscrit,1999-06-19,etudiant460@upes.dz,F
+461,Sofiane Cherif,Physique,2022,Inscrit,1999-03-31,etudiant461@upes.dz,F
+462,Fatima Meziane,Mathématiques,2022,Diplômé,2001-10-10,etudiant462@upes.dz,F
+463,Rania Amrani,Génie Civil,2021,Abandonné,2001-07-23,etudiant463@upes.dz,M
+464,Djamila Hadj,Droit,2022,Inscrit,2002-03-30,etudiant464@upes.dz,F
+465,Ahmed Saidi,Biologie,2021,Inscrit,2004-05-13,etudiant465@upes.dz,M
+466,Loubna Mansouri,Physique,2022,Abandonné,2004-05-05,etudiant466@upes.dz,M
+467,Yacine Mansouri,Économie,2021,Inscrit,2001-11-21,etudiant467@upes.dz,F
+468,Meriem Benmoussa,Physique,2020,Diplômé,1998-02-16,etudiant468@upes.dz,F
+469,Asma Rahmani,Chimie,2021,Diplômé,1999-03-19,etudiant469@upes.dz,M
+470,Rania Hadj,Informatique,2023,Inscrit,2002-08-23,etudiant470@upes.dz,F
+471,Karim Amrani,Génie Électrique,2022,Inscrit,2004-06-25,etudiant471@upes.dz,M
+472,Mohamed Tebbal,Physique,2023,Inscrit,1998-03-24,etudiant472@upes.dz,F
+473,Bilal Saidi,Biologie,2020,Inscrit,1999-10-22,etudiant473@upes.dz,M
+474,Loubna Amrani,Droit,2020,Inscrit,1998-05-07,etudiant474@upes.dz,F
+475,Karim Guerfi,Physique,2023,Inscrit,2000-04-21,etudiant475@upes.dz,M
+476,Lina Mansouri,Génie Électrique,2022,Diplômé,1999-01-28,etudiant476@upes.dz,M
+477,Asma Benali,Génie Électrique,2023,Inscrit,2002-10-18,etudiant477@upes.dz,M
+478,Ahmed Boudjelal,Biologie,2023,Inscrit,1999-12-01,etudiant478@upes.dz,F
+479,Lina Saidi,Mathématiques,2023,Diplômé,2003-04-13,etudiant479@upes.dz,F
+480,Fatima Hadj,Biologie,2020,Diplômé,2002-02-28,etudiant480@upes.dz,F
+481,Nadia Benmoussa,Génie Civil,2021,Inscrit,2003-03-20,etudiant481@upes.dz,F
+482,Sofiane Meziane,Chimie,2022,Inscrit,1998-12-18,etudiant482@upes.dz,F
+483,Djamila Mansouri,Droit,2023,Abandonné,2004-03-17,etudiant483@upes.dz,M
+484,Hamza Mansouri,Génie Électrique,2023,Abandonné,2003-05-05,etudiant484@upes.dz,F
+485,Mohamed Ziani,Mathématiques,2023,Abandonné,2004-05-28,etudiant485@upes.dz,M
+486,Bilal Boudjelal,Mathématiques,2023,Inscrit,2000-02-29,etudiant486@upes.dz,M
+487,Rania Boudjelal,Informatique,2023,Inscrit,1999-08-29,etudiant487@upes.dz,F
+488,Imane Saidi,Génie Civil,2020,Inscrit,2004-03-11,etudiant488@upes.dz,F
+489,Ahmed Ziani,Biologie,2023,Abandonné,2002-09-15,etudiant489@upes.dz,M
+490,Djamila Meziane,Génie Électrique,2021,Inscrit,1999-03-09,etudiant490@upes.dz,M
+491,Nadia Saidi,Biologie,2022,Diplômé,2003-06-12,etudiant491@upes.dz,F
+492,Sofiane Saidi,Informatique,2021,Inscrit,1998-06-08,etudiant492@upes.dz,F
+493,Hamza Rahmani,Génie Civil,2021,Inscrit,2002-03-06,etudiant493@upes.dz,M
+494,Hamza Meziane,Génie Civil,2022,Inscrit,2000-07-22,etudiant494@upes.dz,M
+495,Meriem Rahmani,Biologie,2023,Diplômé,2002-09-04,etudiant495@upes.dz,M
+496,Rania Amrani,Chimie,2023,Inscrit,2003-10-17,etudiant496@upes.dz,F
+497,Walid Saidi,Informatique,2021,Inscrit,1999-07-10,etudiant497@upes.dz,M
+498,Amine Boumediene,Physique,2021,Diplômé,2000-10-18,etudiant498@upes.dz,M
+499,Amine Rahmani,Économie,2020,Abandonné,2002-02-17,etudiant499@upes.dz,F
+500,Karim Benali,Droit,2023,Diplômé,2000-09-17,etudiant500@upes.dz,F
