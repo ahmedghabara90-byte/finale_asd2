@@ -121,8 +121,7 @@ onMounted(async () => {
 
     // Finances
     const fData = financeRes.data
-    const totalRecettes = fData.filter((r) => r.type === 'Recette').reduce((s, r) => s + r.total_recettes, 0) ||
-      fData.reduce((s, r) => s + parseFloat(r.total_recettes || 0), 0)
+    const totalRecettes = fData.reduce((s, r) => s + parseFloat(r.total_recettes || 0), 0)
     const totalDepenses = fData.reduce((s, r) => s + parseFloat(r.total_depenses || 0), 0)
     financeChart.value = {
       labels: ['Recettes', 'Dépenses'],

@@ -62,7 +62,7 @@ def refresh_materialized_views(engine):
     ]
     with engine.begin() as conn:
         for view in views:
-            conn.execute(text(f"REFRESH MATERIALIZED VIEW CONCURRENTLY {view}"))
+            conn.execute(text(f"REFRESH MATERIALIZED VIEW {view}"))
             logger.info("Vue rafraîchie : %s", view)
 
 
